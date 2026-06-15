@@ -433,7 +433,7 @@ Lorsqu'un axe de relation atteint le nivau 5 (son maximum), le MJ peut estimer q
 
 \cleardoublepage
 
-# Créatures surnaturelles
+# Humains et créatures surnaturelles
 
 Chaque créature surnaturelle possède ses propres règles spéciales, peut développer ses propres pouvoirs particuliers, et vient avec un risque non négligeable de perte de contrôle. Ce risque est géré par une résistance surnaturelle : la maîtrise de soi.
 
@@ -458,6 +458,10 @@ En attendant, le joueur qui a perdu le contrôle de son personnage est invité �
 ### Regagner le contrôle
 
 Le personnage joueur qui a perdu le contrôle ne peut le regagner seul : il devra être aidé par ses camarades et cela fera l'objet d'un épisode à part entière. Si les camarades du personnage joueurs hors de contrôle ne se pressent pas pour le sauver, alors tirez de nouveau au sort à la fin de chaque épisode et voyez qui sera agressé cette fois. Ses compagnons finiront bien par s'activer !
+
+## L'humain comme ancre émotionnelle
+
+Une fois par scène, un personnage humain peut intervenir auprès d'un de ses camarades surnaturel qui échoue à un jet de maîtrise de soi. Se faisant, en lui parlant et en tentant de se faire entendre, il permet au personnage ayant échoué à son jet de maîtrise de soi de retenter le test (cela n'ajoute pas de case de stress surnaturel supplémentaire). On ne peut se faire aider pour retenter un jet de maîtrise de soi qu'une seule fois par scène.
 
 ## La malédiction du loup-garou
 
