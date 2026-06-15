@@ -220,9 +220,9 @@ Votre personnage débute le jeu avec 3 spécialités. Une spécialité est un do
 
 Chaque personnage parle sa langue natale. Chaque langage supplémentaire doit être acquise en tant que spécialité.
 
-## Les ressources
+## Le niveau de vie
 
-Les ressources disponibles pour le personnage sont généralement inférieures d'un niveau au niveau de vie de ses parents. Pour connaître le niveau de vie de ses parents, basez-vous sur le cadre familial décidé lors de la première étape de la création de votre personnage. Si vous n'avez aucune idée du niveau de vie des parents de la famille de votre personnage, vous pouvez laisser les dés décider.
+Le niveau de vie du personnage est généralement inférieur d'un niveau au niveau de vie de ses parents. Pour connaître le niveau de vie de ses parents, basez-vous sur le cadre familial décidé lors de la première étape de la création de votre personnage. Si vous n'avez aucune idée du niveau de vie des parents de la famille de votre personnage, vous pouvez laisser les dés décider.
 
 | 1d100 | Niveau de vie |
 | --- | --- |
@@ -283,7 +283,15 @@ Tout au long d'un scénario, les personnages risquent de cumuler le **stress phy
 
 Certains échecs aux résistances physiques ou mentales laissent des séquelles que nous appelons traumas. Un trauma est généralement subi lors de l'échec d'un test de résistance, si le MJ le juge approprié. Chaque trauma impose un malus de **-10 aux tests de compétence**, en dehors des tests de résistance. Les traumas physiques et mentaux ne disparaissent qu'à chaque nouveau scénario, avec l'accord du MJ.
 
-# Matériel et équipement
+## L'expérience
+
+A la fin d’une séance, le MJ peut accorder de 1 à 5 coches d’expérience en fonction des actions des personnages et de la qualité de l'interprétation. Les joueurs doivent alors cocher autant de cases en forme de losange ◇ comme on en trouve au niveau des **compétences**, des **spécialités,** ou encore des **résistances**.
+
+A la fin d’un scénario, tous les losanges cochés donnent droit à un test de progression. Pour les **compétences**, **résistances** et **pouvoirs personnels**, si le joueur obtient un résultat **strictement supérieur** à la valeur actuelle, celle-ci progresse du résultat d'1d6. Si le résultat est inférieur ou égal, celle-ci progresse tout de même mais d'un point seulement.
+
+Il est également possible d’obtenir une nouvelle **spécialité**. Dans ce cas, la valeur à tester est égale au nombre de spécialités possédées multipliées par 15. Le joueur doit obtenir un résultat strictement supérieur à cette valeur, et s’il réussit, alors il peut noter sa nouvelle spécialité sur sa fiche.
+
+# Biens et équipements
 
 L'utilisation d'un matériel approprié pour réaliser une tâche ou un test peut apporter des bonus qui dépendent du type d'équipement. Il est donc toujours intéressant d'avoir de l'équipement sur soi. En règle générale, un équipement apporte un bonus de +10 à une compétence ou a une résistance lorsqu'il est utilisé. On distingue les équipements généraux des armes et des protections.
 
@@ -294,7 +302,7 @@ L'utilisation d'un matériel approprié pour réaliser une tâche ou un test peu
 
 \cleardoublepage
 
-# Les ressources
+## Les ressources
 
 Le niveau de vie du personnages dépend de son métier et de ses revenus réguliers, et permet principalement de juger si l'obtention d'un bien est possible ou non. Si un bien nécessite un niveau de ressource supérieur à celui du personnage, il ne peut pas l'acquérir sans faire appel à ses économies.
 
@@ -312,14 +320,6 @@ Les cases d'économies représentent les ressources que le personnage a pu mettr
 ### Les dettes
 
 Lorsqu'un personnage a besoin d'obtenir une case d'économies, il peut contracter une dette. Pour chaque case d'économie gagnée, le personnage doit cocher une case de dette. Les dettes doivent être remboursées, soit via la dépense d'économies, soit en nature, en fonction de l'usurier. En général, tarder à rembourser une dette peut poser de gros problèmes au personnage.
-
-## L'expérience
-
-A la fin d’une séance, le MJ peut accorder de 1 à 5 coches d’expérience en fonction des actions des personnages et de la qualité de l'interprétation. Les joueurs doivent alors cocher autant de cases en forme de losange ◇ comme on en trouve au niveau des **compétences**, des **spécialités,** ou encore des **résistances**.
-
-A la fin d’un scénario, tous les losanges cochés donnent droit à un test de progression. Pour les **compétences**, **résistances** et **pouvoirs personnels**, si le joueur obtient un résultat **strictement supérieur** à la valeur actuelle, celle-ci progresse du résultat d'1d6. Si le résultat est inférieur ou égal, celle-ci progresse tout de même mais d'un point seulement.
-
-Il est également possible d’obtenir une nouvelle **spécialité**. Dans ce cas, la valeur à tester est égale au nombre de spécialités possédées multipliées par 15. Le joueur doit obtenir un résultat strictement supérieur à cette valeur, et s’il réussit, alors il peut noter sa nouvelle spécialité sur sa fiche.
 
 \cleardoublepage
 
