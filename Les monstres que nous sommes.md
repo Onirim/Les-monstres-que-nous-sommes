@@ -323,9 +323,9 @@ Lorsqu'un personnage a besoin d'obtenir une case d'économies, il peut contracte
 
 \cleardoublepage
 
-# Faire vivre l'environnement
+# L'environnement académique
 
-Dans votre série, la vie au lycée ou à l'université est un élément aussi important pour le personnage que ses aventures surnaturelles, cela vaut donc le coup de suivre son évolution, sans entrer dans trop de détails. Nous suivrons donc trois indicateurs : les **résultats**, la **popularité** et la**sérénité**. Lors de la création du personnage, les résultats sont égaux au score de savoir du personnage, la popularité est égale à sa valeur de bagou et son score de divertissement est égal à sa résistance mentale.
+Dans votre série, la vie au lycée ou à l'université est un élément aussi important pour le personnage que ses aventures surnaturelles, cela vaut donc le coup de suivre son évolution, sans entrer dans trop de détails. Nous suivrons donc trois indicateurs : les **résultats**, la **popularité** et la **sérénité**. Lors de la création du personnage, les résultats sont égaux au score de savoir du personnage, la popularité est égale à sa valeur de bagou et son score de divertissement est égal à sa résistance mentale.
 
 ## Résultats
 
@@ -386,9 +386,15 @@ Chaque début de scénario, on choisit où l'on a mis ses efforts durant la pér
 - Pour ne pas perdre en **popularité**, il faut réussir un test de bagou ou d'une compétence relative à la pratique parascolaire.
 - Pour ne pas perdre en **sérénité**, il faut réussir un test de résistance mentale.
 
-## Relations suivies
+\cleardoublepage
 
-**Les monstres que nous sommes** met en scène des adolescents aux prises avec leurs hormones et de jeunes adultes en pleine découvertes, c'est donc tout naturellement qu'une attention particulière doit être portée à leurs relations avec les autres. Il existe deux types de relations : les **relations suivies** et les **relations subies**. Lorsqu'un PJ rencontre un PNJ qu'il juge important, il peut l'ajouter à ses relations suivies. Le MJ quant à lui peut imposer la relation suivie avec un PNJ que le PJ a rencontré en tant que relation subie : une relation généralement négative, gênante ou toxique dont le PJ ne peut pas se débarrasser aisément. Chaque lien possède trois axes : l'**amitié**, le **désir**et l'**admiration**. Lorsqu'un nouveau PNJ est ajouté dans une relation suivie, le MJ doit secrètement définir quels sont les **affinités;**entre le PNJ et le PJ. Il peut s'agir d'une affinité d'amitié, d'attirance ou d'admiration (un seul des axes, deux, voir même les trois !). La relation ne pourra progresser que pour les axes où il existe une affinité. La version négative de l'amitié est l'**hostilité**. Dans le cas d'un personnage hostile, le désir devient généralement toxique et l'admiration se transforme en jalousie.
+# Relations suivies
+
+**Les monstres que nous sommes** met en scène des adolescents aux prises avec leurs hormones et de jeunes adultes en pleine découvertes, c'est donc tout naturellement qu'une attention particulière doit être portée à leurs relations avec les autres. Il existe deux types de relations : les **relations suivies** et les **relations subies**. Lorsqu'un PJ rencontre un PNJ qu'il juge important, il peut l'ajouter à ses relations suivies. Le MJ quant à lui peut imposer la relation suivie avec un PNJ que le PJ a rencontré en tant que relation subie : une relation généralement négative, gênante ou toxique dont le PJ ne peut pas se débarrasser aisément. 
+
+## Les axes de relation
+
+Chaque lien possède trois axes : l'**amitié**, le **désir**et l'**admiration**. Lorsqu'un nouveau PNJ est ajouté dans une relation suivie, le MJ doit secrètement définir quels sont les **affinités;**entre le PNJ et le PJ. Il peut s'agir d'une affinité d'amitié, d'attirance ou d'admiration (un seul des axes, deux, voir même les trois !). La relation ne pourra progresser que pour les axes où il existe une affinité. La version négative de l'amitié est l'**hostilité**. Dans le cas d'un personnage hostile, le désir devient généralement toxique et l'admiration se transforme en jalousie.
 
 ### Amitié
 
