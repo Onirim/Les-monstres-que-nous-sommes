@@ -87,7 +87,7 @@ La création de l'historique des personnages permet de mieux les définir et de 
 
 ### Adolescence
 
-> Entre 15 et 21 ans, ce sont les années d'études et de construction de soi. C'est durant cette période que les vous découvrez votre principale difficulté personnelle. Quel est-elle ? Inspirez-vous librement de la table ci-dessous ou laissez le hasard vous guider.
+> Entre 15 et 21 ans, ce sont les années d'études et de construction de soi. C'est durant cette période que vous découvrez votre principale difficulté personnelle. Quel est-elle ? Inspirez-vous librement de la table ci-dessous ou laissez le hasard vous guider.
 
 | 1d10 | Difficulté personnelle |
 | --- | --------- |
@@ -108,7 +108,7 @@ Les personnages joueurs de votre série sont tous étudiants : soit au lycée, s
 
 ### Cursus académique
 
-> Que vous soyez au lycée ou à l'université, avez du choisir un cursus pour vos cours de spécialité. Vous pouvez vous inspirer de la table ci-après ou tirer sur cette table via 1d10.
+> Que vous soyez au lycée ou à l'université, vous avez du choisir un cursus pour vos cours de spécialité. Vous pouvez vous inspirer de la table ci-après.
 
 | 1d10 | Cursus | Exemple de cours |
 | --- | ------- | -------------- |
