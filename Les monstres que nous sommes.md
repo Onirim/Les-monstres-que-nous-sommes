@@ -293,9 +293,15 @@ Il est également possible d’obtenir une nouvelle **spécialité**. Dans ce ca
 
 # Biens et équipements
 
-L'utilisation d'un matériel approprié pour réaliser une tâche ou un test peut apporter des bonus qui dépendent du type d'équipement. Il est donc toujours intéressant d'avoir de l'équipement sur soi. En règle générale, un équipement apporte un bonus de +10 à une compétence ou a une résistance lorsqu'il est utilisé. On distingue les équipements généraux des armes et des protections.
+L'utilisation d'un matériel approprié pour réaliser une tâche ou un test peut apporter des bonus qui dépendent du type d'équipement. Il est donc toujours intéressant d'avoir de l'équipement sur soi. En règle générale, un équipement apporte un bonus de +10 à une compétence, à une résistance ou aux dégâts lorsqu'il est utilisé. Il existe trois catégories d'équipements : les outils, les protections et les armes.
 
-- Jusqu'à deux **équipements généraux** peuvent être utilisés à la fois pour un test de compétence, permettant de cumuler un bonus allant jusqu'à +20.
+## Les outils
+
+Les outils ont deux fonctions. Premièrement, un outil peut permettre de tenter un test de compétence qui n'aurait pas été possible sans l'outil approprié. Le MJ peut donc juger impossible un test de compétence de crochetage d'une serrure de sécurité sans kit de crochetage, ou impossible la visite de fonds sous-marins sans matériel de plongée. Dans le cas où un outil permet une action qui n'aurait pas été permise sans lui, nul bonus particulier n'est accordé.
+
+Deuxièmement, un outil peut offrir un bonus à un test de compétence qui aurait pu être réalisé même sans l'outil. Par exemple escalader la façade d'une maison abandonnée avec du matériel d'escalade apporte un bonus car c'était également possible sans matériel. Autre exemple : forcer une porte peut se faire sans matériel approprié (à coups de pieds par exemple) mais un pied-de-biche augmente les chances de réussite. Dans le cas où un outil peut améliorer les chances de succès d'un test de compétence, il apporte +10 au test. Jusqu'à deux outils peuvent apporter des bonus au cours d'un test, avec un bonus maximum de +20.
+
+## Les armes
 - Une **arme légère** (qui n'est pas faite pour un usage sérieux ou militaire telle qu'une batte de base-ball ou un couteau) apporte un bonus de +10 en dégâts, qui se traduit par un malus de -10 à la résistance physique de la cible.
 - Une **arme létale** (comme une arme à feu, une arme de mêlée, une flèche, une tronçonneuse) double le bonus de dégâts, le passant effectivement à +20.
 - Un **équipement de protection** apporte un bonus de +10 à la résistance physique par section du corps qu'il protège (torse, bras, jambes, bouclier, casque). Une protection complète avec un bouclier apporte donc un bonus maximum de +50 en résistance physique. Tout ce qui est moins résistant qu'un blouson de cuir épais ne compte pas comme un équipement de protection.
