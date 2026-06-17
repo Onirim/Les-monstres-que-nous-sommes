@@ -291,7 +291,7 @@ A la fin d’un scénario, tous les losanges cochés donnent droit à un test de
 
 Il est également possible d’obtenir une nouvelle **spécialité**. Dans ce cas, la valeur à tester est égale au nombre de spécialités possédées multipliées par 15. Le joueur doit obtenir un résultat strictement supérieur à cette valeur, et s’il réussit, alors il peut noter sa nouvelle spécialité sur sa fiche.
 
-# Biens et équipements
+# Equipements et services
 
 L'utilisation d'un matériel approprié pour réaliser une tâche ou un test peut apporter des bonus qui dépendent du type d'équipement. Il est donc toujours intéressant d'avoir de l'équipement sur soi. En règle générale, un équipement apporte un bonus de +10 à une compétence, à une résistance ou aux dégâts lorsqu'il est utilisé. Il existe trois catégories d'équipements : les outils, les protections et les armes.
 
@@ -302,15 +302,18 @@ Les outils ont deux fonctions. Premièrement, un outil peut permettre de tenter 
 Deuxièmement, un outil peut offrir un bonus à un test de compétence qui aurait pu être réalisé même sans l'outil. Par exemple escalader la façade d'une maison abandonnée avec du matériel d'escalade apporte un bonus car c'était également possible sans matériel. Autre exemple : forcer une porte peut se faire sans matériel approprié (à coups de pieds par exemple) mais un pied-de-biche augmente les chances de réussite. Dans le cas où un outil peut améliorer les chances de succès d'un test de compétence, il apporte +10 au test. Jusqu'à deux outils peuvent apporter des bonus au cours d'un test, avec un bonus maximum de +20.
 
 ## Les armes
-- Une **arme légère** (qui n'est pas faite pour un usage sérieux ou militaire telle qu'une batte de base-ball ou un couteau) apporte un bonus de +10 en dégâts, qui se traduit par un malus de -10 à la résistance physique de la cible.
-- Une **arme létale** (comme une arme à feu, une arme de mêlée, une flèche, une tronçonneuse) double le bonus de dégâts, le passant effectivement à +20.
-- Un **équipement de protection** apporte un bonus de +10 à la résistance physique par section du corps qu'il protège (torse, bras, jambes, bouclier, casque). Une protection complète avec un bouclier apporte donc un bonus maximum de +50 en résistance physique. Tout ce qui est moins résistant qu'un blouson de cuir épais ne compte pas comme un équipement de protection.
 
-\cleardoublepage
+Lorsqu'il s'agit de blesser son prochain, tout objet raisonnablement dangereux peut devenir une arme. Par défaut, on peut se battre sans armes bien sûr, mais l'usage d'une arme dite légère apporte un bonus de dégâts de +10, qui se traduit de fait par un malus de -10 à la résistance physique de la cible. Par armes légères, on entend les armes improvisées ou qui n'ont pas été conçues pour un usage sérieux ou militaire. C'est le cas des couteaux, battes de base-ball, tessons de bouteille et autres objets.
 
-## Les ressources
+Certaines armes sont plus dangereuses que d'autres, spécifiquement celles qui ont été conçues pour le combat. Ces armes sont dites létales, et elle apportent un bonus de dégât de +20, ce qui se traduit par un malus de -20 à la résistance physique de la cible. Parmi les armes létales on trouve les armes à feu, les épées, les tronçonneuses, les flèches, etc.
 
-Le niveau de vie du personnages dépend de son métier et de ses revenus réguliers, et permet principalement de juger si l'obtention d'un bien est possible ou non. Si un bien nécessite un niveau de ressource supérieur à celui du personnage, il ne peut pas l'acquérir sans faire appel à ses économies.
+## Les protections
+
+Un équipement est considéré protecteur quand il possède au moins la rigidité et l'épaisseur d'un blouson de cuir épais. Il est possible de porter un équipement de protection pour chaque partie du corps ainsi que tenu à la main (torse, bras, jambes, tête, bouclier), pour un total maximum de 5 pièces. Chaque partie du corps protégé apporte un bonus de +10 aux tests de résistance physique, donc une protection complète à la fois du torse, des bras, des jambes, de la tête ainsi qu'un bouclier apporteront un bonus de +50 en résistance physique.
+
+## Acquérir biens et services
+
+Afin de conserver un système de ressources simple, nous considérons que l'acquisition d'un bien ou d'un service dépend du niveau de vie nécessaire à son acquisition. Le niveau de vie du personnages dépend de son métier et de ses revenus réguliers, et permet principalement de juger si l'obtention d'un bien est possible ou non. Si un bien nécessite un niveau de ressource supérieur à celui du personnage, il ne peut pas l'acquérir sans faire appel à ses économies.
 
 ### Les économies
 
@@ -326,6 +329,16 @@ Les cases d'économies représentent les ressources que le personnage a pu mettr
 ### Les dettes
 
 Lorsqu'un personnage a besoin d'obtenir une case d'économies, il peut contracter une dette. Pour chaque case d'économie gagnée, le personnage doit cocher une case de dette. Les dettes doivent être remboursées, soit via la dépense d'économies, soit en nature, en fonction de l'usurier. En général, tarder à rembourser une dette peut poser de gros problèmes au personnage.
+
+### Liste de coûts
+
+Voici quelques exemples de biens et de services ainsi que le niveau de vie requis.
+
+- **Précaire** : une lampe torche, un ticket de bus, un ticket de cinéma, un repas en restauration rapide, une chambre en colocation dans une résidence universitaire, etc.
+- **Modeste** : un téléphone portable d'entrée de gamme, un repas au restaurant, une batte de base-ball, la location mensuelle d'un petit appartement, le loyer d'une fraternité ou d'une sororité, une petite moto, etc.
+- **Confortable** : un téléphone portable haut de gamme, une arme de poing, une tenue de plongée, la location mensuelle d'une petite maison ou d'un appartement de taille respectable, une petite voiture, une moto, etc.
+- **Aisé** : une voiture classique, la location d'une grande maison ou d'un loft, l'achat d'un appartement, etc.
+- **Riche** : une voiture de luxe, l'achat d'une petite maison, etc.
 
 \cleardoublepage
 
