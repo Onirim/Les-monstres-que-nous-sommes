@@ -170,11 +170,11 @@ Interagir avec quelqu'un de sa clique ou de la même fraternité ou sororité pe
 
 | 1d10 | Créature | Détails |
 | --- | ---- | ----------- |
-| 1-3 | Humain | Vous ne faites pas partie des créatures terrifiantes qui peuplent la ville. Contrairement à vos camarades surnaturels, vous ne risquez pas de devenir un monstre, on peut toujours compter sur vous. |
-| 4-5 | Loup-Garou | Vous deviendrez une créature de griffe et de crocs qui hurle à la lune, tentant de résister à la rage qui risque de la submerger lorsque la faim de vie la tiraille. |
-| 6-7 | Sorcière | Vous pratiquez déjà la magie Wicca seule ou avec votre convent. Le vrai pouvoir s'éveillera bientôt en vous, rendant vos sorts puissants et menaçant de vous entraîner dans une spirale de corruption à chaque acte d'hubris. |
-| 8-9 | Vampire | Vous deviendrez une créature immortelle tiraillée par la soif, se nourrissant du sang des innocents et menaçant de céder à perversion et à l'immoralité. |
-| 10 | Leshy | Vous deviendrez une créature vengeresse façonnée comme une arme par la nature. Votre colère risquera de vous faire perdre la tête pour de bon alors que la pulsation des douleurs de la nature cognent dans votre cœur. |
+| 1-2 | Humain | Vous ne faites pas partie des créatures terrifiantes qui peuplent la ville. Contrairement à vos camarades surnaturels, vous ne risquez pas de devenir un monstre, on peut toujours compter sur vous. |
+| 3-4 | Loup-Garou | Vous deviendrez une créature de griffe et de crocs qui hurle à la lune, tentant de résister à la rage qui risque de la submerger lorsque la faim de vie la tiraille. |
+| 5-6 | Sorcière | Vous pratiquez déjà la magie Wicca seule ou avec votre convent. Le vrai pouvoir s'éveillera bientôt en vous, rendant vos sorts puissants et menaçant de vous entraîner dans une spirale de corruption à chaque acte d'hubris. |
+| 7-8 | Vampire | Vous deviendrez une créature immortelle tiraillée par la soif, se nourrissant du sang des innocents et menaçant de céder à perversion et à l'immoralité. |
+| 9-10 | Leshy | Vous deviendrez une créature vengeresse façonnée comme une arme par la nature. Votre colère risquera de vous faire perdre la tête pour de bon alors que la pulsation des douleurs de la nature cognent dans votre cœur. |
 
 Le jeu implique qu'un certain nombre de personnages autour de la table deviendront des monstres, des créatures qui mettront en tension les personnages avec leur famille, leurs amis, leurs camarades de cours, voir même leur propre groupe. Cependant, la transformation du personnage est un moment important qui se doit d'être bien amené. Voici donc les conseils que nous pouvons vous donner : 
 
@@ -317,7 +317,7 @@ Afin de conserver un système de ressources simple, nous considérons que l'acqu
 
 ### Les économies
 
-Les cases d'économies représentent les ressources que le personnage a pu mettre de côté, les trésors qu'il peut échanger ou revendre ou tout avantage de ressource temporaire qui ne fait pas pour autant monter son niveau de vie. Les cases d'économies peuvent être utilisés pour effectuer un achat au dessus de son niveau de vie. Dans ce cas, il faut dépenser les cases d'économies pour chaque niveau de vie au dessus du sien jusqu'à atteindre le niveau de vie requis pour l'acquisition du bien. Par exemple un personnage de niveau de vie précaire et qui souhaite acquérir un bien de niveau confortable doit dépenser 3 cases d'économies (1 pour atteindre le niveau modeste, puis 2 pour atteindre le niveau confortable).
+Les cases d'économies représentent les ressources que le personnage a pu mettre de côté, les trésors qu'il peut échanger ou revendre ou tout avantage de ressource temporaire qui ne fait pas pour autant monter son niveau de vie. Les cases d'économies peuvent être utilisés pour effectuer un achat au dessus de son niveau de vie. Dans ce cas, il faut dépenser les cases d'économies **pour chaque niveau de vie au dessus du sien** jusqu'à atteindre le niveau de vie requis pour l'acquisition du bien. Par exemple un personnage de niveau de vie précaire et qui souhaite acquérir un bien de niveau confortable doit dépenser 3 cases d'économies (1 pour atteindre le niveau modeste, puis 2 pour atteindre le niveau confortable).
 
 | Coût du bien | Coût en économies |
 | --- | --- |
@@ -334,9 +334,9 @@ Lorsqu'un personnage a besoin d'obtenir une case d'économies, il peut contracte
 
 Voici quelques exemples de biens et de services ainsi que le niveau de vie requis.
 
-- **Précaire** : une lampe torche, un ticket de bus, un ticket de cinéma, un repas en restauration rapide, une chambre en colocation dans une résidence universitaire, etc.
-- **Modeste** : un téléphone portable d'entrée de gamme, un repas au restaurant, une batte de base-ball, la location mensuelle d'un petit appartement, le loyer d'une fraternité ou d'une sororité, une petite moto, etc.
-- **Confortable** : un téléphone portable haut de gamme, une arme de poing, une tenue de plongée, la location mensuelle d'une petite maison ou d'un appartement de taille respectable, une petite voiture, une moto, etc.
+- **Précaire** : une lampe torche, un ticket de bus, un ticket de cinéma, un repas en restauration rapide, une chambre en colocation dans une résidence universitaire, un couteau, etc.
+- **Modeste** : un téléphone portable d'entrée de gamme, un repas au restaurant, une batte de base-ball, la location mensuelle d'un petit appartement, le loyer d'une fraternité ou d'une sororité, une petite moto, une veste de cuir épaisse etc.
+- **Confortable** : un téléphone portable haut de gamme, une arme à feu, une tenue de plongée, la location mensuelle d'une petite maison ou d'un appartement de taille respectable, une petite voiture, une moto, un équipement pare-balle, etc.
 - **Aisé** : une voiture classique, la location d'une grande maison ou d'un loft, l'achat d'un appartement, etc.
 - **Riche** : une voiture de luxe, l'achat d'une petite maison, etc.
 
