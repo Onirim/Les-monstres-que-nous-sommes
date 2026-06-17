@@ -2,7 +2,7 @@
 title: "Les monstres que nous sommes"
 subtitle: "Un jeu de rôle de monstres, de mystères et de drames adolescents inspiré de nos séries télévisées surnaturelles préférées"
 author: "Thibaut CRESPEL"
-date: "Version 2.2 - Juin 2026"
+date: "Version 2.3 - Juin 2026"
 ---
 
 \cleardoublepage
