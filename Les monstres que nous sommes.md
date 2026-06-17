@@ -60,11 +60,21 @@ La création de l'historique des personnages permet de mieux les définir et de 
 
 > Choisissez votre ami d'enfance parmi les PJ autour de la table. Il est généralement issu du même milieu que vous.
 
-> Combien d'enfants ont eu vos parents ? Vous pouvez choisir librement ou laisser le hasard vous inspirer.
+> Combien d'enfants ont eu vos parents ? Vous pouvez choisir librement ou laisser le hasard vous inspirer en tirant d'abord le nommbre d'enfants de la famille, puis pour chacun son âge relatif et son sexe.
 
-| Nb enfants (1d10) | Sexe (1d6) | Âge (1d10) |
-| ---- | --- | ---- |
-| 1-3 Un enfant, 4-6 Deux enfants , 7-8 Trois enfants, 9 Quatre enfants, 10 Cinq enfants | Pair Garçon, Impair Fille | 1-2 Beaucoup plus jeune que vous, 3-4 Plus jeune que vous, 5 Jumeaux, 6-7 Plus âgé que vous, 8-9 Beaucoup plus âgé que vous, 10 *Relancez* |
+| 1d10 | Nb enfants | Âge | Sexe |
+| --- | --- | ---------- | --- |
+| 1 | 1 | Beaucoup plus jeune que vous | Garçon |
+| 2 | 1 | Beaucoup plus jeune que vous | Fille |
+| 3 | 1 | Plus jeune que vous | Garçon |
+| 4 | 2 | Plus jeune que vous | Fille |
+| 5 | 2 | Jumeaux | Garçon |
+| 6 | 2 | Plus âgé que vous | Fille |
+| 7 | 3 | Plus âgé que vous | Garçon |
+| 8 | 3 | Plus âgé que vous | Fille |
+| 9 | 4 | Beaucoup plus âgé que vous | Garçon |
+| 10 | 5 | Beaucoup plus âgé que vous | Fille |
+
 
 ### Pré adolescence
 
@@ -397,13 +407,48 @@ L'attribut de sérénité peut être testé pour éviter des accidents d'inatten
 
 La peur de dévoiler sa nature surnaturelle peut faire chuter la sérénité, ce qui se produit à chaque fois qu'un personnage subit un échec en maîtrise de soi et qu'il coche une de ses trois cases de trauma surnaturel. La seconde case de trauma surnaturel cochée entraîne la perte d'1d6 points de sérénité. La troisième entraîne la perte de 2d6 points de sérénité.
 
-## Évolution des valeurs
+## Test de vie académique
 
-Chaque début de scénario, on choisit où l'on a mis ses efforts durant la période écoulée. Si la période était relativement courte (une semaine) le PJ gagne 1d6 points dans la jauge de **résultats**, de **popularité**ou de **sérénité**. Si la période était plus longue, de l'ordre d'un mois, alors la valeur est augmentée de 2d6 points. Les deux jauges qui n'ont pas été choisies doivent faire l'objet d'un test afin de ne pas chuter d'1d6 ou de 2d6 points.
+Chaque début de scénario, on choisit où l'on a mis ses efforts durant la période écoulée. Si la période était relativement courte (une semaine) le PJ gagne 1d6 points dans son score de **résultats**, de **popularité** ou de **sérénité**. Si la période était plus longue, de l'ordre d'un mois, alors la valeur est augmentée de 2d6 points. Les deux scores qui n'ont pas été choisies doivent faire l'objet d'un test afin de ne pas chuter d'1d6 ou de 2d6 points. Notez que les malus dus aux traumas s'appliquent sur ces tests, on a donc plus de difficutlé à survivre dans la jungle académique lorsque l'on est pas au mieux de sa forme.
 
 - Pour ne pas perdre en **résultats**, il faut réussir un test de savoir.
 - Pour ne pas perdre en **popularité**, il faut réussir un test de bagou ou d'une compétence relative à la pratique parascolaire.
 - Pour ne pas perdre en **sérénité**, il faut réussir un test de résistance mentale.
+
+### Incidents académiques
+
+Une fois testé la vie académique, le MJ peut vous demander un test d'incident académique. Testez alors votre plus faible valeur entre résultats, popularité et sérénité. Si vous échouez, le MJ peut se servir de la table correspondante pour vous créer un incident académique, qui a de grandes chances de vous faire commencer l'épisode avec une case de stress.
+
+| 1d6 | Incident de résultats | 
+| --- | ------------ |
+| 1 | Vous êtes appelé au tableau pour une démonstration et vous vous trompez complètement. Vous subissez les moqueries de la salle de classe et subissez une case de stress mental. |
+| 2 | Alors que vous rendez l'un de vos devoirs, le professeur fait une remarque blessante sur votre capacité intellectuelle. Subissez une case de stress mental. |
+| 3 | Le proviseur veut vous voir dans son bureau à propos de votre avenir. Cela ne serait pas grave si l'un de vos parents ou tuteur n'était pas présent. Subissez une case de stress mental. |
+| 4 | Vos parents ont deux mots à vous dire au sujet de vos résultats et le dernier repas de famille était tendu. Subissez une case de stress mental. |
+| 5 | On vous accuse de tricher lors d'un examen devant toute la classe et vous devez vous en défendre. Subissez une case de stress mental.  |
+| 6 | Pour vous aider dans vos cours, l'un de vos professeurs vous offre une heure de colle à mettre à profit pour réviser. Subissez une case de stress mental. |
+
+| 1d10 | Incident de popularité |
+| --- | ------------ |
+| 1 | On a écrit au marqueur des insultes inspirées (ou pas) sur votre casier. Vous entendez des élèves pouffer de rire. Subissez une case de stress mental. |
+| 2 | C'est en sortant des douches après le sport que vous vous rendez compte qu'on vous a dérobé vos sous-vêtements ! Subissez une case de stress mental. |
+| 3 | Un ou plusieurs élèves vous poussent sournoisement dans votre casier avant de le verrouiller. Heureusement on vient à votre secours quelques minutes plus tard. Subissez une case de stress mental. |
+| 4 | Quelqu'un a ouvert en grand votre rideau de douche alors que vous aviez de la mousse plein les yeux, c'était extrêmement humiliant ! Subissez une case de stress mental. |
+| 5 | Quelqu'un vous a fait un croc-en-jambe dans les escaliers et vous avez dévalé quelques marches. Subissez une case de stress physique. |
+| 6 | Vous recevenez un petit papier à votre nom pendant un cours, transmis d'élève en élève. Vous l'ouvrez pour lire "FUCK YOU". Subissez une case de stress mental. |
+| 7 | On vous attrape dans la cours de l'académie et on vous jette dans une benne à ordure non loin, où vous vous cognez la tête. Subissez une case de stress physique. |
+| 8 | Aux toilettes, un message est inscrit à votre attention sur le miroir et il est loin d'être sympathique. Subissez une case de stress mental. |
+| 9 | Vous vous faites grossièrement draguer en pleine classe, c'est tellement lourd que c'est forcément malveillant. Subissez une case de stress mental. |
+| 10 | Quelqu'un a trouvé amusant de déposer une punaise sur votre siège en cours. Votre cri de douleur fait rire quelques élèves. Subissez une case de stress mental. |
+
+| 1d6 | Incident de sérénité |
+| --- | ------------ |
+| 1 | Le système d'arrosage automatique se déclenche lorsque vous passez devant... vous finissez trempé. Subissez une case de stress mental. |
+| 2 | Vous avez oublié chez vos parents le devoir que vous deviez rendre, et personne ne vous croit. Subissez une case de stress mental. |
+| 3 | Avoir la tête ailleurs en cours de sport peut être dangereux. Vous vous blessez légèrement et subissez une case de stress physique. |
+| 4 | Vous avez égaré votre sac de cours et le retrouvez finalement aux objets trouvés. Il manque un livre. Subissez une case de stress mental. |
+| 5 | Attention ! Vous vous prenez une porte en pleine figure et finissez à l'infirmerie avec un saignement de nez. Subissez une case de stress physique. |
+| 6 | Vous avez du mal à vous concentrer et vous occupez autrement en classe. Vous écopez d'une heure de colle. Subissez une case de stress mental. |
 
 \cleardoublepage
 
