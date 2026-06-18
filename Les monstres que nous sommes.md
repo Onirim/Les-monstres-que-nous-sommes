@@ -2,7 +2,7 @@
 title: "Les monstres que nous sommes"
 subtitle: "Un jeu de rôle de monstres, de mystères et de drames adolescents inspiré de nos séries télévisées surnaturelles préférées"
 author: "Thibaut CRESPEL"
-date: "Version 2.2 - Juin 2026"
+date: "Version 2.3 - Juin 2026"
 ---
 
 \cleardoublepage
@@ -409,7 +409,9 @@ La peur de dévoiler sa nature surnaturelle peut faire chuter la sérénité, ce
 
 ## Test de vie académique
 
-Chaque début de scénario, on choisit où l'on a mis ses efforts durant la période écoulée. Si la période était relativement courte (une semaine) le PJ gagne 1d6 points dans son score de **résultats**, de **popularité** ou de **sérénité**. Si la période était plus longue, de l'ordre d'un mois, alors la valeur est augmentée de 2d6 points. Les deux scores qui n'ont pas été choisies doivent faire l'objet d'un test afin de ne pas chuter d'1d6 ou de 2d6 points. Notez que les malus dus aux traumas s'appliquent sur ces tests, on a donc plus de difficutlé à survivre dans la jungle académique lorsque l'on est pas au mieux de sa forme.
+Chaque début de scénario, on choisit où l'on a mis ses efforts durant la période écoulée. Si la période était relativement courte (une semaine) le PJ gagne 1d6 points dans son score de **résultats**, de **popularité** ou de **sérénité**. Si la période était plus longue, de l'ordre d'un mois, alors la valeur est augmentée de 2d6 points. Les deux scores qui n'ont pas été choisies doivent faire l'objet d'un test afin de ne pas chuter d'1d6 ou de 2d6 points. Notez que les malus dus aux traumas s'appliquent sur ces tests, on a donc plus de difficutlé à survivre dans la jungle académique lorsque l'on est pas au mieux de sa forme. Vous pouvez demander à vos joueurs :
+
+> Depuis le dernier épisode, la vie a repris son cours. Au niveau académique, où avez-vous mis vos efforts ? Avez-vous révisé pour émaliorer votre niveau ? Avez-vous privilégié votre popularité au sein de l'établissement ? Ou avez-vous plutôt relâché la pression ? Choisissez entre résultats, popularité et sérénité.
 
 - Pour ne pas perdre en **résultats**, il faut réussir un test de savoir.
 - Pour ne pas perdre en **popularité**, il faut réussir un test de bagou ou d'une compétence relative à la pratique parascolaire.
@@ -417,7 +419,7 @@ Chaque début de scénario, on choisit où l'on a mis ses efforts durant la pér
 
 ### Incidents académiques
 
-Une fois testé la vie académique, le MJ peut vous demander un test d'incident académique. Testez alors votre plus faible valeur entre résultats, popularité et sérénité. Si vous échouez, le MJ peut se servir de la table correspondante pour vous créer un incident académique, qui a de grandes chances de vous faire commencer l'épisode avec une case de stress.
+Une fois testé la vie académique, le MJ peut vous demander un test d'incident académique. Testez alors votre plus faible valeur entre résultats, popularité et sérénité. Si vous échouez, le MJ peut se servir de la table correspondante à votre plus faible score pour vous créer un incident académique, qui a de grandes chances de vous faire commencer l'épisode avec une case de stress. L'incident académique vous est proposé afin de simuler les aléas de la vie académique. En tant que MJ, vous n'avez pas besoin de faire jouer cet incident lors d'une scène de jeu, plutôt juste de le raconter. Il est également possible d'utiliser l'incident académique pour débuter votre nouvel épisode !
 
 | 1d6 | Incident de résultats | 
 | --- | ------------ |
