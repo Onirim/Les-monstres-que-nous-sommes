@@ -2,7 +2,7 @@
 title: "Les monstres que nous sommes"
 subtitle: "Un jeu de rôle de monstres, de mystères et de drames adolescents inspiré de nos séries télévisées surnaturelles préférées"
 author: "Thibaut CRESPEL"
-date: "Version 2.3 - Juin 2026"
+date: "Version 2.4 - Juin 2026"
 ---
 
 \cleardoublepage
@@ -25,13 +25,13 @@ Le système de jeu simple et modulaire propose une lecture directe des scores av
 
 ## Le rythme de jeu
 
-**Les monstres que nous sommes** vous propose un rythme de jeu basé sur celui des séries télévisées du genre. La plus petite unité de temps que nous prenons en considération est la **scène**, durant laquelle les personnages interagissent avec leur environnement immédiat et avec les autres personnages proches. Une scène peut durer de quelques minutes à une heure. 
+**Les monstres que nous sommes** vous propose un rythme de jeu basé sur celui des séries télévisées du genre. La plus petite unité de temps que nous prenons en considération est la **scène**, durant laquelle les personnages interagissent avec leur environnement immédiat et avec les autres personnages proches. Une scène peut durer de quelques minutes à une heure, le temps d'un dialogue ou d'une suite rapide d'actions.
 
-L'unité de temps suivante et l'**épisode**, qui est l'équivalent d'une session de jeu de rôle classique d'environ 4 heures. 
+L'unité de temps suivante et l'**épisode**, qui est l'équivalent d'une session de jeu de rôle classique d'environ 4 heures. Au cours d'un épisode donc, plusieurs scènes se déroulent et le scénario avance. La plupart du temps, le scénario est résolu entre l'introduction et la fin de l'épisode, mais certains scénarios peuvent durer plusieurs épisodes (voir plus bas).
 
-Un **scénario** est une histoire avec un début et une fin, qui peut tenir dans un seul épisode ou s'étaler sur deux voir trois épisodes. Un scénario se déroule généralement sur quelques jours, sans interruption. 
+Un **scénario** est une histoire avec un début et une fin, qui peut tenir dans un seul épisode ou s'étaler sur deux voir trois épisodes continus. Lorsqu'un scénario dure plusieurs épisodes, les personnages n'ont généralement pas le temps de souffler ni de se remettre de leurs traumas.
 
-Une **saison** est une succession de scénarios menant à une révélation importante ou a un changement notable dans le cadre de jeu, et elle représente généralement une année dans l'univers du jeu. 
+Une **saison** est une succession de scénarios menant à une révélation importante ou a un changement notable dans le cadre de jeu, et elle représente généralement une année dans l'univers du jeu mais on peut imaginer des saisons semestrielles voir même trimestrielles si vos épisodes sont hebdomadaires. Les saisons ont en général un thème qui tend à unir leurs scénarios et qui les distinguent des autres.
 
 Enfin, la **série** c'est votre groupe de joueurs dans votre ville fictive : une ou plusieurs saisons vous permettait de faire vivre les protagonistes et de développer une histoire riche et pleine d'émotion.
 
@@ -47,7 +47,7 @@ La création de l'historique des personnages permet de mieux les définir et de 
 
 ### Petite enfance
 
-> Depuis votre naissance jusqu'à vos 10 ans, dans quel cadre familial êtes-vous né et avez-vous grandi ? Inspirez-vous librement dans la table ci-dessous ou laissez le hasard vous inspirer.
+*« Depuis votre naissance jusqu'à vos 10 ans, dans quel cadre familial êtes-vous né et avez-vous grandi ? Inspirez-vous librement dans la table ci-dessous ou laissez le hasard vous inspirer. »*
 
 | 1d10 | Milieu | Activité familiale (1d10) |
 | --- | ---- | ---------- |
@@ -58,9 +58,7 @@ La création de l'historique des personnages permet de mieux les définir et de 
 | 8-9 | Cadre | 1-2 Médecins, 3-4 Ingénieurs, 5-6 Professeurs, 7 Avocats, 8-9 Fonctionnaires, 10 Religieux |
 | 10 | Huppé | 1-3 Actionnaires, 4-5 Stars du show business, 6-7 Politiciens, 8-9 Chefs d'entreprise, 10 Richesse mystérieuse |
 
-> Choisissez votre ami d'enfance parmi les PJ autour de la table. Il est généralement issu du même milieu que vous.
-
-> Combien d'enfants ont eu vos parents ? Vous pouvez choisir librement ou laisser le hasard vous inspirer en tirant d'abord le nommbre d'enfants de la famille, puis pour chacun son âge relatif et son sexe.
+*« Combien d'enfants ont eu vos parents ? Vous pouvez choisir librement ou laisser le hasard vous inspirer en tirant d'abord le nommbre d'enfants de la famille, puis pour chacun son âge relatif et son sexe. »*
 
 | 1d10 | Nb enfants | Âge | Sexe |
 | --- | --- | ---------- | --- |
@@ -75,10 +73,13 @@ La création de l'historique des personnages permet de mieux les définir et de 
 | 9 | 4 | Beaucoup plus âgé que vous | Garçon |
 | 10 | 5 | Beaucoup plus âgé que vous | Fille |
 
+Une fois votre cadre familial défini, nous pouvons commencer à tisser des liens entre les personnages de la table. Demandez à chaque joueur de choisir un autre personnage autour de la table qui aurait pu devenir son ami d'enfance. A cet âge, c'est généralement parce-que les familles se côtoient déjà.
+
+*« Choisissez votre ami d'enfance parmi les PJ autour de la table. Il est généralement issu du même milieu que vous. »*
 
 ### Pré adolescence
 
-> Entre 11 et 14 ans, vous êtes confronté aux problèmes de votre famille. Quel est le problème principal que rencontre votre famille et qui vous a marqué ? Choisissez librement dans la table ci-dessous ou laissez le hasard vous inspirer.
+*« Entre 11 et 14 ans, vous êtes confronté aux problèmes de votre famille. Quel est le problème principal que rencontre votre famille et qui vous a marqué ? Choisissez librement dans la table ci-dessous ou laissez le hasard vous inspirer. »*
 
 | 1d10 | Difficulté familiale |
 | --- | --------- |
@@ -93,11 +94,11 @@ La création de l'historique des personnages permet de mieux les définir et de 
 | 9 | Famille victime de racisme |
 | 10 | Difficultés avec la justice |
 
-> Vous pouvez choisir un second ami d'enfance parmi les PJ autour de la table, qui vous a soutenu lors les crises familiales.
+*« Choisissez un second ami d'enfance parmi les PJ autour de la table, qui vous a soutenu lors les crises familiales. »*
 
 ### Adolescence
 
-> Entre 15 et 21 ans, ce sont les années d'études et de construction de soi. C'est durant cette période que vous découvrez votre principale difficulté personnelle. Quel est-elle ? Inspirez-vous librement de la table ci-dessous ou laissez le hasard vous guider.
+*« Entre 15 et 21 ans, ce sont les années d'études et de construction de soi. C'est durant cette période que vous découvrez votre principale difficulté personnelle. Quel est-elle ? Inspirez-vous librement de la table ci-dessous ou laissez le hasard vous guider. »*
 
 | 1d10 | Difficulté personnelle |
 | --- | --------- |
@@ -118,7 +119,7 @@ Les personnages joueurs de votre série sont tous étudiants : soit au lycée, s
 
 ### Cursus académique
 
-> Que vous soyez au lycée ou à l'université, vous avez du choisir un cursus pour vos cours de spécialité. Vous pouvez vous inspirer de la table ci-après.
+*« Que vous soyez au lycée ou à l'université, vous avez du choisir un cursus pour vos cours de spécialité. Vous pouvez vous inspirer de la table ci-après. »*
 
 | 1d10 | Cursus | Exemple de cours |
 | --- | ------- | -------------- |
@@ -135,7 +136,7 @@ Les personnages joueurs de votre série sont tous étudiants : soit au lycée, s
 
 ### Activité parascolaire
 
-> Votre activité parascolaire principale est importante pour réussir vos études car elle compte dans les crédits qui permettent d'acquérir ses diplômes. Est joue également un rôle de marqueur social important pour les étudiants. Quelle activité parascolaire pratiquez vous ? Inspirez-vous de la table ci-après ou laissez les dés vous inspirer.
+*« Votre activité parascolaire principale est importante pour réussir vos études car elle compte dans les crédits qui permettent d'acquérir ses diplômes. Est joue également un rôle de marqueur social important pour les étudiants. Quelle activité parascolaire pratiquez vous ? Inspirez-vous de la table ci-après ou laissez les dés vous inspirer. »*
 
 | 1d6| Catégorie | Activité (1d6) |
 | --- | ------ | ------------ |
@@ -150,7 +151,7 @@ Les membres d'une même activité se connaissent généralement et se considère
 
 ### Cliques
 
-> Au lycée, les étudiants ont tendance à se retrouver au sein de cliques. Ce sont des hiérarchies sociales fluides et informelles mais qui ont un impact réel sur la vie du lycée. Choisir une clique apporte du soutient mais également des obligations. Vous pouvez en choisir une, ou n'en choisir aucune.
+*« Au lycée, les étudiants ont tendance à se retrouver au sein de cliques. Ce sont des hiérarchies sociales fluides et informelles mais qui ont un impact réel sur la vie du lycée. Choisir une clique apporte du soutient mais également des obligations. Vous pouvez en choisir une, ou n'en choisir aucune. »*
 
 | 1d6 | Clique | Profil |
 | --- | ----- | --------- |
@@ -163,7 +164,7 @@ Les membres d'une même activité se connaissent généralement et se considère
 
 ### Fraternités et sororités
 
-> Si vous êtes à l'université, vous pouvez rejoindre une fraternité ou une sororité. Contrairement aux cliques, ce sont des organisations formelles avec un processus d'intégration, une maison commune et des obligations réelles. Avez-vous rejoint une des fraternités ou des sororités à ce stade ?
+*« Si vous êtes à l'université, vous pouvez rejoindre une fraternité ou une sororité. Contrairement aux cliques, ce sont des organisations formelles avec un processus d'intégration, une maison commune et des obligations réelles. Avez-vous rejoint une des fraternités ou des sororités à ce stade ? »*
 
 Typiquement les fraternités et sororités ont des noms formés de deux ou trois lettres grecques combinées (par exemple Alpha Sigma Nu ou encore Phi Omega). Voici quatre propositions de fraternités et de sororités pour votre série, vous pouvez bien sûr créer les votres !
 
@@ -176,7 +177,7 @@ Interagir avec quelqu'un de sa clique ou de la même fraternité ou sororité pe
 
 ## Contact avec le surnaturel
 
-> Si vous deviez changer et devenir une créature de la nuit, laquelle choisiriez-vous ? Sélectionnez dans la table ci-dessous ou laissez le hasard décider.
+*« Si vous deviez changer et devenir une créature de la nuit, laquelle choisiriez-vous ? Sélectionnez dans la table ci-dessous ou laissez le hasard décider. »*
 
 | 1d10 | Créature | Détails |
 | --- | ---- | ----------- |
@@ -411,7 +412,7 @@ La peur de dévoiler sa nature surnaturelle peut faire chuter la sérénité, ce
 
 Chaque début de scénario, on choisit où l'on a mis ses efforts durant la période écoulée. Si la période était relativement courte (une semaine) le PJ gagne 1d6 points dans son score de **résultats**, de **popularité** ou de **sérénité**. Si la période était plus longue, de l'ordre d'un mois, alors la valeur est augmentée de 2d6 points. Les deux scores qui n'ont pas été choisies doivent faire l'objet d'un test afin de ne pas chuter d'1d6 ou de 2d6 points. Notez que les malus dus aux traumas s'appliquent sur ces tests, on a donc plus de difficutlé à survivre dans la jungle académique lorsque l'on est pas au mieux de sa forme. Vous pouvez demander à vos joueurs :
 
-> Depuis le dernier épisode, la vie a repris son cours. Au niveau académique, où avez-vous mis vos efforts ? Avez-vous révisé pour émaliorer votre niveau ? Avez-vous privilégié votre popularité au sein de l'établissement ? Ou avez-vous plutôt relâché la pression ? Choisissez entre résultats, popularité et sérénité.
+*« Depuis le dernier épisode, la vie a repris son cours. Au niveau académique, où avez-vous mis vos efforts ? Avez-vous révisé pour émaliorer votre niveau ? Avez-vous privilégié votre popularité au sein de l'établissement ? Ou avez-vous plutôt relâché la pression ? Choisissez entre résultats, popularité et sérénité. »*
 
 - Pour ne pas perdre en **résultats**, il faut réussir un test de savoir.
 - Pour ne pas perdre en **popularité**, il faut réussir un test de bagou ou d'une compétence relative à la pratique parascolaire.
@@ -537,7 +538,7 @@ Une fois par scène, un personnage humain peut intervenir auprès d'un de ses ca
 
 ## La malédiction du loup-garou
 
-> Depuis qu’il vous a mordu alors que la lune était pleine, vous sentez la rage parcourir votre corps et la faim s’insinuer jusque dans vos rêves. Cette faim insatiable vous pousse à vivre chaque instant comme s’il était le dernier et vous encourage à laisser libre cours à vos pulsions.Vous avez découvert que vous pouviez vous transformer en loup-garou sous forme bestiale lorsque vous négligez trop votre faim, et lui préférez la forme hybride que vous pouvez plus aisément contrôler. Votre corps s’est renforcé et il guérit maintenant très vite de ses blessures ; vos sens sont plus affûtés, surtout votre ouïe et votre odorat. Vous sentez également la fascination mêlée de peur diffuse que vous provoquez chez les humains. Au chapitre des mauvaises nouvelles, vous êtes devenu sensible à l’argent et à l’aconit. Maintenir le secret de votre condition est maintenant aussi vital que de garder le contrôle de la bête qui sommeille en vous et qui pourrait blesser des êtres chers, ou pire.
+*« Depuis qu’il vous a mordu alors que la lune était pleine, vous sentez la rage parcourir votre corps et la faim s’insinuer jusque dans vos rêves. Cette faim insatiable vous pousse à vivre chaque instant comme s’il était le dernier et vous encourage à laisser libre cours à vos pulsions.Vous avez découvert que vous pouviez vous transformer en loup-garou sous forme bestiale lorsque vous négligez trop votre faim, et lui préférez la forme hybride que vous pouvez plus aisément contrôler. Votre corps s’est renforcé et il guérit maintenant très vite de ses blessures ; vos sens sont plus affûtés, surtout votre ouïe et votre odorat. Vous sentez également la fascination mêlée de peur diffuse que vous provoquez chez les humains. Au chapitre des mauvaises nouvelles, vous êtes devenu sensible à l’argent et à l’aconit. Maintenir le secret de votre condition est maintenant aussi vital que de garder le contrôle de la bête qui sommeille en vous et qui pourrait blesser des êtres chers, ou pire. »*
 
 ### Les formes du loup-garou
 
@@ -559,7 +560,7 @@ La maitrise de soi du lopu-garou vous permet de garder le contrôle lorsque vous
 
 ## Le pouvoir des sorcières
 
-> Certaines familles ont un pouvoir dans le sang, transmis le plus souvent de mères en filles, bien que des hommes puissent également en hériter. Ce pouvoir ne s’exprime que via la magie et offre à ses pratiquantes une puissance remarquable. Les sorcières sont avant tout les pratiquantes d’une tradition magique ayant des pouvoirs bien au delà de la plupart de leurs homologues. Certaines familles s’enorgueillissent du pouvoir de leur lignée tandis que d’autres le cache comme un secret honteux ou ignorent complètement leurs dons. Les sorcières sont capables de ressentir l’utilisation du pouvoir dans leurs alentours proches, de quelque nature qu’il soit mais sans grande précision. Une sorcière pratique généralement sa magie à l’aide de rituels inscrits dans son propre livre des ombres mais elle reste capable d'invoquer le pouvoir de manière instinctif, ce que l’on considère comme un acte d'hubris. Trop d’actes d’hubris ainsi que la pratique de la magie noire ont un effet corrupteur et une pratiquante qui n’y prend pas garde peut rapidement perdre pied avec la réalité.
+*« Certaines familles ont un pouvoir dans le sang, transmis le plus souvent de mères en filles, bien que des hommes puissent également en hériter. Ce pouvoir ne s’exprime que via la magie et offre à ses pratiquantes une puissance remarquable. Les sorcières sont avant tout les pratiquantes d’une tradition magique ayant des pouvoirs bien au delà de la plupart de leurs homologues. Certaines familles s’enorgueillissent du pouvoir de leur lignée tandis que d’autres le cache comme un secret honteux ou ignorent complètement leurs dons. Les sorcières sont capables de ressentir l’utilisation du pouvoir dans leurs alentours proches, de quelque nature qu’il soit mais sans grande précision. Une sorcière pratique généralement sa magie à l’aide de rituels inscrits dans son propre livre des ombres mais elle reste capable d'invoquer le pouvoir de manière instinctif, ce que l’on considère comme un acte d'hubris. Trop d’actes d’hubris ainsi que la pratique de la magie noire ont un effet corrupteur et une pratiquante qui n’y prend pas garde peut rapidement perdre pied avec la réalité. »*
 
 ### Le livre des ombres
 
@@ -581,7 +582,7 @@ Lorsque vous cochez une case de corruption, les marques deviennent visibles sur 
 
 ## La damnation des vampires
 
-> Vous étiez vivant alors qu’un vampire aspirait votre sang jusqu’à la dernière goutte et vous offrait de boire le sien, de gré ou de force. Depuis cette nuit d’horreur, vous êtes un damné, un vampire qui dépend du sang des mortels pour continuer à exister. D’autres ont eu moins de chances que vous et sont devenus de simples goules, plus morts que vivants et aux ordres de leur créateur. Contrairement aux vieilles croyances, votre corps est encore fonctionnel bien que votre peau soit fraîche et votre rythme cardiaque ralenti. Votre peau ne craint pas la morsure du soleil, mais utiliser vos pouvoirs le jour vous coûte davantage. Vous ne vieillissez plus et votre corps régénère de ses blessures aisément. Vous éprouvez encore des sensations, des émotions, des désirs et de la douleur. La douleur de ne plus vraiment faire partie du monde des vivants. Elle est sans doute là, votre damnation : vous n’êtes pas tout à fait un monstre. Pas encore.
+*« Vous étiez vivant alors qu’un vampire aspirait votre sang jusqu’à la dernière goutte et vous offrait de boire le sien, de gré ou de force. Depuis cette nuit d’horreur, vous êtes un damné, un vampire qui dépend du sang des mortels pour continuer à exister. D’autres ont eu moins de chances que vous et sont devenus de simples goules, plus morts que vivants et aux ordres de leur créateur. Contrairement aux vieilles croyances, votre corps est encore fonctionnel bien que votre peau soit fraîche et votre rythme cardiaque ralenti. Votre peau ne craint pas la morsure du soleil, mais utiliser vos pouvoirs le jour vous coûte davantage. Vous ne vieillissez plus et votre corps régénère de ses blessures aisément. Vous éprouvez encore des sensations, des émotions, des désirs et de la douleur. La douleur de ne plus vraiment faire partie du monde des vivants. Elle est sans doute là, votre damnation : vous n’êtes pas tout à fait un monstre. Pas encore. »*
 
 ### La danse macabre
 
@@ -602,7 +603,7 @@ La maîtrise de soi du vampire lui permet de garder le contrôle lorsqu'il est a
 
 ## Le courroux du leshy
 
-Vous auriez du mourir lors de cet accident dans la forêt, mais quelque chose vous a choisi. Un esprit protecteur aussi ancien que la forêt elle-même s'est greffé à vous, faisant vibrer votre coeur au rythme de la nature, de sa pulsation que vous ressentez maintenant comme un second coeur. Vous avez régénéré de vos blessures à une vitesse improbable et ressentez depuis lors les blessures infligées à la nature sauvage de manière viscérale. Si vous n'y prenez pas garde, vous pourriez vous transformer en greffé, une créature de chair et de bois évoquant un cauchemar issu de la nature sauvage en quête de vengeance. Vous avez cependant appris à utiliser la forme transitoire, qui au moins vous garantit de garder votre lucidité. Les animaux ne vous craignent plus et vous considèrent même comme une forme de gardien. Vous êtes cependant devenu extrêmement susceptible au feu et vous éloignez de toute flamme dès que possible.
+*« Vous auriez du mourir lors de cet accident dans la forêt, mais quelque chose vous a choisi. Un esprit protecteur aussi ancien que la forêt elle-même s'est greffé à vous, faisant vibrer votre coeur au rythme de la nature, de sa pulsation que vous ressentez maintenant comme un second coeur. Vous avez régénéré de vos blessures à une vitesse improbable et ressentez depuis lors les blessures infligées à la nature sauvage de manière viscérale. Si vous n'y prenez pas garde, vous pourriez vous transformer en greffé, une créature de chair et de bois évoquant un cauchemar issu de la nature sauvage en quête de vengeance. Vous avez cependant appris à utiliser la forme transitoire, qui au moins vous garantit de garder votre lucidité. Les animaux ne vous craignent plus et vous considèrent même comme une forme de gardien. Vous êtes cependant devenu extrêmement susceptible au feu et vous éloignez de toute flamme dès que possible. »*
 
 ### Les formes du leshy
 
