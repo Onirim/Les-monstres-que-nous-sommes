@@ -41,6 +41,8 @@ Enfin, la **série** c'est votre groupe de joueurs dans votre ville fictive : un
 
 La création des personnages est sans doute l'étape la plus importante du jeu. En effet, c'est l'alchimie entre les personnages qui donnera à la série sa profondeur dramatique. Les personnages et les liens qu'ils tissent entre eux (et avec les PNJ) sont l'essence même des séries de drame surnaturel. Il est recommandé de faire créer les personnages par tous les joueurs en même temps afin d'obtenir un groupe d'amis soudés (ou du moins liés ensemble). Il est également recommandé que tous les personnages joueurs de la table fassent partie du même établissement (lycée ou université).
 
+> Tout au long de ce chapitre, nous suivrons Camille Cooper, une lycéenne sportive qui subira la malédiction des loups-garous.
+
 ## Environnement familial
 
 La création de l'historique des personnages permet de mieux les définir et de les ancrer dans le cadre de la série. Elle se fait étape par étape avec les joueurs autour de la table. Faites en sorte que chacun ait un crayon et un brouillon, puis posez-leur à tous les questions présentées dans chaque étape de leur vie. Passez à l'étape suivant quand ils ont tous répondu.
@@ -77,6 +79,8 @@ Une fois votre cadre familial défini, nous pouvons commencer à tisser des lien
 
 *« Choisissez votre ami d'enfance parmi les PJ autour de la table. Il est généralement issu du même milieu que vous. »*
 
+> Pour la création de Camille, nous décidons qu'elle sera issue du milieu ouvrier : son père travaille dans un petit laboratoire de biologie en tant que technicien, sa mère travail  dans le milieu commerçant en tant qu'employée dans le centre de loisir local. Les parents de Camille ont une famille nombreuse, la jeune fille a une soeur plus jeune qu'elle, une soeur plus âgée qu'elle, et un frère jumeau ! Nous décirons que la famille Cooper vit dans un bateau aménagé, amarré constemment au port lacuste de la ville. Une famille de 6 personnes dans un bateau, ça fait peu de places et Camille est obligée de partager sa petite chambre avec sa soeur cadette. Enfin, nous décidons que sa famille est immigrée canadienne, et qu'elle a laissé son ami d'enfance là bas.
+
 ### Pré adolescence
 
 *« Entre 11 et 14 ans, vous êtes confronté aux problèmes de votre famille. Quel est le problème principal que rencontre votre famille et qui vous a marqué ? Choisissez librement dans la table ci-dessous ou laissez le hasard vous inspirer. »*
@@ -96,6 +100,8 @@ Une fois votre cadre familial défini, nous pouvons commencer à tisser des lien
 
 *« Choisissez un second ami d'enfance parmi les PJ autour de la table, qui vous a soutenu lors les crises familiales. »*
 
+> Pour la famille de Camille, les difficultés financières se sont accumulées à cause du faible salaire des parents et du nombre d'enfants à scolariser. Aussi la famille vit-elle toujours dans son bateau aménagé, et la jeune fille vit assez mal d'être entassée avec sa petite soeur (une adorable chipie). Elle cherche toutes les occasions de passer du temps en dehors du bateau. C'est à cette occasion qu'elle a rencontré Mary Christina Tucker, une fille de ranchers catholiques très pratiquants chez qui elle squatte beaucoup et avec qui elle écoute des CD de musiques extrême - hard rock, black metal, etc. - que les parents de Mary Christina réprouveraient fortement. Chez Mary Christina, la jeune Camille peut souffler et s'épanouir davantage.
+
 ### Adolescence
 
 *« Entre 15 et 21 ans, ce sont les années d'études et de construction de soi. C'est durant cette période que vous découvrez votre principale difficulté personnelle. Quel est-elle ? Inspirez-vous librement de la table ci-dessous ou laissez le hasard vous guider. »*
@@ -112,6 +118,8 @@ Une fois votre cadre familial défini, nous pouvons commencer à tisser des lien
 | 8 | Harcèlement scolaire |
 | 9 | Handicap |
 | 10 | Rejet de l'autorité |
+
+> Camille est une jeune fille active et qui s'est rapidement passionnée pour les sports : hochey sur glace, plongée et moto-cross. Elle n'a que peu d'intérêt pour la romance, ne s'intéresse pas aux garçons et s'est même défendue plusieurs fois de manière violente lorsqu'elle s'est faite draguer de manière trop lourde. Depuis, au lycée, elle se traine une réputation au mieux de frigide, au pire on raconte qu'elle préfère les filles en secret. Même les parents de Mary Christina qui en ont eu vent préfèrent garder un oeil sur leur fille lorsque sa meilleure amie vient à la maison, au cas où Camille entraîne leur fille sur des chemins inacceptables pour une famille catholique. Le MJ ayant placé la série des Monstres que nous sommes au début de l'année 2000, l'homosexualité - réelle ou supposée - est plutôt mal vue, surtout dans les petites villes américaines.
 
 ## Environnement académique
 
@@ -134,6 +142,8 @@ Les personnages joueurs de votre série sont tous étudiants : soit au lycée, s
 | 9 | Santé & médecine | Anatomie, nutrition, premiers secours |
 | 10 | Métiers manuels | Menuiserie, mécanique, cuisine |
 
+> Camille a beau adorer le sport, elle aimerait travailler dans le domaine de la biologie maritime et lacuste, particulièrement pour la sauvagarde de l'environnement. Elle a donc choisi le cursus scientifique - même si elle n'est pas brillante en cours.
+
 ### Activité parascolaire
 
 *« Votre activité parascolaire principale est importante pour réussir vos études car elle compte dans les crédits qui permettent d'acquérir ses diplômes. Est joue également un rôle de marqueur social important pour les étudiants. Quelle activité parascolaire pratiquez vous ? Inspirez-vous de la table ci-après ou laissez les dés vous inspirer. »*
@@ -149,6 +159,8 @@ Les personnages joueurs de votre série sont tous étudiants : soit au lycée, s
 
 Les membres d'une même activité se connaissent généralement et se considèrent parfois comme des camarades, parfois comme des rivaux, ce qui peut apporter un modificateur de +10 au bagou lorsque l'on interagit avec un membre de son activité parascolaire (mais -10 s'il vous considère comme son rival).
 
+> Camille a rejoint l'équipe de hockey sur glace des Mustangs où elle peut laisser libre court à son dynamisme et parfois même à sa colère. Elle est douée bien qu'assez brutale pour une jeune fille de sa stature, n'hésitant pas à faire manger le plexiglas à ses rivaux.
+
 ### Cliques
 
 *« Au lycée, les étudiants ont tendance à se retrouver au sein de cliques. Ce sont des hiérarchies sociales fluides et informelles mais qui ont un impact réel sur la vie du lycée. Choisir une clique apporte du soutient mais également des obligations. Vous pouvez en choisir une, ou n'en choisir aucune. »*
@@ -161,6 +173,8 @@ Les membres d'une même activité se connaissent généralement et se considère
 | 4 | Artistes | Créatifs, marginaux assumés |
 | 5 | Rebelles | Hors système ou antisystème |
 | 6 | Geeks | Passionnés de culture niche |
+
+> Sans trop de surprise, Camille traine avec les athlètes de son lycée. D'une nature sociable bien que sur la défensive, elle n'a pas pour habitude de profiter de sa - relative - popularité pour écraser ceux qui ne font pas partie des athlètes.
 
 ### Fraternités et sororités
 
@@ -187,22 +201,30 @@ Interagir avec quelqu'un de sa clique ou de la même fraternité ou sororité pe
 | 7-8 | Vampire | Vous deviendrez une créature immortelle tiraillée par la soif, se nourrissant du sang des innocents et menaçant de céder à perversion et à l'immoralité. |
 | 9-10 | Leshy | Vous deviendrez une créature vengeresse façonnée comme une arme par la nature. Votre colère risquera de vous faire perdre la tête pour de bon alors que la pulsation des douleurs de la nature cognent dans votre cœur. |
 
-Le jeu implique qu'un certain nombre de personnages autour de la table deviendront des monstres, des créatures qui mettront en tension les personnages avec leur famille, leurs amis, leurs camarades de cours, voir même leur propre groupe. Cependant, la transformation du personnage est un moment important qui se doit d'être bien amené. Voici donc les conseils que nous pouvons vous donner : 
+Le jeu implique qu'un certain nombre de personnages autour de la table deviendront des êtres surnaturels, des créatures qui mettront en tension les personnages avec leur famille, leurs amis, leurs camarades de cours, voir même leur propre groupe. Cependant, la transformation du personnage est un moment important qui se doit d'être bien amené. Voici donc les conseils que nous pouvons vous donner : 
 
 - Faites débuter les personnages joueurs en tant qu'humains d'abord, faites leur connaître un semblant de normalité avant de sombrer dans le surnaturel.
-- Ne les transformez pas tous en même temps sauf s'ils partagent tous la même nature. La transformation doit être amenée de manière organique et crédible.
+- Ne les transformez pas tous en même temps sauf s'ils partagent tous la même nature. La transformation doit être amenée de manière organique et crédible tout au long de la première saison.
+
+> Le joueur de Camille décide qu'elle deviendra loup-garou. Le style dynamique de la jeune fille pourrait offrir une alchimie explosive !
 
 ## La personnalité
 
 Indiquez la personnalité de votre personnage dans la section des informations générales de la fiche de personnage. Cela vous aidera à décrire votre personnage au delà de son aspect physique et à vous y tenir.
 
-## L'exutoire
+> Pour Camille, nous notons les traits de personnalité fonçeuse, dynamique et explosive.
 
-Lorsque le stress s'accumule, le personnage a besoin de libérer la pression accumulée et de se ressourcer. De quelle manière le fait-il ? En s'ouvrant avec quelqu'un de confiance ? En pratiquant un art ? Une activité sportive intense ? Via une addiction ou un comportement violent ? Choisissez un exutoires qui lui corresponde. L'exutoire sera nécessaire lorsque votre personnage voudra faire diminuer son stress mental.
+## Les exutoires
 
-## La complication
+Lorsque le stress s'accumule, le personnage a besoin de libérer la pression accumulée et de se ressourcer. De quelle manière le fait-il ? En s'ouvrant avec quelqu'un de confiance ? En pratiquant un art ? Une activité sportive intense ? Via une addiction ou un comportement violent ? Choisissez jusqu'à deux exutoires qui lui corresponde. L'exutoire sera nécessaire lorsque votre personnage voudra faire diminuer son stress mental.
 
-Nous avons chacun nos problèmes. Quel est celui de votre personnage ? Vous pouvez choisir la difficulté familiale ou la difficulté d'adolescent en tant que complication, ou en imaginer une autre. Le MJ est invité à mettre en jeu votre complication pour vous en faire baver, bien entendu.
+> Là encore, c'est le sport qui joue le rôle d'exutoire pour Camille. Pour se libérer de son stress mental, elle a pour habitude de se dépenser en faisant du sport ou alors de plonger dans les profondeurs du lac tout proche pour trouver un moment de calme et de paix.
+
+## Les complications
+
+Nous avons chacun nos problèmes. Quels sont ceux de votre personnage ? Vous pouvez déjà compter sur votre difficulté familiale et votre difficulté d'adolescent en tant que complications, ou en imaginer d'autres. Le MJ est invité à mettre en jeu vos complications pour vous en faire baver, bien entendu.
+
+> Pour Camille, nous pouvons noter que son environnement familial est étouffant - même si elle aime sincèrement sa famille - et noter également qu'elle a une réputation de frigide (ou de lesbienne) qui tend à lui coller à la peau.
 
 ## Les compétences
 
@@ -223,11 +245,15 @@ Les scores dans les 12 compétences sont exprimées en pourcentage et représent
 | Véhicules | Piloter et conduire toutes sortes de véhicules, monter à cheval, naviguer et avoir le pied marin. |
 | Vigilance | Observer, remarquer les détails, être attentif à son environnement et y réagir rapidement. |
 
+> C'est le moment de répartir les compétences. Nous attribuons à Camille les scores de compétences suivants : 75 en athlétisme, 70 en combat, 65 en bagou, 60 en vigilance, 55 en médecine, 50 en technologie, 45 en art, 40 en véhicules, 35 en nature, 30 en filouterie, 25 en savoir et 20 en occultisme.
+
 ## Les spécialités
 
 Votre personnage débute le jeu avec 3 spécialités. Une spécialité possède deux usages. Tout d'abord, elle apporte un **bonus de +10** à la valeur d'une compétence quand la spécialité peut s'appliquer. Ensuite, certaines compétences ne peuvent pas être réusssies sans la spécialité adéquate (et dans ce cas, le test est automatiquement échoué). Par exemple il est inutile de tenter une opération chirurgicale sans la spécialité de chirurgie, tout comme il est impossible de pirater un logiciel informatique sans spécialité d'informatique ou de hacking.
 
 On peut appliquer jusqu'à deux spécialité différentes sur un même test, pour un bonus de +20. Pour le choix de vos spécialités, vous pouvez vous inspirer du cursus de votre personnage ou de son activité parascolaire.
+
+> Nous attribuons trois spécialités à Camille : le Hockey sur glace (c'est une championne en herbe), le motocross (son moyen de déplacement préféré) ainsi que la plongée (elle adore l'eau, les profondeurs aquatiques, leur sérénité et leurs secrets oubliés).
 
 ### Les langues
 
@@ -245,6 +271,8 @@ Le niveau de vie du personnage est généralement inférieur d'un niveau au nive
 | 76-92 | Aisé |
 | 93-100 | Riche |
 
+> Les parents de Camille sont tous deux ouvriers, mais quatre enfants c'est difficile à gérer au niveau des études. Nous leur attribuons un niveau de vie modeste. Quant à Camille elle-même, il est donc précaire.
+
 ### Description des niveaux de vie
 
 - **Précaire** : Vous vivez chez vos parents, dans un squat, à la rue ou en colocation dans un logement sordide. Les rentrées d'argent sont faibles et irrégulières, vous vivez donc très chichement.
@@ -256,6 +284,8 @@ Le niveau de vie du personnage est généralement inférieur d'un niveau au nive
 ## Les résistances
 
 Deux résistances principales sont utilisés en jeu : la **résistance physique** et la **résistance mentale**. Ces attributs servent à votre personnage à se préserver des dangers du monde qui l'entoure. Plus votre personnage a des résistances élevés, plus il est capable de supporter les agressions et d'éviter les conséquences désastreuses. Le total des deux résistances doit être égal à 100, avec un minimum de 30 et un maximum de 70.
+
+> Camille est un peu plus physique que mentale, nous lui attribuons donc une résistance physique de 60 pour une résistance mentale de 40 (et donc pour un total de 100).
 
 \cleardoublepage
 
@@ -276,13 +306,19 @@ Un test de compétence est basé sur la valeur de la compétence à laquelle on 
 | Très difficile | -20 |
 | Cauchemardesque | -30 |
 
-## Test de résistance
-
-Une résistance est testée lorsqu'un événement vient mettre en danger la santé physique ou mentale du personnage. On teste d'abord la résistance via le lancer d'1d100 et pour chaque case de stress déjà cochée dans la résistance testée, on applique un malus de -10. Si le test est un succès, le personnage a résisté. S'il est échoué, le personnage subit l'échec dicté par la fiction, qui peut lui imposer un trauma (voir plus loin). Quel que soit le résultat du dé, une case de stress mental ou physique est cochée après le test.
+> Camille a décidé de plonger dans le lac, à la recherche d'un peu de silence et peut être de quelques petits objets curieux reposant dans le fond, à demi immergés dans le limon. Durant son exploration, de longues algues sombres se tendent vers elle, tentant de s'enrouler autour de ses membres et de sa bouteille d'air. La jeune fille tente de garder son sang froid et de manoeuvrer pour se tirer d'affaire avant de se retrouver prise au piège. Le MJ lui demande un test d'athlétisme difficile à -10. Camille possède un score d'athlétisme de 75 et sa spécialité de plongée lui accorde un bonus de +10 supplémentaire, augmentant sa compétence à 85. La difficulté de -10 fait redescendre son score à 75. Le joueur lance les dés et obtient 58. C'est inférieur ou égal à la compétence de Camille, elle réussit donc à se tirer de ce mauvais pas, laissant derrière elle les étranges algues qui ont tenté de la noyer.
 
 ## Les conflits
 
 Les compétences telles que le combat, le charisme ou l’occultisme peuvent être utilisés pour s’opposer à quelqu’un le temps de plusieurs actions, ce que nous appelons une scène de conflit. Lorsque cela se produit, un jet de dé opposé est réalisé entre les protagonistes. Le vainqueur est celui qui réussi son test et, si tout le monde réussi, celui qui a fait le plus haut score sur son dé. Le perdant doit éventuellement effectuer un test de résistance en fonction du type de conflit.
+
+> Au cours d'une compétition de hockey sur glace, Camille se retrouve opposée à un adversaire qui tente de la pousser violemment contre le plexiglas pour récupérer le palet. Les deux personnages doivent tester leur compétence d'athlétisme. Avec 75 d'athlétisme et une spécialité en hockey sur glace lui apportant un bonus de +10, la jeune fille est assez sûre d'elle avec un score de 85. Son adversaire est doué, il possède un score de 75. Camille roule un 43, et son adversaire un 54. Les deux personnages ayant réussi leur test, on compare le résultat des dés : le plus haut l'emporte. Dans le cas présent, l'adversaire de Camille réussit à lui faire manger le plexiglas et à lui dérober le palet !
+
+## Test de résistance
+
+Une résistance est testée lorsqu'un événement vient mettre en danger la santé physique ou mentale du personnage. On teste d'abord la résistance via le lancer d'1d100 et pour chaque case de stress déjà cochée dans la résistance testée, on applique un malus de -10. Si le test est un succès, le personnage a résisté. S'il est échoué, le personnage subit l'échec dicté par la fiction, qui peut lui imposer un trauma (voir plus loin). Quel que soit le résultat du dé, une case de stress mental ou physique est cochée après le test.
+
+> Reprenons l'exemple précédent. Si l'objectif de l'adversaire de Camille avait été de la blesser en l'écrasant violemment contre le plexiglas, elle aurait du réaliser en plus un test de résistance physique. Sans prendre en considération les protections des joueurs (nous y reviendrons dans le chapitre sur l'équipement), Camille possède un score de 60 en résistance physique. Le résultat du dé donne 99 ! C'est un échec et l'adversaire de Camille réussit donc totalement son coup : il la pousse et l'écrase violemment contre le plexiglas qui tremble sous l'impact. Elle tombe à genoux, le souffle coupé, sonnée pour le compte alors que l'arbitre siffle. Puisque Camille a testé sa résistance, quel que soit le résultat obtenu, elle coche une case de stress physique : la prochaine résistance physique sera encore plus difficile. Si Camille avait réussi son test de résistance physique, elle aurait tout de même coché une case de stress physique mais elle serait restée sur le terrain en serrant les dents, prête à rendre la monnaie de sa pièce à son adversaire.
 
 ### Le dépassement
 
@@ -292,11 +328,15 @@ Lors d'un conflit, si le score d'un protagoniste dépasse 100, la valeur de dép
 
 Tout au long d'un scénario, les personnages risquent de cumuler le **stress physique** aussi bien que le **stress mental**, et on ne s'en débarrasse pas si facilement. Chaque case de stress cochée impose un malus de **-10 à la résistance correspondante**. Pour se débarrasser d'une case de stress, il faut généralement une scène qui permette de justifier la récupération du stress. Dans le cas du stress physique, cela pourrait être des premiers soins, du repos ou des attentions particulières. Dans le cas du stress mental, le personnage doit agir en accord avec son **exutoire**. Dans ce cas, il récupère un point de stress. On ne peut utiliser son exutoire qu'une fois par séance. De plus, chaque nuit de sommeil fait disparaître un point de stress. Le stress disparaît toujours entre les scénarios.
 
+> L'arbitre siffle la fin du match et pour cette fois, l'équipe des Mustangs a perdu. Dépitée, Camille se dirige vers le coin infirmerie pour recevoir quelques soins quant aux diverses contusions qu'elle a subi. Elle a coché deux cases de stress physique durant le match, le passage a l'infirmerie lui permet d'en récupérer un.
+
 ## Les traumas
 
 Certains échecs aux résistances physiques ou mentales laissent des séquelles que nous appelons traumas. Un trauma est généralement subi lors de l'échec d'un test de résistance, si le MJ le juge approprié. Chaque trauma impose un malus de **-10 aux tests de compétence**, en dehors des tests de résistance. Les traumas physiques et mentaux ne disparaissent qu'à chaque nouveau scénario, avec l'accord du MJ.
 
-Voyez les traumas comme des blessures physiques ou mentales qui persistent généralement au cours d'une histoire mais qui seront guéries pour l'histoire suivante. Si un événement traumatisant devait laisser des séquelles à un personnage, il s'agirait davantage d'une complication à gérer en roleplay.
+Voyez les traumas comme des blessures physiques ou mentales qui persistent généralement au cours d'une histoire mais qui seront guéries pour l'histoire suivante. Si un événement traumatisant devait laisser des séquelles à un personnage, il s'agirait davantage d'un élément à ajouter à ses complications.
+
+> L'adversaire ayant envoyé Camille heurter le plexiglas aurait vraiment pu vouloir blesser la jeune fille, le MJ aurait donc pu juger que son échec au test de résistance physique lui imposer également un trauma « côtes meurtries » qui lui vaudra un malus de -10 à tous ses jets de compétences pour le reste du scénario. Outch ! En allant plus loin, la jeune fille aurait pu mal vivre l'échec de son équipe lors du match et lui demander un test de résistance mentale. Si elle avait raté ce test, elle aurait pu également obtenir un trauma « abattue » pour représenter sa perte de motivation, ce qui aurait amené le total de ses malus de compétences à -20 ! C'est un très mauvais moment pour la jeune fille.
 
 ## L'expérience
 
@@ -322,9 +362,13 @@ Lorsqu'il s'agit de blesser son prochain, tout objet raisonnablement dangereux p
 
 Certaines armes sont plus dangereuses que d'autres, spécifiquement celles qui ont été conçues pour le combat. Ces armes sont dites létales, et elle apportent un bonus de dégât de +20, ce qui se traduit par un malus de -20 à la résistance physique de la cible. Parmi les armes létales on trouve les armes à feu, les épées, les tronçonneuses, les flèches, etc.
 
+> Camille rentre chez elle après une soirée chez son amie Mary Cristina. En chemin, elle entends des bruits de pas qui semblent la suive et qui s'accélèrent de plus en plus. Ressentant une soudaine montée d'adrénaline, elle attrape une bouteille de verre abandonnée et la brandit alors qu'elle se retourne pour faire face à ce qui la suit. La bouteille étant une arme improvisée, elle lui apportera un bonus de dégâts de +10 (qui se traduira par un malus de -10 à la résistance physique de son éventuel agresseur, si elle devait s'en servir).
+
 ## Les protections
 
 Un équipement est considéré protecteur quand il possède au moins la rigidité et l'épaisseur d'un blouson de cuir épais. Il est possible de porter un équipement de protection pour chaque partie du corps ainsi que tenu à la main (torse, bras, jambes, tête, bouclier), pour un total maximum de 5 pièces. Chaque partie du corps protégé apporte un bonus de +10 aux tests de résistance physique, donc une protection complète à la fois du torse, des bras, des jambes, de la tête ainsi qu'un bouclier apporteront un bonus de +50 en résistance physique.
+
+> Camille fait l'inventaire des protections de sa tenue de hockey sur glace. Plastron, brassards, jambières, casque. Si elle devait encaisser un coup et effectuer un test de résistance physique, elle obtiendrait un bonus de +40 dans sa tenue complète !
 
 ## Acquérir biens et services
 
@@ -340,6 +384,8 @@ Les cases d'économies représentent les ressources que le personnage a pu mettr
 | Confortable | 2 |
 | Aisé | 4 |
 | Riche | 8 |
+
+> Notre jeune Camille aimerait bien acquérir un téléphone portable, afin de pouvoir joindre ses copines et envoyer des SMS (le MJ ayant situé la série au début des années 2000). Hélas un téléphone portable dans les années 2000 c'est un achat pour une famille modeste, pas pour une lycéenne qui possède en propre un niveau de vie précaire. Si elle veut pouvoir s'en acheter un sans demander à ses parents de le lui payer, elle devra faire des économies (1 case d'économie, lui permettant pour cet achat de passer de précaire à modeste). N'y avait-il pas cette offre d'emploi pour étudiant dans le magasin de sport qu'elle fréquente ?
 
 ### Les dettes
 
@@ -375,7 +421,7 @@ Le stress surnaturel est différent pour chaque créature, que cela soit la soif
 
 ### Perte totale de contrôle
 
-Lorsqu'un personnage coche sa troisième case de trauma surnaturel, il cède à la part sombre de sa nature et fuira son groupe par tous les moyens. A la fin de la séance, tirez un sort un des personnages joueurs de la table (incluant le personnage joueur qui a perdu le contrôle), puis lancez 1d6. Sur un résultat de 1 ou 2, un membre de la famille du malchanceux sera agressé par son camarade hors de contrôle. Sur un résultat de 3 ou plus, il s'agira de l'une de ses relations (tirez là au hasard). Apprendre que sa petite soeur ou son meilleur ami a été agressé par l'un de ses camarades ayant perdu le contrôle est une situation intéressante et explosive !
+Lorsqu'un personnage coche sa troisième case de trauma surnaturel, il cède à la part sombre de sa nature et fuira son groupe par tous les moyens. A la fin de la séance, tirez un sort un des personnages joueurs de la table (incluant le personnage joueur qui a perdu le contrôle), puis lancez 1d6. Sur un résultat de 1 ou 2, un membre de la famille du malchanceux sera agressé par son camarade hors de contrôle. Sur un résultat de 3 ou plus, il s'agira de l'une de ses relations (tirez là au hasard). Apprendre que sa petite soeur ou son meilleur ami a été agressé par l'un de ses camarades ayant perdu le contrôle est une situation intense et dramatique !
 
 En attendant, le joueur qui a perdu le contrôle de son personnage est invité à interpréter l'un des PNJ avec lequel le groupe a de bonnes relations afin de continuer à jouer.
 
@@ -401,13 +447,25 @@ En tant que loup-garou, vous pouvez utiliser deux formes à volonté : la forme 
 
 ### Les pouvoirs personnels
 
-Chaque loup-garou peut développer jusqu'à trois pouvoirs qui lui sont propres. Lorsqu'un nouveau pouvoir est acquis, il débute avec un score de 50. Si le pouvoir peut être utilisé pour améliorer directement une compétence, alors son score peut s'ajouter à celui de la compétence, permettant un dépassement du score de compétence. Sinon, le pouvoir peut être utilisé de manière autonome via son propre score. Vous trouverez ci après quelques exemples de pouvoirs personnels pour les loups-garous. Les pouvoirs personnels des loups-garous ne se cumulent cependant pas avec les bonus attribués à leur forme : seul le bonus le plus élevé est pris en compte (généralement celui du pouvoir personnel).
+Bien que vous débutiez votre nouvelle vie de loup-garou sans aucun pouvoir personnel, votre loup-garou pourra développer jusqu'à trois pouvoirs qui lui seront propres. Lorsqu'un nouveau pouvoir est acquis, il débute avec un score de 50. Si le pouvoir peut être utilisé pour améliorer directement une compétence, alors son score peut s'ajouter à celui de la compétence, permettant un dépassement du score de compétence. Sinon, le pouvoir peut être utilisé de manière autonome via son propre score. Vous trouverez ci après quelques exemples de pouvoirs personnels pour les loups-garous. Les pouvoirs personnels des loups-garous ne se cumulent cependant pas avec les bonus attribués à leur forme : seul le bonus le plus élevé est pris en compte (généralement celui du pouvoir personnel). Ainsi, les pouvoirs personnels peuvent généralement être utilisés sous forme humaine. Voici quelques exemples de pouvoirs personnels ; joueurs et MJ sont encouragés à en créer de nouveaux.
 
-<A insérer ici>
+**Sens du prédateur** : Le loup-garou possède un don pour identifier les odeurs, suivre les pistes ou reconnaître une personne à son parfum. Le loup-garou peut ajouter son score de pouvoir à ses compétences de vigilance ou de nature lorsqu'il s'agit de pister quelqu'un, de chasser une proie ou de la traquer. Ce pouvoir personnel apporte également son bonus pour détecter des personnages cachés ou prévenir une embuscade.
+
+**Régénération accélérée** : Le loup-garou est capable de régénérer encore plus rapidement que les autres membres de son espèce. A la fin d'une scène au cours de laquelle il a subi un trauma physique, le pouvoir est testé avec 1d100. Si le test est un succès, alors le trauma est effacé. Si le test est échoué, le trauma persiste et suit les règles normales.
+
+**Présence intimidante** : Le loup-garou peut utiliser son score de pouvoir pour améliorer sa compétence de bagou dans les situations où l'intimidation peut jouer un rôle. Au cours d'un conflit, le loup-garou peut utiliser sa présence intimidante pour tenter de faire fuir un adversaire. Dans ce cas, le pouvoir doit être testé et, si le test est un succès, l'adversaire doit réussir un test de résistance mentale ou fuir terrifié.
+
+**Sens de la meute** : Le loup-garou peut ressentir l'état émotionnel ou la localisation des personnages qu'il considère comme faisant partie de sa meute (les autres loups-garous, ses amis proches qui partagent ses secrets, etc.). Sur un test de pouvoir réussi, il peut sentir quelle direction prendre pour retrouver l'un des siens  et ressentir son état émotionnel. Le MJ peut déclencher lui-même un jet de sens de la meute si l'un des personnages proches du loup-garou subit une émotion forte.
+
+**Course de la bête** : Le loup-garou peut puiser dans son instinct primal pour augmenter ses capacités physiques telles que sa vitesse de course, de saut ou encore sa force, et ce même sous forme humaine. Lorsqu'il active ce pouvoir, le loup-garou ajoute son score de course de la bête à sa compétence d'athlétisme. Attention cependant : les bonds prodigieux et les prouesses improbables risquent fort d'éveiller les soupçons des témoins de la scène.
+
+**Langage des bêtes** : Le loup-garou est lié à une catégorie d'animaux spécifiques (les canidés, les équidés, les rongeurs, les oiseaux, etc.) et, en plus de ne pas les terrifier malgré sa nature prédatrice, il peut communiquer avec eux. Sur un test de pouvoir réussi, l'animal est capable de comprendre ce que lui demande le loup-garou et pourra éventuellement lui répondre ou effectuer quelque chose pour lui, s'il y voit un intérêt.
+
+**Loup entre deux mondes** : Le loup-garou est capable de voir et de communiquer avec les fantômes. Sur un jet de pouvoir réussi, le loup-garou peut tenter d'appeler un fantôme qu'il connaît ou dont il possède une ancre (un objet personnel très important) et il peut converser avec lui. Cela ne rend pas le fantôme visible ni audible pour les témoins de la scène. Le fait de converser avec un fantôme ne permet pas au loup-garou de le forcer à quoi que ce soit ni de le commander.
 
 ### La faim et la rage
 
-La maitrise de soi du lopu-garou vous permet de garder le contrôle lorsque vous vous sentez agressé, frustré ou qu'un danger immédiat vous menace. Chaque case de Faim cochée entraîne un malus de -10 à la maîtrise de soi. Après chaque test de maîtrise de soi, cochez une case de faim. Vous pouvez diminuer votre faim en vous laissant aller à celle-ci au cours d’une scène. Lorsque vous cochez la première case de rage, le garou vous submerge et vous force à réagir avec excès. La seconde case de rage cochée vous oblige à vos transformer en forme hybride et vous perdez le contrôle de vous pour une scène et perdez 1d6 points en maîtrise de soi. Lorsque vous cochez la troisième case de rage, votre personnage passe en forme bestiale et vous en perdez complètement le contrôle. Le personnage devient PNJ tant qu’il n’a pas été ramené du bon côté. Vous perdez 2d6 en maîtrise de soi. Lorsque la pleine lune apparaît dans le ciel pour la première fois durant la nuit, si votre maîtrise de soi est inférieure à 65, vous devez la tester. Si vous échouez, vous vous transformez en forme bestiale pour la scène. Si vous réussissez, cochez la première case de rage si elle ne l’était pas. Tant que vous n’avez pas coché les 3 cases de rage, vous effacez une case de rage à chaque nouveau scénario.
+La maitrise de soi du loup-garou vous permet de garder le contrôle lorsque vous vous sentez agressé, frustré ou qu'un danger immédiat vous menace. Chaque case de Faim cochée entraîne un malus de -10 à la maîtrise de soi. Après chaque test de maîtrise de soi, cochez une case de faim. Vous pouvez diminuer votre faim en vous laissant aller à celle-ci au cours d’une scène. Lorsque vous cochez la première case de rage, le garou vous submerge et vous force à réagir avec excès. La seconde case de rage cochée vous oblige à vos transformer en forme hybride et vous perdez le contrôle de vous pour une scène et perdez 1d6 points en maîtrise de soi. Lorsque vous cochez la troisième case de rage, votre personnage passe en forme bestiale et vous en perdez complètement le contrôle. Le personnage devient PNJ tant qu’il n’a pas été ramené du bon côté. Vous perdez 2d6 en maîtrise de soi. Lorsque la pleine lune apparaît dans le ciel pour la première fois durant la nuit, si votre maîtrise de soi est inférieure à 65, vous devez la tester. Si vous échouez, vous vous transformez en forme bestiale pour la scène. Si vous réussissez, cochez la première case de rage si elle ne l’était pas. Tant que vous n’avez pas coché les 3 cases de rage, vous effacez une case de rage à chaque nouveau scénario.
 
 ## Le pouvoir des sorcières
 
@@ -415,9 +473,11 @@ La maitrise de soi du lopu-garou vous permet de garder le contrôle lorsque vous
 
 ### Le livre des ombres
 
-Une sorcière de tradition wiccane possède un livre des ombres. C'est à la fois un journal personnel, un carnet d'observations et d'essais, ainsi qu'un grimoire pouvant contenir jusqu'à 10 sortilèges personnels. Voici quelques exemples de sortilèges que vous pourriez avoir développé dans votre livre des ombres. Vous débuterez votre carrière de sorcière avec un sort tous les tranches de 25 points d'occultisme.
+Une sorcière de tradition wiccane possède un livre des ombres. C'est à la fois un journal personnel, un carnet d'observations, ainsi qu'un grimoire pouvant contenir jusqu'à 10 sortilèges personnels. Voici quelques exemples de sortilèges que vous pourriez avoir développé dans votre livre des ombres. Vous débuterez votre carrière de sorcière avec un sort tous les tranches de 25 points d'occultisme. Vous trouverez ci-après une liste de sortilèges pour vous inspirer.
 
-<insérer ici>
+**Communication avec les morts** : A l'aide d'une tablette ouija ou de runes, vous êtes capable d'appeler un fantôme et de communiquer avec lui. Vous ne pouvez pas forcer le fantôme à vous répondre, bien que la plupart d'entre eux aient toujours quelque chose à demander ou à faire savoir. Vous ne voyez pas le fantôme ni ne l'entendez grâce à ce rituel, qui vous protège aussi en grande partie des influences du dit fantôme.
+
+**Localisation au pendule** : Vous savez laisser le pendule vous guider vers le sujet que vous recherchez. Il peut vous guider dehors, dans la rue, dans une forêt ou un appartement, il peut également indiquer un point sur une carte. Pour trouver le sujet recherché, vous devez posséder quelque chose lui appartenant, ou alors des informations sur lui, ce que nous appellerons les liens. Plus les liens sont ténus ou insuffisants, plus le MJ pourra rendre votre action difficile ou simplement la faire échouer.
 
 ### Utiliser le pouvoir
 
