@@ -249,7 +249,7 @@ Les scores dans les 12 compétences sont exprimées en pourcentage et représent
 
 ## Les spécialités
 
-Votre personnage débute le jeu avec 3 spécialités. Une spécialité possède deux usages. Tout d'abord, elle apporte un **bonus de +10** à la valeur d'une compétence quand la spécialité peut s'appliquer. Ensuite, certaines compétences ne peuvent pas être réusssies sans la spécialité adéquate (et dans ce cas, le test est automatiquement échoué). Par exemple il est inutile de tenter une opération chirurgicale sans la spécialité de chirurgie, tout comme il est impossible de pirater un logiciel informatique sans spécialité d'informatique ou de hacking.
+Votre personnage débute le jeu avec 3 spécialités. Une spécialité possède deux usages. Tout d'abord, elle apporte un **bonus de +10** à la valeur d'une compétence quand la spécialité peut s'appliquer. Ensuite, certaines compétences ne peuvent pas être réussies sans la spécialité adéquate (et dans ce cas, le test est automatiquement échoué). Par exemple il est inutile de tenter une opération chirurgicale sans la spécialité de chirurgie, tout comme il est impossible de pirater un logiciel informatique sans spécialité d'informatique ou de hacking.
 
 On peut appliquer jusqu'à deux spécialité différentes sur un même test, pour un bonus de +20. Pour le choix de vos spécialités, vous pouvez vous inspirer du cursus de votre personnage ou de son activité parascolaire.
 
@@ -332,11 +332,11 @@ Tout au long d'un scénario, les personnages risquent de cumuler le **stress phy
 
 ## Les traumas
 
-Certains échecs aux résistances physiques ou mentales laissent des séquelles que nous appelons traumas. Un trauma est généralement subi lors de l'échec d'un test de résistance, si le MJ le juge approprié. Chaque trauma impose un malus de **-10 aux tests de compétence**, en dehors des tests de résistance. Les traumas physiques et mentaux ne disparaissent qu'à chaque nouveau scénario, avec l'accord du MJ.
+Certains échecs aux résistances physiques ou mentales se traduisent par des blessures qui peuvent durer tout un scénario voir davantage : nous les appelons les traumas. Un trauma est généralement subi lors de l'échec d'un test de résistance, si le MJ le juge approprié. Chaque case de trauma impose un malus de **-10 aux tests de compétences**, jamais aux tests de résistance. A chaque nouveau scénario, un personnage peut supprimer une case de trauma physique et une case de trauma mentale, à condition que le personnage se soit donné les moyens de guérir (c'est au MJ de décider si la récupération a pu avoir lieu ou non).
 
-Voyez les traumas comme des blessures physiques ou mentales qui persistent généralement au cours d'une histoire mais qui seront guéries pour l'histoire suivante. Si un événement traumatisant devait laisser des séquelles à un personnage, il s'agirait davantage d'un élément à ajouter à ses complications.
+Si un événement traumatisant devait laisser des séquelles à un personnage sur le long terme, il s'agirait davantage d'un élément à ajouter à ses complications.
 
-> L'adversaire ayant envoyé Camille heurter le plexiglas aurait vraiment pu vouloir blesser la jeune fille, le MJ aurait donc pu juger que son échec au test de résistance physique lui imposer également un trauma « côtes meurtries » qui lui vaudra un malus de -10 à tous ses jets de compétences pour le reste du scénario. Outch ! En allant plus loin, la jeune fille aurait pu mal vivre l'échec de son équipe lors du match et lui demander un test de résistance mentale. Si elle avait raté ce test, elle aurait pu également obtenir un trauma « abattue » pour représenter sa perte de motivation, ce qui aurait amené le total de ses malus de compétences à -20 ! C'est un très mauvais moment pour la jeune fille.
+> L'adversaire ayant envoyé Camille heurter le plexiglas aurait vraiment pu vouloir blesser la jeune fille, le MJ aurait donc pu juger que son échec au test de résistance physique lui imposer également un trauma physique qui lui vaudra un malus de -10 à tous ses jets de compétences pour le reste du scénario. Outch ! En allant plus loin, la jeune fille aurait pu mal vivre l'échec de son équipe lors du match et le MJ aurait pu lui demander un test de résistance mentale. Si elle avait raté ce test, elle aurait pu également obtenir un trauma mental pour représenter sa perte de motivation, ce qui aurait amené le total de ses malus de compétences à -20 ! C'est un très mauvais moment pour la jeune fille.
 
 ## L'expérience
 
@@ -443,7 +443,7 @@ En tant que loup-garou, vous pouvez utiliser deux formes à volonté : la forme 
 
 - **Forme humaine** : Peu après votre première morsure, les compétences suivantes augmentent : +5 en athlétisme, +5 en combat, +5 en vigilance et +5 en bagou. Vous obtenez également un bonus de +5 à la résistance physique. Ces bonus en compétences ne sont pas des modificateurs et font maintenant partie de vos valeurs de base. Votre corps est maintenant capable de régénérer lentement de ses blessures : vous récupérez un de vos stress physiques à la fin d’une scène.
 - **Forme hybride** : Sous forme hybride, votre musculature devient plus imposante, vos traits empruntent ceux du loup et une aura intimidante de prédateur se dégage de vous. Votre voix est également plus rauque mais votre diction reste suffisamment fluide pour que vous puissiez vous faire comprendre. Sous cette forme, vous obtenez un modificateur de +10 en athlétisme, +20 en combat et +5 en vigilance. Vous obtenez un modificateur de +10 à votre résistance physique et vos griffes provoquent des dégâts de +10. Vous récupérez tout votre stress physique à la fin d’une scène.
-- **Forme bestiale** : Sous forme bestiale, vous n’avez plus aucune maîtrise de vous-même et prenez l’apparence des créatures de terreur des légendes pour la durée d’une scène. Tant que vous êtes sous cette forme vous obtenez un modificateur de +20 en athlétisme, +50 en combat et +10 en vigilance. Vous obtenez un modificateur de +20 en résistance physique. Vous récupérez tout votre stress physique à la fin d’une scène. Vos griffes et vos crocs deviennent des armes létales apportant un bonus de +20 en dégâts.
+- **Forme bestiale** : Sous forme bestiale, vous n’avez plus aucune maîtrise de vous-même et prenez l’apparence des créatures de terreur des légendes pour la durée d’une scène. Vous devez attaquer tout ce qui représente un danger pour vous ou fuir la civilisation dès que le danger est écarté. Tant que vous êtes sous cette forme vous obtenez un modificateur de +20 en athlétisme, +50 en combat et +10 en vigilance. Vous obtenez un modificateur de +20 en résistance physique. Vous récupérez tout votre stress physique à la fin d’une scène. Vos griffes et vos crocs deviennent des armes létales apportant un bonus de +20 en dégâts.
 
 ### Les pouvoirs personnels
 
@@ -675,9 +675,9 @@ Chaque lien possède trois axes : l'**amitié**, le **désir**et l'**admiration*
 
 **Admiration** : Ce troisième axe de relation est celui des admirateurs et fans (ou leur version négative, les jaloux). Il représente l'estime accordée au personnage pour ce qu'il fait ou pour sa façon d'être. Les admirateurs et les fans aiment à se rapprocher de l'objet de leur admiration et à un haut niveau cela peut presque devenir maladif. **Accorder de l'attention** au PNJ est susceptible de faire monter leur admiration, si une affinité existe à ce niveau.
 
-**Affinité : Les affinités représentent les envies profondes du PNJ envers le PJ. Comme nous l'avons vu plus haut, chaque PNJ a un score allant de 0 à 3 dans ses axes de relation. Mais ce qui détermine ce que recherche vraiment le PNJ, ce sont ses affinités.
+**Affinité** : Les affinités représentent les envies profondes du PNJ envers le PJ. Comme nous l'avons vu plus haut, chaque PNJ possède un score allant de 0 à 5 dans ses axes de relation. Mais ce qui détermine ce que recherche vraiment le PNJ, ce sont ses affinités.
 
-- Une affinité sur l'axe d'**amitié** indique que le PNJ ressent une connexion particulière et une compréhension envers le PJ, et qu'il pourrait fort bien devenir son meilleur ami.
+- Une affinité sur l'axe d'**amitié** indique que le PNJ ressent une connexion particulière avec  le PJ, et qu'il pourrait fort bien devenir son meilleur ami.
 - Une affinité sur l'axe de **désir** indique que le PNJ est attiré sentimentalement et érotiquement par le PJ et qu'il aimerait que ça aille plus loin.
 - Une affinité sur l'axe d'**admiration** indique que le PNJ porte un intérêt fort aux activités du PJ et qu'il souhaite devenir son apprenti ou son mentor, en fonction de ses propres compétences dans le domaine.
 
@@ -685,7 +685,7 @@ Chaque lien possède trois axes : l'**amitié**, le **désir**et l'**admiration*
 
 Les règles de développement des relations n'ont pas pour vocation de remplacer le roleplay, mais d'offrir une structure qui puisse faciliter la charge de travail du MJ tout en améliorant la lisibilité des relations pour les joueurs. Il existe ainsi plusieurs moyens de développer une relation en termes de jeu, en notant qu'une relation ne peut être développée qu'une seule fois par épisode.
 
-- **Côtoyer le PNJ** : le personnage joueur peut découvrir l'une des valeurs d'amitié, de désir et d'admiration du PNJ à son égard et la reporter sur sa fiche. Il ne peut pas savoir quelle est l'affinité du PNJ à son égard par ce biais.
+- **Côtoyer le PNJ** : le personnage passe suffisamment de temps pour découvrir les valeurs d'amitié, de désir et d'admiration du PNJ à son égard et les reporter sur sa fiche. Il ne peut pas savoir quelle est l'affinité du PNJ à son égard par ce biais.
 - **Trainer avec le PNJ** : faire des activités ensemble comme des révisions, du sport, une sortie ciné ou simplement glander dans la rue. Cela peut faire monter l'amitié d'un cran si celle-ci est une relation d'affinité.
 - **Proposer un rencart avec le PNJ** : si le PNJ accepte (si l'affinité le permet) alors le PJ peut aller au restaurant, au cinéma ou à tout endroit convenable pour un rencart, et le désir augmente d'un cran s'il s'agit d'une relation d'affinité. Si le PNJ refuse (parce qu'il n'a pas d'affinité), le PJ doit effectuer un jet de résistance mentale et en cas d'échec il subit un trauma approprié. Personne n'aime se prendre un rateau.
 - **Accorder de l'attention au PNJ** : passer du temps avec le PNJ sur l'activité qui concerne son admiration pour vous est une bonne façon de gagner davantage de son intérêt. L'admiration augmente d'un cran si une affinité existe entre les personnages.
