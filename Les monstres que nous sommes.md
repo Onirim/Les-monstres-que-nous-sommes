@@ -589,7 +589,7 @@ Les résultats représentent le niveau de l'étudiant dans ses différents cours
 | 1-19 | F | 0-3 |
 
 - **Notation A**: Le savoir est acquis, vos parents ne demanderont sans doute pas mieux et vous êtes considéré comme un étudiant sérieux.
-- **Notation B** : En cours d'inquisition mais insuffisant. Vos parents vous mettrons la pression et vous faites partie des étudiants qui doivent travailler sérieusement pour atteindre le A.
+- **Notation B** : En cours d'acquisition mais insuffisant. Vos parents vous mettrons la pression et vous faites partie des étudiants qui doivent travailler sérieusement pour atteindre le A.
 - **Notation C** : Vous ne comprenez pas vos cours, au grand désespoir de vos parents. Si vous continuez ainsi, vous serez en échec dans vos études. Les autres étudiants vous considèrent comme un cancre.
 - **Notation D** : Vous êtes l'idiot du village ou vous le faites exprès ? C'est l'enfer à la maison et les autres étudiants vous considèrent sans doute comme quelqu'un d'assez bête.
 - **Notation F** : Vous ne faites pas votre travail du tout, ne rendez pas vos devoirs, êtes absent la plupart du temps. Vous risquez le renvoi sous peu.
