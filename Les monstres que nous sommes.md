@@ -13,7 +13,7 @@ date: "Version 2.5 - Juin 2026"
 
 ## Le cadre de jeu
 
-Par défaut, le jeu se déroule dans une petite ville fictive située aux Etats-Unis d'Amérique, comme dans la plupart des séries télé du genre. Notre petite ville cache de sombres secrets et se trouve au coeur d'un embroglio d'influences surnaturelles auquelles les adultes ne croient en général pas et que les officiels tentent de cacher. Avec ses 30 000 habitants, notre agglomération possède tout ce qu'une petite ville se doit de posséder : un lycée, une petite université, un hôpital, un centre commercial, deux ou trois boites de nuit, etc. On y trouve aussi des lieux mystérieux où il est déconseillé de se rendre : une ancienne base militaire désaffectée, un vieux centre commercial à l'abandon, et différentes ruines dans les bois dans lesquelles disparaissent parfois de jeunes explorateurs trop curieux.
+Par défaut, le jeu se déroule dans une petite ville fictive située aux Etats-Unis d'Amérique, comme dans la plupart des séries télé du genre. Notre petite ville cache de sombres secrets et se trouve au coeur d'un imbroglio d'influences surnaturelles auquelles les adultes ne croient en général pas et que les officiels tentent de cacher. Avec ses 30 000 habitants, notre agglomération possède tout ce qu'une petite ville se doit de posséder : un lycée, une petite université, un hôpital, un centre commercial, deux ou trois boites de nuit, etc. On y trouve aussi des lieux mystérieux où il est déconseillé de se rendre : une ancienne base militaire désaffectée, un vieux centre commercial à l'abandon, et différentes ruines dans les bois dans lesquelles disparaissent parfois de jeunes explorateurs trop curieux.
 
 Vous faites partie des jeunes gens qui étudient dans cette petite ville, au lycée ou à l'université. Vos camarades et vous allez vous retrouver confrontés aux mystères surnaturels remontant à la surface de la ville et menaçant de s'en prendre à vous, à vos amis, à votre famille. Peut-être la ville vous marquera t-elle de son empreinte et deviendrez-vous un monstre, tentant de concilier votre vie d'étudiant, vos difficultés d'adolescent ou de jeune adulte, ainsi la part sombre en vous.
 
@@ -60,7 +60,7 @@ La création de l'historique des personnages permet de mieux les définir et de 
 | 8-9 | Cadre | 1-2 Médecins, 3-4 Ingénieurs, 5-6 Professeurs, 7 Avocats, 8-9 Fonctionnaires, 10 Religieux |
 | 10 | Huppé | 1-3 Actionnaires, 4-5 Stars du show business, 6-7 Politiciens, 8-9 Chefs d'entreprise, 10 Richesse mystérieuse |
 
-*« Combien d'enfants ont eu vos parents ? Vous pouvez choisir librement ou laisser le hasard vous inspirer en tirant d'abord le nommbre d'enfants de la famille, puis pour chacun son âge relatif et son sexe. »*
+*« Combien d'enfants ont eu vos parents ? Vous pouvez choisir librement ou laisser le hasard vous inspirer en tirant d'abord le nombre d'enfants de la famille, puis pour chacun son âge relatif et son sexe. »*
 
 | 1d10 | Nb enfants | Âge | Sexe |
 | --- | --- | ---------- | --- |
@@ -79,7 +79,7 @@ Une fois votre cadre familial défini, nous pouvons commencer à tisser des lien
 
 *« Choisissez votre ami d'enfance parmi les PJ autour de la table. Il est généralement issu du même milieu que vous. »*
 
-> Pour la création de Camille, nous décidons qu'elle sera issue du milieu ouvrier : son père travaille dans un petit laboratoire de biologie en tant que technicien, sa mère travail  dans le milieu commerçant en tant qu'employée dans le centre de loisir local. Les parents de Camille ont une famille nombreuse, la jeune fille a une soeur plus jeune qu'elle, une soeur plus âgée qu'elle, et un frère jumeau ! Nous décirons que la famille Cooper vit dans un bateau aménagé, amarré constemment au port lacuste de la ville. Une famille de 6 personnes dans un bateau, ça fait peu de places et Camille est obligée de partager sa petite chambre avec sa soeur cadette. Enfin, nous décidons que sa famille est immigrée canadienne, et qu'elle a laissé son ami d'enfance là bas.
+> Pour la création de Camille, nous décidons qu'elle sera issue du milieu ouvrier : son père travaille dans un petit laboratoire de biologie en tant que technicien, sa mère travail  dans le milieu commerçant en tant qu'employée dans le centre de loisir local. Les parents de Camille ont une famille nombreuse, la jeune fille a une soeur plus jeune qu'elle, une soeur plus âgée qu'elle, et un frère jumeau ! Nous décirons que la famille Cooper vit dans un bateau aménagé, amarré constement au port lacustre de la ville. Une famille de 6 personnes dans un bateau, ça fait peu de places et Camille est obligée de partager sa petite chambre avec sa soeur cadette. Enfin, nous décidons que sa famille est immigrée canadienne, et qu'elle a laissé son ami d'enfance là bas.
 
 ### Pré adolescence
 
@@ -119,7 +119,7 @@ Une fois votre cadre familial défini, nous pouvons commencer à tisser des lien
 | 9 | Handicap |
 | 10 | Rejet de l'autorité |
 
-> Camille est une jeune fille active et qui s'est rapidement passionnée pour les sports : hochey sur glace, plongée et moto-cross. Elle n'a que peu d'intérêt pour la romance, ne s'intéresse pas aux garçons et s'est même défendue plusieurs fois de manière violente lorsqu'elle s'est faite draguer de manière trop lourde. Depuis, au lycée, elle se traine une réputation au mieux de frigide, au pire on raconte qu'elle préfère les filles en secret. Même les parents de Mary Christina qui en ont eu vent préfèrent garder un oeil sur leur fille lorsque sa meilleure amie vient à la maison, au cas où Camille entraîne leur fille sur des chemins inacceptables pour une famille catholique. Le MJ ayant placé la série des Monstres que nous sommes au début de l'année 2000, l'homosexualité - réelle ou supposée - est plutôt mal vue, surtout dans les petites villes américaines.
+> Camille est une jeune fille active et qui s'est rapidement passionnée pour les sports : hockey sur glace, plongée et moto-cross. Elle n'a que peu d'intérêt pour la romance, ne s'intéresse pas aux garçons et s'est même défendue plusieurs fois de manière violente lorsqu'elle s'est faite draguer de manière trop lourde. Depuis, au lycée, elle se traine une réputation au mieux de frigide, au pire on raconte qu'elle préfère les filles en secret. Même les parents de Mary Christina qui en ont eu vent préfèrent garder un oeil sur leur fille lorsque sa meilleure amie vient à la maison, au cas où Camille entraîne leur fille sur des chemins inacceptables pour une famille catholique. Le MJ ayant placé la série des Monstres que nous sommes au début de l'année 2000, l'homosexualité - réelle ou supposée - est plutôt mal vue, surtout dans les petites villes américaines.
 
 ## Environnement académique
 
@@ -142,7 +142,7 @@ Les personnages joueurs de votre série sont tous étudiants : soit au lycée, s
 | 9 | Santé & médecine | Anatomie, nutrition, premiers secours |
 | 10 | Métiers manuels | Menuiserie, mécanique, cuisine |
 
-> Camille a beau adorer le sport, elle aimerait travailler dans le domaine de la biologie maritime et lacuste, particulièrement pour la sauvagarde de l'environnement. Elle a donc choisi le cursus scientifique - même si elle n'est pas brillante en cours.
+> Camille a beau adorer le sport, elle aimerait travailler dans le domaine de la biologie maritime et lacuste, particulièrement pour la sauvegarde de l'environnement. Elle a donc choisi le cursus scientifique - même si elle n'est pas brillante en cours.
 
 ### Activité parascolaire
 
@@ -163,7 +163,7 @@ Les membres d'une même activité se connaissent généralement et se considère
 
 ### Cliques
 
-*« Au lycée, les étudiants ont tendance à se retrouver au sein de cliques. Ce sont des hiérarchies sociales fluides et informelles mais qui ont un impact réel sur la vie du lycée. Choisir une clique apporte du soutient mais également des obligations. Vous pouvez en choisir une, ou n'en choisir aucune. »*
+*« Au lycée, les étudiants ont tendance à se retrouver au sein de cliques. Ce sont des hiérarchies sociales fluides et informelles mais qui ont un impact réel sur la vie du lycée. Choisir une clique apporte du soutien mais également des obligations. Vous pouvez en choisir une, ou n'en choisir aucune. »*
 
 | 1d6 | Clique | Profil |
 | --- | ----- | --------- |
@@ -362,7 +362,7 @@ Lorsqu'il s'agit de blesser son prochain, tout objet raisonnablement dangereux p
 
 Certaines armes sont plus dangereuses que d'autres, spécifiquement celles qui ont été conçues pour le combat. Ces armes sont dites létales, et elle apportent un bonus de dégât de +20, ce qui se traduit par un malus de -20 à la résistance physique de la cible. Parmi les armes létales on trouve les armes à feu, les épées, les tronçonneuses, les flèches, etc.
 
-> Camille rentre chez elle après une soirée chez son amie Mary Cristina. En chemin, elle entends des bruits de pas qui semblent la suive et qui s'accélèrent de plus en plus. Ressentant une soudaine montée d'adrénaline, elle attrape une bouteille de verre abandonnée et la brandit alors qu'elle se retourne pour faire face à ce qui la suit. La bouteille étant une arme improvisée, elle lui apportera un bonus de dégâts de +10 (qui se traduira par un malus de -10 à la résistance physique de son éventuel agresseur, si elle devait s'en servir).
+> Camille rentre chez elle après une soirée chez son amie Mary Christina. En chemin, elle entends des bruits de pas qui semblent la suive et qui s'accélèrent de plus en plus. Ressentant une soudaine montée d'adrénaline, elle attrape une bouteille de verre abandonnée et la brandit alors qu'elle se retourne pour faire face à ce qui la suit. La bouteille étant une arme improvisée, elle lui apportera un bonus de dégâts de +10 (qui se traduira par un malus de -10 à la résistance physique de son éventuel agresseur, si elle devait s'en servir).
 
 ## Les protections
 
@@ -521,7 +521,7 @@ La maîtrise de soi du vampire lui permet de garder le contrôle lorsqu'il est a
 En tant que leshy, vous pouvez utiliser deux formes à volonté : la forme humaine et la forme transitoire. Quant à la forme de greffé, elle est incontrôlable et est à vous transforme en vengeur inhumain d'une nature malmenée. Toutes les formes ont ceci en commun : Vous échouez systématiquement un test de résistance physique contre le feu ; vous pouvez guérir d'un trauma physique à chaque nuit de sommeil.
 
 - **Forme humaine** : Peu après la greffe qui a fait de vous un leshy, les traits suivants augmentent : +10 en nature, +5 en résistance mentale et +10 en résistance physique. Ces bonus ne sont pas des modificateurs et font maintenant partie de vos scores. Votre corps est capable de régénérer lentement de ses blessures : vous récupérez un de vos stress physiques à la fin d’une scène.
-- **Forme transitoire** : C’est sous cette forme que vous ressentez plus fortement la pulsation qui bat en vous ainsi que le hurlement de la nature autour de vous. Vous devenez capable de vous enraciner au sol. Votre musculature devient plus dense, vos traits empruntent à ceux du règle végétal et votre peau se durcit comme l’écorce, limitant considérablement vos activités sociales. Votre voix est également plus rauque mais votre diction suffisante pour être compris. Sous cette forme, vous obtenez un modificateur de +20 en Combat, +10 en Nature, +10 en résistance physique et +5 en Vigilance. Votre corps est maintenant capable de régénérer rapidement de ses blessures : vous récupérez tout votre stress physique à la fin d’une scène.
+- **Forme transitoire** : C’est sous cette forme que vous ressentez plus fortement la pulsation qui bat en vous ainsi que le hurlement de la nature autour de vous. Vous devenez capable de vous enraciner au sol. Votre musculature devient plus dense, vos traits empruntent à ceux du règne végétal et votre peau se durcit comme l’écorce, limitant considérablement vos activités sociales. Votre voix est également plus rauque mais votre diction suffisante pour être compris. Sous cette forme, vous obtenez un modificateur de +20 en Combat, +10 en Nature, +10 en résistance physique et +5 en Vigilance. Votre corps est maintenant capable de régénérer rapidement de ses blessures : vous récupérez tout votre stress physique à la fin d’une scène.
 - **Forme de greffé** : Sous forme de greffé, vous devenez le vengeur de la nature malmenée. Vous n’avez plus aucune maîtrise de vous-même et prenez l’apparence d’une créature d’écorce, de ronces et de bois terrifiante pour la durée d’une scène. Sous cette forme, vous recevez un modificateur de +50 en Combat, de +20 en résistance physique et de +10en Vigilance. Votre corps est maintenant capable de régénérer rapidement de ses blessures : vous récupérez tout votre stress physique à la fin d’une scène. Vos griffes et vos bois sont des armes létales et vous octroient un bonus de +20 en dégâts. Les témoins ont tendance à rationaliser et à trouver toute explication que leur esprit peut accepter plutôt que celle de la terrible réalité.
 
 ### Les pouvoirs personnels
@@ -618,7 +618,7 @@ L'attribut de sérénité peut être testé pour éviter des accidents d'inatten
 
 Chaque début de scénario, on choisit où l'on a mis ses efforts durant la période écoulée. Si la période était relativement courte (une semaine) le PJ gagne 1d6 points dans son score de **résultats**, de **popularité** ou de **sérénité**. Si la période était plus longue, de l'ordre d'un mois, alors la valeur est augmentée de 2d6 points. Les deux scores qui n'ont pas été choisies doivent faire l'objet d'un test afin de ne pas chuter d'1d6 ou de 2d6 points. Notez que les malus dus aux traumas s'appliquent sur ces tests, on a donc plus de difficutlé à survivre dans la jungle académique lorsque l'on est pas au mieux de sa forme. Vous pouvez demander à vos joueurs :
 
-*« Depuis le dernier épisode, la vie a repris son cours. Au niveau académique, où avez-vous mis vos efforts ? Avez-vous révisé pour émaliorer votre niveau ? Avez-vous privilégié votre popularité au sein de l'établissement ? Ou avez-vous plutôt relâché la pression ? Choisissez entre résultats, popularité et sérénité. »*
+*« Depuis le dernier épisode, la vie a repris son cours. Au niveau académique, où avez-vous mis vos efforts ? Avez-vous révisé pour améliorer votre niveau ? Avez-vous privilégié votre popularité au sein de l'établissement ? Ou avez-vous plutôt relâché la pression ? Choisissez entre résultats, popularité et sérénité. »*
 
 - Pour ne pas perdre en **résultats**, il faut réussir un test de savoir.
 - Pour ne pas perdre en **popularité**, il faut réussir un test de bagou ou d'une compétence relative à la pratique parascolaire.
@@ -644,7 +644,7 @@ Une fois testé la vie académique, le MJ peut vous demander un test d'incident 
 | 3 | Un ou plusieurs élèves vous poussent sournoisement dans votre casier avant de le verrouiller. Heureusement on vient à votre secours quelques minutes plus tard. Subissez une case de stress mental. |
 | 4 | Quelqu'un a ouvert en grand votre rideau de douche alors que vous aviez de la mousse plein les yeux, c'était extrêmement humiliant ! Subissez une case de stress mental. |
 | 5 | Quelqu'un vous a fait un croc-en-jambe dans les escaliers et vous avez dévalé quelques marches. Subissez une case de stress physique. |
-| 6 | Vous recevenez un petit papier à votre nom pendant un cours, transmis d'élève en élève. Vous l'ouvrez pour lire "FUCK YOU". Subissez une case de stress mental. |
+| 6 | Vous recevez un petit papier à votre nom pendant un cours, transmis d'élève en élève. Vous l'ouvrez pour lire "FUCK YOU". Subissez une case de stress mental. |
 | 7 | On vous attrape dans la cours de l'académie et on vous jette dans une benne à ordure non loin, où vous vous cognez la tête. Subissez une case de stress physique. |
 | 8 | Aux toilettes, un message est inscrit à votre attention sur le miroir et il est loin d'être sympathique. Subissez une case de stress mental. |
 | 9 | Vous vous faites grossièrement draguer en pleine classe, c'est tellement lourd que c'est forcément malveillant. Subissez une case de stress mental. |
@@ -667,7 +667,7 @@ Une fois testé la vie académique, le MJ peut vous demander un test d'incident 
 
 ### Les axes de relation
 
-Chaque lien possède trois axes : l'**amitié**, le **désir**et l'**admiration**. Lorsqu'un nouveau PNJ est ajouté dans une relation suivie, le MJ doit secrètement définir quels sont les **affinités;**entre le PNJ et le PJ. Il peut s'agir d'une affinité d'amitié, d'attirance ou d'admiration (un seul des axes, deux, voir même les trois !). La relation ne pourra progresser que pour les axes où il existe une affinité. La version négative de l'amitié est l'**hostilité**. Dans le cas d'un personnage hostile, le désir devient généralement toxique et l'admiration se transforme en jalousie.
+Chaque lien possède trois axes : l'**amitié**, le **désir** et l'**admiration**. Lorsqu'un nouveau PNJ est ajouté dans une relation suivie, le MJ doit secrètement définir quels sont les **affinités** entre le PNJ et le PJ. Il peut s'agir d'une affinité d'amitié, d'attirance ou d'admiration (un seul des axes, deux, voir même les trois !). La relation ne pourra progresser que pour les axes où il existe une affinité. La version négative de l'amitié est l'**hostilité**. Dans le cas d'un personnage hostile, le désir devient généralement toxique et l'admiration se transforme en jalousie.
 
 **Amitié** : L'amitié représente l'affinité, la camaraderie et la sympathie que le PNJ peut éprouver pour le PJ. A la différence des deux autres axes de relation, l'amitié peut être inversée et représenter alors l'hostilité éprouvée pour le PJ. L'amitié peut augmenter si le PJ se donne les moyens de la cultiver et qu'il y a une affinité entre les personnages, généralement en **trainant** avec le PNJ.
 
