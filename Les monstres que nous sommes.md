@@ -567,7 +567,7 @@ Les monstres que nous sommes est un jeu se voulant simple et facile à prendre e
 
 ## L'environnement académique
 
-Dans votre série, la vie au lycée ou à l'université est un élément aussi important pour le personnage que ses aventures surnaturelles, cela vaut donc le coup de suivre son évolution, sans entrer dans trop de détails. Nous suivrons donc trois indicateurs : les **résultats**, la **popularité** et la **sérénité**. Lors de la création du personnage, les résultats sont égaux au score de savoir du personnage, la popularité est égale à sa valeur de bagou et son score de divertissement est égal à sa résistance mentale.
+Dans votre série, la vie au lycée ou à l'université est un élément aussi important pour le personnage que ses aventures surnaturelles, cela vaut donc le coup de suivre son évolution, sans entrer dans trop de détails. Nous suivrons donc trois indicateurs : les **résultats**, la **popularité** et la **sérénité**. Lors de la création du personnage, les résultats sont égaux au score de savoir du personnage, la popularité est égale à sa valeur de bagou et son score de sérénité est égal à sa résistance mentale.
 
 ### Résultats
 
