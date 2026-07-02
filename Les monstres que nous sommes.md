@@ -559,6 +559,19 @@ La maîtrise de soi du leshy lui permet de garder le contrôle lorsque la nature
 
 \cleardoublepage
 
+# La ville de votre série (trouver un nom)
+
+## Un peu d'histoire
+
+## Lieux d'intérêt
+
+## Vivre à ...
+
+### Les journaux locaux
+
+
+\cleardoublepage
+
 # Mener le jeu
 
 ## Différents types de scénarios
@@ -582,6 +595,8 @@ La maîtrise de soi du leshy lui permet de garder le contrôle lorsque la nature
 ### Objets trouvés
 
 \cleardoublepage
+
+
 
 # Règles avancées
 
