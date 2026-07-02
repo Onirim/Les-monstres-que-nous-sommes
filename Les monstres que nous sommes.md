@@ -35,6 +35,28 @@ Une **saison** est une succession de scénarios menant à une révélation impor
 
 Enfin, la **série** c'est votre groupe de joueurs dans votre ville fictive : une ou plusieurs saisons vous permettait de faire vivre les protagonistes et de développer une histoire riche et pleine d'émotion.
 
+## Jouer les monstres, rester entre gens de confiance
+
+**Les monstres que nous sommes** est un jeu qui va chercher dans le sombre. On y parle de familles qui se déchirent, de dépendances, de harcèlement, de corps qui changent, de réputations qu'on assassine, de haine ordinaire — racisme, homophobie — et de créatures qui, un mauvais soir, retournent leurs griffes contre ceux qu'elles aiment. C'est exactement de cette matière que sont faites les meilleures séries du genre, et c'est là que nous allons planter le décor.
+
+Autour d'une bonne table, tout cela se règle d'un regard. On connaît ses amis, on sait jusqu'où pousser, on sent quand quelqu'un décroche. Longtemps ça nous a suffi — et si c'est votre cas, tant mieux, vous pouvez tourner la page. Ce qui suit n'est ni un règlement ni un avertissement : ce sont trois ou quatre outils de tournage, le genre de choses qu'une équipe soudée fait déjà sans y penser, mis par écrit pour les tables qui n'ont pas encore vingt ans de complicité derrière elles.
+
+### Ce qu'on montre, ce qu'on laisse hors-champ
+
+Même la série la plus sanglante choisit ce qu'elle cadre et ce qu'elle coupe au montage. Avant le premier épisode, faites un tour de table rapide. Certains sujets ne montent pas sur le plateau du tout : on n'en fait pas un ressort dramatique, point. D'autres existent dans l'histoire mais restent **hors-champ** : on sait qu'ils ont lieu, on fond au noir plutôt que de les jouer en gros plan. Le MJ note tout ça dans un coin de sa feuille, et ça prime sur n'importe quel scénario prévu.
+
+### « Coupez »
+
+Sur un tournage, n'importe qui peut arrêter une prise. Ici, c'est pareil : n'importe qui — le MJ compris — peut lever la main et dire **« Coupez »**. On rembobine, on ajuste, on repart. Pas de justification à donner, pas de débat, pas d'explication due à qui que ce soit. Une scène qui coûte quelque chose à une vraie personne ne vaut aucun jet de dé. Et pour les demi-mesures, on peut toujours demander un fondu au noir ou une avance rapide plutôt qu'une coupe franche.
+
+### Après l'épisode
+
+Vos personnages, eux, traînent leurs traumas d'un scénario à l'autre. Vous, non : à la fin de la séance, on referme le livre et on rentre chez soi. Un petit tour de table — ce qui a marqué, ce qui a plu, ce qu'on préfère garder à distance la prochaine fois — suffit largement à laisser les monstres sur le plateau et à repartir léger.
+
+### Le monstre, c'est le personnage
+
+Interpréter un loup-garou ne fait pas de vous une bête, et faire dire à un PNJ les préjugés ordinaires d'une époque — l'homophobie tranquille des années 2000, par exemple — ne veut pas dire qu'on les épouse. Le jeu met ces laideurs en scène parce qu'elles font le drame, pas parce qu'on y adhère. À votre table, on joue *contre* ces monstres-là autant que contre ceux qui hurlent à la lune.
+
 \cleardoublepage
 
 # Création de personnage
