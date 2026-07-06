@@ -2,7 +2,7 @@
 title: "Les monstres que nous sommes"
 subtitle: "Un jeu de rôle de monstres, de mystères et de drames adolescents inspiré de nos séries télévisées surnaturelles préférées"
 author: "Thibaut CRESPEL"
-date: "Version 2.5 - Juin 2026"
+date: "Version 2.6 - Juillet 2026"
 ---
 
 \cleardoublepage
@@ -501,6 +501,21 @@ Une sorcière de tradition wiccane possède un livre des ombres. C'est à la foi
 
 **Localisation au pendule** : Vous savez laisser le pendule vous guider vers le sujet que vous recherchez. Il peut vous guider dehors, dans la rue, dans une forêt ou un appartement, il peut également indiquer un point sur une carte. Pour trouver le sujet recherché, vous devez posséder quelque chose lui appartenant, ou alors des informations sur lui, ce que nous appellerons les liens. Plus les liens sont ténus ou insuffisants, plus le MJ pourra rendre votre action difficile ou simplement la faire échouer.
 
+**Charme de sommeil** : Vous pouvez plonger une cible dans un sommeil profond et sans rêve. Ce sort nécessite que vous ayez préalablement saupoudré votre cible d'herbes préparées à l'avance pour le rituel. La cible doit réussir un défi de résistance mentale contre votre occultisme pour y échapper. Ce sortilège est aussi précieux pour endormir un témoin gênant que pour aider un ami insomniaque — mais l'utiliser sur quelqu'un sans son accord reste un acte lourd de conséquences si cela venait à se savoir.
+
+**Voile des apparences** : Vous pouvez modifier temporairement l'apparence d'un objet ou d'une personne consentante (les traits du visage, la couleur des vêtements, une blessure que l'on souhaite masquer) pour la durée d'une scène. Le sortilège ne trompe pas un examen attentif : un défi de vigilance réussi de la part d'un observateur contre votre occultisme permet de percer l'illusion.
+
+
+**Rituel de guérison** : Vous pouvez accélérer la guérison d'une blessure physique en pratiquant un rituel d'herbes et de bandages ensorcelés qui dure toute une scène. À l'issue du rituel, la cible efface une case de trauma physique. Ce sortilège ne peut être utilisé qu'une fois par scénario sur une même personne, le corps ne supportant pas d'être forcé plus souvent.
+
+**Marque de l'envoûtement** : Vous pouvez jeter une petite malédiction sur une cible désignée (poupée, mèche de cheveux, photographie), lui infligeant malchance et malaise pendant toute une journée. Elle subit alors un malus de -10 à l'ensemble de ses tests. C'est un sortilège de magie noire quasi systématiquement, sauf circonstance exceptionnelle laissée à l'appréciation du MJ.
+
+**Lecture des lames** : À l'aide d'un tarot, de runes ou de tout autre support divinatoire personnel, vous pouvez obtenir une impression fragmentaire sur un événement à venir ou une décision à prendre. Le MJ vous répond par une image, une sensation ou une phrase sibylline plutôt que par une information claire — la divination ne donne jamais de certitude, seulement des indices à interpréter.
+
+**Fil d'argent** : Vous pouvez établir un lien sensoriel discret avec une personne avec qui vous partagez une attache forte (famille, meilleur ami, âme sœur autoproclamée), à condition de posséder un objet lui appartenant. Sur un jet réussi, vous ressentez son état émotionnel et pouvez le localiser assez précisément.
+
+**Cercle de protection** : En traçant un cercle avec du sel, de la craie ou tout autre composant rituel, vous créez une zone protectrice qui empêche toute entité surnaturelle malveillante d'y pénétrer tant que le cercle reste intact. Le rituel demande du temps et du calme à mettre en place ; il est donc rarement utilisable en pleine urgence, mais précieux pour sécuriser un lieu de repli.
+
 ### Utiliser le pouvoir
 
 - **Ressentir le Pouvoir** : Vous pouvez ressentir le pouvoir autour de vous via un jet de vigilance réussi. Vous aurez alors une idée de la puissance du pouvoir et de sa localisation approximative.
@@ -528,7 +543,19 @@ Lorsque vous cochez une case de corruption, les marques deviennent visibles sur 
 
 Chaque vampire développe ses propres Pouvoirs. Les utiliser en journée vous coûte systématiquement une case de soif (mais ne vous oblige pas à effectuer un jet de maîtrise de soi). Lorsqu'un nouveau pouvoir est acquis, il débute avec un score de 50. Si le pouvoir peut être utilisé pour améliorer directement une compétence, alors son score peut s'ajouter à celui de la compétence, permettant un dépassement du score de compétence. Sinon, le pouvoir peut être utilisé de manière autonome via son propre score. Vous trouverez ci-après quelques exemples de pouvoirs du sang.
 
-<A insérer ici>
+**Célérité du sang** : Vous pouvez puiser dans son sang pour accélérer vos mouvements de façon surnaturelle. Vous ajoutez votre score de pouvoir à votre compétence d'athlétisme ou de combat lorsque vous courez, esquivez ou tentez de réagir avant tout le monde. Utilisé de manière trop visible (une esquive impossible, une vitesse de course inhumaine), ce pouvoir risque d'éveiller des soupçons chez les témoins, surtout si votre score total de compétence dépasse 100.
+
+**Force du damné** : Vous pouvez décupler votre force physique pour la durée d'une action : soulever un poids énorme, enfoncer une porte, ou frapper avec une puissance redoutable. Vous utlisez votre score de pouvoir pour vos dégâts lorsque vous décidez d'utliliser cette force pour combattre quelqu'un. Vous pouvez également l'utiliser pour augmenter votre score d'athlétisme pour les tests qui demandent de la puissance musculaire.
+
+**Voile des ombres** : Vous pouvez vous fondre dans votre environnement et devenir extrêmement difficile à repérer, à condition de rester immobile ou de vous déplacer lentement. Votre score de pouvoir s'ajoute à votre compétence de filouterie quand vous tentez d'être discret, devenant quasiment invisible aux yeux des témoins qui ne vous cherchent pas activement ; un observateur qui soupçonne déjà votre présence peut tenter un défi de vigilance opposé à votre filouterie pouvoir pour vous repérer.
+
+**Regard hypnotique** : Vous plongez votre regard dans celui d'une victime consentante ou prise par surprise pour lui susurrer un ordre simple, qu'elle sera encline à suivre comme si l'idée venait d'elle. Un défi de pouvoir doit être réussi, opposé à la résistance mentale de la cible si l'ordre va clairement à l'encontre de sa nature ou de ses intérêts.
+
+**Sens du prédateur nocturne** : Vos sens sont exacerbés dans l'obscurité : vous pouvez ajouter votre score de pouvoir à vos tests de vigilance pour repérer une proie, détecter un mensonge à l'odeur de la peur, ou localiser une source de sang proche.
+
+**Peau de pierre** : Votre corps est étonnamment résistant. Vous pouvez ajouter votre score de pouvoir à votre résistance physique. Ce pouvoir ne protège cependant pas contre le feu ni contre les armes bénies.
+
+**Appel de la nuée** : Vous entretenez une affinité particulière avec une catégorie d'animaux nocturnes (chauve-souris, rats, corbeaux, loups errants) que vos pouvez appeler et diriger sommairement sur un test de pouvoir réussi. Les animaux ainsi convoqués peuvent espionner un lieu, semer la panique, ou simplement vous escorter — mais ils restent des créatures avec leurs propres instincts, pas des soldats obéissants.
 
 ### La soif et la perversion
 
@@ -550,7 +577,17 @@ En tant que leshy, vous pouvez utiliser deux formes à volonté : la forme humai
 
 Chaque leshy peut développer jusqu'à trois pouvoirs qui lui sont propres. Lorsqu'un nouveau pouvoir est acquis, il débute avec un score de 50. Si le pouvoir peut être utilisé pour améliorer directement une compétence, alors son score peut s'ajouter à celui de la compétence, permettant un dépassement du score de compétence. Sinon, le pouvoir peut être utilisé de manière autonome via son propre score. Vous trouverez ci après quelques exemples de pouvoirs personnels pour les leshys. Les pouvoirs personnels des leshys ne se cumulent cependant pas avec les bonus attribués à leur forme : seul le bonus le plus élevé est pris en compte (généralement celui du pouvoir personnel).
 
-<A insérer ici>
+**Écorce vivante** : Vous pouvez durcir votre peau à la manière d'une écorce noueuse pendant une scène entière, ajoutant votre score de pouvoir à votre résistance physique. Ce pouvoir ne vous protège cependant pas contre le feu, qui reste votre faiblesse fondamentale.
+
+**Racines profondes** : Vous pouvez vous enraciner brièvement au sol pour puiser une force phénoménale, ajoutant votre score de pouvoir à vos dégâts ou à votre athlétisme lorsqu'il s'agit de frapper, de soulever un poids ou de résister à être déplacé de force. Une fois enraciné de la sorte, vous ne pouvez cependant pas vous déplacer sans annuler le pouvoir.
+
+**Voix de la canopée** : Vous pouvez communiquer avec la flore environnante — arbres, buissons, mousses — et en tirer des informations fragmentaires sur ce qui s'est passé récemment à proximité (un passage, une agression, une odeur de sang). Un test de pouvoir réussi vous donnera des informations utiles.
+
+**Camouflage sylvestre** : En pleine nature ou à proximité de végétation suffisante, vous pouvez vous fondre presque totalement dans votre environnement. Vous pouvez ajouter votre score de pouvoir à votre compétence de nature lorsque vous vous camouflez, et devenez extrêmement difficile à repérer pour quiconque ne vous cherche pas activement ; un poursuivant averti de votre présence peut tenter un défi de vigilance opposé à votre compétence de nature.
+
+**Ronces vengeresses** : Vous pouvez faire jaillir des ronces ou des racines du sol environnant pour entraver un adversaire pendant une scène. La cible doit réussir un défi d'athlétisme ou de résistance physique contre votre pouvoir pour se libérer avant d'agir normalement.
+
+**Symbiose animale** : Vous êtes perçu comme un gardien bienveillant par la faune sauvage, qui ne vous craint jamais et peut même vous assister. Sur un test de pouvoir réussi, vous pouvez faire appel à des animaux proches (oiseaux, cerfs, renards) pour observer un lieu, guider quelqu'un dans la forêt, ou détourner l'attention d'un poursuivant.
 
 ### La pulsation et la colère
 
