@@ -1,3 +1,5 @@
+![Illustration](Couverture.jpg)
+
 Les monstres que nous sommes est un jeu de rôle propulsant les joueurs dans un univers inspiré des séries télévisées telles que Buffy contre les Vampires ou Teen Wolf. Vous y interprétez des lycéens ou des jeunes adultes à l'université dans une petite ville fictive, entre mystère et horreur, faisant vous même partie des créatures qui hantent les nuits de la ville.
 
 Le jeu propose un système accessible et met l'accent sur la montée en stress et la génération de drama inhérente à ce genre de cadres. Le jeu propose une génération assez complète de personnage incluant le cadre familial, différentes étapes de l'enfance pour créer des liens entre les joueurs, les complications familiales et personnelles, et va jusqu'à proposer un système de gestion académique (heureusement assez simple) pour générer des situations intéressantes et approfondir les relations entre élèves.
