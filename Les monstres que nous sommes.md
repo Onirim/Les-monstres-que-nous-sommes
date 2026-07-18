@@ -364,6 +364,14 @@ Si un événement traumatisant devait laisser des séquelles à un personnage su
 
 A la fin d’une séance, le MJ peut accorder de 1 à 5 coches d’expérience en fonction des actions des personnages et de la qualité de l'interprétation. Les joueurs doivent alors cocher autant de cases en forme de losange ◇ comme on en trouve au niveau des **compétences**, des **spécialités,** ou encore des **résistances**.
 
+| Evénement | Expérience |
+| --- | --- |
+| Le personnage a participé à la séance et y a survécu | 1 |
+| Le personnage a causé un drama ou en a été la cible | 1 |
+| Le personnage s'est mis en danger pour le bien d'autrui | 1 |
+| Le personnage a découvert un mystère ou appris quelque chose d'important | 1 |
+| Le personnage a subi un test de maîtrise de soi (ou a aidé un autre personnage à résister s'il est humain) | 1 |
+
 A la fin d’un scénario, tous les losanges cochés donnent droit à un test de progression. Pour les **compétences**, **résistances** et **pouvoirs personnels**, si le joueur obtient un résultat **strictement supérieur** à la valeur actuelle, celle-ci progresse du résultat d'1d6. Si le résultat est inférieur ou égal, celle-ci progresse tout de même mais d'un point seulement.
 
 Il est également possible d’obtenir une nouvelle **spécialité**. Dans ce cas, la valeur à tester est égale au nombre de spécialités possédées multipliées par 15. Le joueur doit obtenir un résultat strictement supérieur à cette valeur, et s’il réussit, alors il peut noter sa nouvelle spécialité sur sa fiche.
