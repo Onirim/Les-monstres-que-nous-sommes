@@ -2,7 +2,7 @@
 title: "Les monstres que nous sommes"
 subtitle: "Un jeu de rôle de monstres, de mystères et de drames adolescents inspiré de nos séries télévisées surnaturelles préférées"
 author: "Thibaut CRESPEL"
-date: "Version 2.6 - Juillet 2026"
+date: "Version 2.7 - Juillet 2026"
 ---
 
 \cleardoublepage
@@ -596,33 +596,6 @@ La maîtrise de soi du leshy lui permet de garder le contrôle lorsque la nature
 
 \cleardoublepage
 
-# Mener le jeu
-
-## La ville de votre série
-
-## Différents types de scénarios
-
-### Le monstre de la semaine
-
-### L'enquête horrifique
-
-### La menace
-
-## Les scènes de drama
-
-### Eviter le status quo
-
-### Des personnages récurrents
-
-## Planter des graines
-
-### Journaux et rumeurs
-
-### Objets trouvés
-
-\cleardoublepage
-
-
 # Règles avancées
 
 Les monstres que nous sommes est un jeu se voulant simple et facile à prendre en main. Cependant, des MJ et joueurs vétérans pourraient souhaiter entrer plus en détail dans la vie de leurs personnages. Voici donc plusieurs règles avancées permettant de mettre en mouvement l'environnement académique (lycée et université) ainsi que la gestion des relations.
@@ -721,7 +694,6 @@ Une fois testé la vie académique, le MJ peut vous demander un test d'incident 
 | 5 | Attention ! Vous vous prenez une porte en pleine figure et finissez à l'infirmerie avec un saignement de nez. Subissez une case de stress physique. |
 | 6 | Vous avez du mal à vous concentrer et vous occupez autrement en classe. Vous écopez d'une heure de colle. Subissez une case de stress mental. |
 
-\cleardoublepage
 
 ## Relations suivies
 
