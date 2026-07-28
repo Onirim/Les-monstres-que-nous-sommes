@@ -34,6 +34,8 @@ Les adeptes de la Rationalité pensent que les mondes spirituels et leurs entit�
 
 ### L'Ordre des Lumières
 
-Les grandes chasses aux sorcières d'Europe ont été les premières grandes actions de l'Ordre des Lumières, qui pris son véritable essor durant la Renaissance. Depuis cette époque, l'Ordre manipule les sociétés, encourage l’essor des technologies de contrôle de masse et travaille à .
+Les grandes chasses aux sorcières d'Europe ont été les premières grandes actions de l'Ordre des Lumières, qui pris son véritable essor durant la Renaissance. Depuis cette époque, l'Ordre manipule les sociétés, encourage l’essor des technologies de contrôle de masse et travaille à l'abolition des émotions et au triomphe de la rationalité.
 
-### L'Institut Van Helsing
+### L'Institut Iscariote
+
+L'Institut Iscariote, nommé d'après le nom de famille de Judas, considère que le plan spirituel et ses entités sont un danger pour le monde, mais que l'on doit combattre le mal par le mal. Cette organisation accepte les créatures surnaturelles qui se considèrent comme maudites et qui acceptent de lutter contre les leurs, espérant par leurs actions racheter leur âme.
