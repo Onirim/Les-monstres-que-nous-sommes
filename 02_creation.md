@@ -42,7 +42,7 @@ Une fois votre cadre familial défini, nous pouvons commencer à tisser des lien
 
 *« Choisissez votre ami d'enfance parmi les PJ autour de la table. Il est généralement issu du même milieu que vous. »*
 
-> Pour la création de Camille, nous décidons qu'elle sera issue du milieu ouvrier : son père travaille dans un petit laboratoire de biologie en tant que technicien, sa mère travail  dans le milieu commerçant en tant qu'employée dans le centre de loisir local. Les parents de Camille ont une famille nombreuse, la jeune fille a une soeur plus jeune qu'elle, une soeur plus âgée qu'elle, et un frère jumeau ! Nous décirons que la famille Cooper vit dans un bateau aménagé, amarré constement au port lacustre de la ville. Une famille de 6 personnes dans un bateau, ça fait peu de places et Camille est obligée de partager sa petite chambre avec sa soeur cadette. Enfin, nous décidons que sa famille est immigrée canadienne, et qu'elle a laissé son ami d'enfance là bas.
+> Pour la création de Camille, nous décidons qu'elle sera issue du milieu ouvrier : son père travaille dans un petit laboratoire de biologie en tant que technicien, sa mère travail  dans le milieu commerçant en tant qu'employée dans le centre de loisir local. Les parents de Camille ont une famille nombreuse, la jeune fille a une sœur plus jeune qu'elle, une sœur plus âgée qu'elle, et un frère jumeau ! Nous décidons que la famille Cooper vit dans un bateau aménagé, amarré constamment au port lacustre de la ville. Une famille de 6 personnes dans un bateau, ça fait peu de places et Camille est obligée de partager sa petite chambre avec sa sœur cadette. Enfin, nous décidons que sa famille est immigrée canadienne, et qu'elle a laissé son ami d'enfance là bas.
 
 ### Pré adolescence
 
@@ -63,7 +63,7 @@ Une fois votre cadre familial défini, nous pouvons commencer à tisser des lien
 
 *« Choisissez un second ami d'enfance parmi les PJ autour de la table, qui vous a soutenu lors les crises familiales. »*
 
-> Pour la famille de Camille, les difficultés financières se sont accumulées à cause du faible salaire des parents et du nombre d'enfants à scolariser. Aussi la famille vit-elle toujours dans son bateau aménagé, et la jeune fille vit assez mal d'être entassée avec sa petite soeur (une adorable chipie). Elle cherche toutes les occasions de passer du temps en dehors du bateau. C'est à cette occasion qu'elle a rencontré Mary Christina Tucker, une fille de ranchers catholiques très pratiquants chez qui elle squatte beaucoup et avec qui elle écoute des CD de musiques extrême - hard rock, black metal, etc. - que les parents de Mary Christina réprouveraient fortement. Chez Mary Christina, la jeune Camille peut souffler et s'épanouir davantage.
+> Pour la famille de Camille, les difficultés financières se sont accumulées à cause du faible salaire des parents et du nombre d'enfants à scolariser. Aussi la famille vit-elle toujours dans son bateau aménagé, et la jeune fille vit assez mal d'être entassée avec sa petite sœur (une adorable chipie). Elle cherche toutes les occasions de passer du temps en dehors du bateau. C'est à cette occasion qu'elle a rencontré Mary Christina Tucker, une fille de ranchers catholiques très pratiquants chez qui elle squatte beaucoup et avec qui elle écoute des CD de musiques extrême - hard rock, black metal, etc. - que les parents de Mary Christina réprouveraient fortement. Chez Mary Christina, la jeune Camille peut souffler et s'épanouir davantage.
 
 ### Adolescence
 
@@ -82,7 +82,7 @@ Une fois votre cadre familial défini, nous pouvons commencer à tisser des lien
 | 9 | Handicap |
 | 10 | Rejet de l'autorité |
 
-> Camille est une jeune fille active et qui s'est rapidement passionnée pour les sports : hockey sur glace, plongée et moto-cross. Elle n'a que peu d'intérêt pour la romance, ne s'intéresse pas aux garçons et s'est même défendue plusieurs fois de manière violente lorsqu'elle s'est faite draguer de manière trop lourde. Depuis, au lycée, elle se traine une réputation au mieux de frigide, au pire on raconte qu'elle préfère les filles en secret. Même les parents de Mary Christina qui en ont eu vent préfèrent garder un oeil sur leur fille lorsque sa meilleure amie vient à la maison, au cas où Camille entraîne leur fille sur des chemins inacceptables pour une famille catholique. Le MJ ayant placé la série des Monstres que nous sommes au début de l'année 2000, l'homosexualité - réelle ou supposée - est plutôt mal vue, surtout dans les petites villes américaines.
+> Camille est une jeune fille active et qui s'est rapidement passionnée pour les sports : hockey sur glace, plongée et moto-cross. Elle n'a que peu d'intérêt pour la romance, ne s'intéresse pas aux garçons et s'est même défendue plusieurs fois de manière violente lorsqu'elle s'est faite draguer de manière trop lourde. Depuis, au lycée, elle se traîne une réputation au mieux de frigide, au pire on raconte qu'elle préfère les filles en secret. Même les parents de Mary Christina qui en ont eu vent préfèrent garder un œil sur leur fille lorsque sa meilleure amie vient à la maison, au cas où Camille entraîne leur fille sur des chemins inacceptables pour une famille catholique. Le MJ ayant placé la série des Monstres que nous sommes au début de l'année 2000, l'homosexualité - réelle ou supposée - est plutôt mal vue, surtout dans les petites villes américaines.
 
 ## Environnement académique
 
@@ -143,10 +143,10 @@ Les membres d'une même activité se connaissent généralement et se considère
 
 *« Si vous êtes à l'université, vous pouvez rejoindre une fraternité ou une sororité. Contrairement aux cliques, ce sont des organisations formelles avec un processus d'intégration, une maison commune et des obligations réelles. Avez-vous rejoint une des fraternités ou des sororités à ce stade ? »*
 
-Typiquement les fraternités et sororités ont des noms formés de deux ou trois lettres grecques combinées (par exemple Alpha Sigma Nu ou encore Phi Omega). Voici quatre propositions de fraternités et de sororités pour votre série, vous pouvez bien sûr créer les votres !
+Typiquement les fraternités et sororités ont des noms formés de deux ou trois lettres grecques combinées (par exemple Alpha Sigma Nu ou encore Phi Omega). Voici quatre propositions de fraternités et de sororités pour votre série, vous pouvez bien sûr créer les vôtres !
 
-- **Kappa Kappa Tau** : Sororité d'étudiantes qui ont la réputation d'être particulièrement portées sur le mysticisme, l'art et la philosophie.
-- **Delta Nyx** : Sororité d'étudiantes sociables et actives dans les événements de l'université ainsi que dans les oeuvres de charité. Beaucoup sont cheerleaders et populaires.
+- **Kappa Kappa Tau** : Petite sororité d'étudiantes qui ont la réputation d'être particulièrement portées sur le mysticisme wiccan.
+- **Delta Nyx** : Sororité d'étudiantes sociables et actives dans les événements de l'université ainsi que dans les œuvres de charité. Beaucoup sont cheerleaders et populaires.
 - **Phi Iota Ketos** :  Fraternité d'étudiants réputés pour leurs résultats sportifs ainsi que pour leurs fêtes débridées. S'entendent apparemment bien avec Delta Nyx.
 - **Omicron Sigma Ardos** : Fraternité d'étudiants intellectuels et geeks, engagés dans le journalisme local. Une partie d'entre eux seraient conspirationnistes.
 
@@ -156,13 +156,12 @@ Interagir avec quelqu'un de sa clique ou de la même fraternité ou sororité pe
 
 *« Si vous deviez changer et devenir une créature de la nuit, laquelle choisiriez-vous ? Sélectionnez dans la table ci-dessous ou laissez le hasard décider. »*
 
-| 1d10 | Créature | Détails |
+| 1d100 | Créature | Détails |
 | --- | ---- | ----------- |
-| 1-2 | Humain | Vous ne faites pas partie des créatures terrifiantes qui peuplent la ville. Contrairement à vos camarades surnaturels, vous ne risquez pas de devenir un monstre, on peut toujours compter sur vous. |
-| 3-4 | Loup-Garou | Vous deviendrez une créature de griffe et de crocs qui hurle à la lune, tentant de résister à la rage qui risque de la submerger lorsque la faim de vie la tiraille. |
-| 5-6 | Sorcière | Vous pratiquez déjà la magie Wicca seule ou avec votre convent. Le vrai pouvoir s'éveillera bientôt en vous, rendant vos sorts puissants et menaçant de vous entraîner dans une spirale de corruption à chaque acte d'hubris. |
-| 7-8 | Vampire | Vous deviendrez une créature immortelle tiraillée par la soif, se nourrissant du sang des innocents et menaçant de céder à perversion et à l'immoralité. |
-| 9-10 | Leshy | Vous deviendrez une créature vengeresse façonnée comme une arme par la nature. Votre colère risquera de vous faire perdre la tête pour de bon alors que la pulsation des douleurs de la nature cognent dans votre cœur. |
+| 1-25 | Humain | Vous ne faites pas partie des créatures terrifiantes qui peuplent la ville. Contrairement à vos camarades surnaturels vous ne risquez pas de devenir un monstre, on peut toujours compter sur vous. |
+| 26-50 | Loup-Garou | Vous deviendrez une créature de griffe et de crocs qui hurle à la lune, tentant de résister à la rage qui risque de la submerger lorsque la faim de vie la tiraille. |
+| 51-75 | Sorcière | Vous pratiquez déjà la magie Wicca seule ou avec votre convent. Le vrai pouvoir s'éveillera bientôt en vous, rendant vos sorts puissants et menaçant de vous entraîner dans une spirale de corruption à chaque acte d'hubris. |
+| 76-100 | Vampire | Vous deviendrez une créature immortelle tiraillée par la soif, se nourrissant du sang des innocents et menaçant de céder à perversion et à l'immoralité. |
 
 Le jeu implique qu'un certain nombre de personnages autour de la table deviendront des êtres surnaturels, des créatures qui mettront en tension les personnages avec leur famille, leurs amis, leurs camarades de cours, voir même leur propre groupe. Cependant, la transformation du personnage est un moment important qui se doit d'être bien amené. Voici donc les conseils que nous pouvons vous donner : 
 
@@ -175,7 +174,7 @@ Le jeu implique qu'un certain nombre de personnages autour de la table deviendro
 
 Indiquez la personnalité de votre personnage dans la section des informations générales de la fiche de personnage. Cela vous aidera à décrire votre personnage au delà de son aspect physique et à vous y tenir.
 
-> Pour Camille, nous notons les traits de personnalité fonçeuse, dynamique et explosive.
+> Pour Camille, nous notons les traits de personnalité fonceuse, dynamique et explosive.
 
 ## Les exutoires
 
