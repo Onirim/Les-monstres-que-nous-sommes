@@ -6,12 +6,17 @@
 <title>Les monstres que nous sommes — Jeu de rôle</title>
 <meta name="description" content="Les monstres que nous sommes est un jeu de rôle de monstres, de mystères et de drames adolescents inspiré de nos séries télévisées surnaturelles préférées.">
 <link rel="icon" href="Couverture.png">
+<meta property="og:title" content="Les monstres que nous sommes — Jeu de rôle">
+<meta property="og:description" content="Un jeu de rôle de monstres, de mystères et de drames adolescents, inspiré de nos séries télévisées surnaturelles préférées.">
+<meta property="og:image" content="Couverture.jpg">
+<meta property="og:type" content="website">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 <style>
   :root {
     --blood: #7a0e18;
+    --blood-bright: #92121e;
     --blood-dark: #4a0710;
     --ink: #120708;
     --ink-soft: #1c0d0e;
@@ -31,6 +36,7 @@
     font-family: 'Crimson Pro', serif;
     font-size: 19px;
     line-height: 1.65;
+    overflow-x: hidden;
   }
 
   h1, h2, h3, .brand {
@@ -41,23 +47,38 @@
 
   a { color: inherit; }
 
-  .texture {
-    background-image:
-      radial-gradient(ellipse at 30% 0%, rgba(122,14,24,0.35), transparent 60%),
-      radial-gradient(ellipse at 80% 100%, rgba(122,14,24,0.2), transparent 55%);
+  /* Film grain + vignette overlay */
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 50;
+    background:
+      radial-gradient(ellipse at 50% 40%, transparent 55%, rgba(0,0,0,0.55) 100%);
+    mix-blend-mode: multiply;
+  }
+  body::after {
+    content: "";
+    position: fixed;
+    inset: -50%;
+    pointer-events: none;
+    z-index: 51;
+    opacity: 0.035;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
   }
 
   /* Nav */
   header.nav {
     position: sticky;
     top: 0;
-    z-index: 20;
+    z-index: 40;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 0.9rem 5%;
-    background: rgba(18, 7, 8, 0.85);
-    backdrop-filter: blur(6px);
+    background: rgba(18, 7, 8, 0.82);
+    backdrop-filter: blur(8px);
     border-bottom: 1px solid rgba(241, 233, 216, 0.12);
   }
   .brand {
@@ -65,13 +86,25 @@
     font-weight: 700;
     color: var(--bone);
   }
-  .nav-links { display: flex; gap: 1.6rem; font-family: 'Cinzel', serif; font-size: 0.82rem; }
+  .nav-links { display: flex; gap: 1.5rem; font-family: 'Cinzel', serif; font-size: 0.8rem; }
   .nav-links a {
     text-decoration: none;
     color: var(--bone-dim);
+    position: relative;
     transition: color 0.2s ease;
   }
+  .nav-links a::after {
+    content: "";
+    position: absolute;
+    left: 0; bottom: -4px;
+    width: 100%; height: 1px;
+    background: var(--blood-bright);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.25s ease;
+  }
   .nav-links a:hover { color: var(--bone); }
+  .nav-links a:hover::after { transform: scaleX(1); }
 
   /* Hero */
   .hero {
@@ -80,7 +113,7 @@
     grid-template-columns: 1.1fr 0.9fr;
     align-items: center;
     gap: 3rem;
-    min-height: 88vh;
+    min-height: 90vh;
     padding: 6rem 5%;
     overflow: hidden;
     background:
@@ -88,16 +121,59 @@
       radial-gradient(ellipse at 85% 80%, rgba(122,14,24,0.25), transparent 50%),
       var(--ink);
   }
+  /* Moon glow behind the cover */
+  .hero::before {
+    content: "";
+    position: absolute;
+    top: 12%;
+    right: 14%;
+    width: 340px;
+    height: 340px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(236,228,212,0.16), transparent 68%);
+    filter: blur(8px);
+    z-index: 1;
+    animation: breathe 9s ease-in-out infinite;
+  }
+  /* Drifting fog */
+  .hero .fog {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    pointer-events: none;
+    background:
+      radial-gradient(ellipse 60% 40% at 20% 90%, rgba(122,14,24,0.18), transparent 70%),
+      radial-gradient(ellipse 50% 30% at 80% 10%, rgba(74,7,16,0.35), transparent 70%);
+    animation: drift 18s ease-in-out infinite alternate;
+  }
+  @keyframes breathe {
+    0%, 100% { transform: scale(1); opacity: 0.85; }
+    50% { transform: scale(1.08); opacity: 1; }
+  }
+  @keyframes drift {
+    from { transform: translate3d(-2%, 0, 0); }
+    to { transform: translate3d(2%, -1%, 0); }
+  }
   .hero-content {
     position: relative;
-    z-index: 2;
+    z-index: 3;
     max-width: 560px;
   }
+  .hero .overline {
+    font-family: 'Cinzel', serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: var(--bone-dim);
+    margin: 0 0 1.1rem;
+    opacity: 0.8;
+  }
   .hero h1 {
-    font-size: clamp(2.2rem, 5vw, 3.6rem);
-    line-height: 1.1;
-    margin: 0 0 1rem;
+    font-size: clamp(2.2rem, 5.4vw, 3.8rem);
+    line-height: 1.08;
+    margin: 0 0 1.1rem;
     color: var(--bone);
+    text-shadow: 0 2px 30px rgba(122,14,24,0.45);
   }
   .hero .tagline {
     font-family: 'Crimson Pro', serif;
@@ -114,7 +190,7 @@
   }
   .hero-cover {
     position: relative;
-    z-index: 2;
+    z-index: 3;
     display: flex;
     justify-content: center;
   }
@@ -123,6 +199,11 @@
     max-width: 380px;
     border-radius: 4px;
     box-shadow: 0 25px 60px rgba(0,0,0,0.6), 0 0 0 1px rgba(241,233,216,0.1);
+    transition: transform 0.5s cubic-bezier(.2,.8,.2,1), box-shadow 0.5s ease;
+  }
+  .hero-cover img:hover {
+    transform: translateY(-6px) rotate(-0.6deg);
+    box-shadow: 0 35px 80px rgba(0,0,0,0.7), 0 0 40px rgba(122,14,24,0.35), 0 0 0 1px rgba(241,233,216,0.15);
   }
   @media (max-width: 860px) {
     .hero {
@@ -131,11 +212,12 @@
       padding: 4.5rem 6% 3rem;
       min-height: auto;
     }
+    .hero::before { top: 4%; right: 50%; transform: translateX(50%); width: 240px; height: 240px; }
     .hero-content { max-width: 100%; }
     .hero .tagline { margin-left: auto; margin-right: auto; }
     .hero-ctas { justify-content: center; }
     .hero-cover { order: -1; }
-    .hero-cover img { max-width: 280px; }
+    .hero-cover img { max-width: 260px; }
   }
 
   .btn {
@@ -149,7 +231,7 @@
     font-size: 0.85rem;
     letter-spacing: 0.05em;
     border: 1px solid transparent;
-    transition: transform 0.15s ease, background 0.2s ease, border-color 0.2s ease;
+    transition: transform 0.15s ease, background 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
   }
   .btn:hover { transform: translateY(-2px); }
   .btn-primary {
@@ -157,7 +239,7 @@
     color: var(--bone);
     box-shadow: 0 8px 24px rgba(122,14,24,0.45);
   }
-  .btn-primary:hover { background: #92121e; }
+  .btn-primary:hover { background: var(--blood-bright); box-shadow: 0 12px 30px rgba(122,14,24,0.6); }
   .btn-ghost {
     background: transparent;
     color: var(--bone);
@@ -166,14 +248,14 @@
   .btn-ghost:hover { border-color: var(--bone); background: rgba(241,233,216,0.06); }
 
   /* Sections */
-  section { padding: 5rem 5%; }
+  section { padding: 5.5rem 5%; position: relative; }
   .section-inner { max-width: 980px; margin: 0 auto; }
 
   .kicker {
     font-family: 'Cinzel', serif;
     font-size: 0.78rem;
     letter-spacing: 0.18em;
-    color: var(--blood);
+    color: var(--blood-bright);
     text-transform: uppercase;
     margin-bottom: 0.6rem;
     display: block;
@@ -181,7 +263,38 @@
 
   h2 { font-size: clamp(1.6rem, 3.2vw, 2.3rem); color: var(--bone); margin: 0 0 1.2rem; }
 
-  .pitch p { color: var(--bone-dim); font-size: 1.15rem; max-width: 760px; }
+  .lead { color: var(--bone-dim); font-size: 1.15rem; max-width: 760px; }
+
+  /* Ornamental divider */
+  .divider {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    max-width: 980px;
+    margin: 0 auto;
+    color: var(--blood);
+    opacity: 0.7;
+  }
+  .divider::before, .divider::after {
+    content: "";
+    height: 1px;
+    flex: 1;
+    background: linear-gradient(to var(--dir, right), transparent, rgba(122,14,24,0.7));
+  }
+  .divider::after { --dir: left; }
+  .divider .mark { font-size: 1.1rem; }
+
+  /* Pitch with drop cap */
+  .pitch .lead:first-of-type::first-letter {
+    font-family: 'Cinzel', serif;
+    font-size: 3.4rem;
+    line-height: 0.8;
+    float: left;
+    padding: 0.3rem 0.6rem 0 0;
+    color: var(--blood-bright);
+  }
+  .pitch .lead + .lead { margin-top: 1.4rem; }
 
   /* Features grid */
   .features {
@@ -200,7 +313,14 @@
     border: 1px solid rgba(122,14,24,0.25);
     border-radius: 6px;
     padding: 1.4rem 1.5rem;
+    transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease;
   }
+  .feature:hover {
+    transform: translateY(-4px);
+    border-color: rgba(122,14,24,0.55);
+    background: rgba(122,14,24,0.14);
+  }
+  .feature .ficon { font-size: 1.5rem; margin-bottom: 0.5rem; display: block; }
   .feature h3 {
     font-size: 0.95rem;
     color: var(--bone);
@@ -208,22 +328,144 @@
   }
   .feature p { margin: 0; color: var(--bone-dim); font-size: 0.95rem; }
 
-  /* Creatures strip */
-  .creatures {
+  /* System section */
+  .system-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    gap: 1rem;
-    margin-top: 2.5rem;
+    grid-template-columns: 1.05fr 0.95fr;
+    gap: 2.5rem;
+    margin-top: 2.2rem;
+    align-items: start;
   }
-  .creature {
-    text-align: center;
-    padding: 1.5rem 1rem;
+  .system-points { list-style: none; padding: 0; margin: 0; }
+  .system-points li {
+    padding: 0.9rem 0 0.9rem 1.6rem;
+    border-bottom: 1px solid rgba(241,233,216,0.08);
+    position: relative;
+    color: var(--bone-dim);
+  }
+  .system-points li::before {
+    content: "❧";
+    position: absolute;
+    left: 0;
+    color: var(--blood-bright);
+  }
+  .system-points li strong { color: var(--bone); font-family: 'Cinzel', serif; font-size: 0.9rem; letter-spacing: 0.02em; }
+  .dice-panel {
+    background: linear-gradient(160deg, rgba(122,14,24,0.16), rgba(18,7,8,0.4));
     border: 1px solid rgba(241,233,216,0.15);
-    border-radius: 6px;
-    background: linear-gradient(160deg, rgba(122,14,24,0.15), transparent);
+    border-radius: 10px;
+    padding: 1.8rem;
   }
-  .creature .glyph { font-size: 1.8rem; margin-bottom: 0.5rem; }
-  .creature span { font-family: 'Cinzel', serif; font-size: 0.85rem; color: var(--bone-dim); }
+  .dice-panel .tag {
+    font-family: 'Cinzel', serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--blood-bright);
+  }
+  .dice-panel h3 { margin: 0.4rem 0 1rem; font-size: 1.15rem; color: var(--bone); }
+  .dice-panel p { margin: 0 0 1rem; color: var(--bone-dim); font-size: 0.98rem; }
+  .dice-panel .roll {
+    display: flex;
+    align-items: baseline;
+    gap: 0.8rem;
+    font-family: 'Cinzel', serif;
+    padding-top: 0.8rem;
+    border-top: 1px solid rgba(241,233,216,0.12);
+  }
+  .dice-panel .roll .num { font-size: 2rem; color: var(--bone); }
+  .dice-panel .roll .lt { color: var(--blood-bright); font-size: 1.3rem; }
+  .dice-panel .roll .res { font-size: 0.8rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--bone-dim); margin-left: auto; }
+  @media (max-width: 760px) { .system-grid { grid-template-columns: 1fr; } }
+
+  /* Creature cards */
+  .creature-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.4rem;
+    margin-top: 2.4rem;
+  }
+  .creature-card {
+    position: relative;
+    padding: 1.7rem 1.5rem;
+    border: 1px solid rgba(241,233,216,0.14);
+    border-radius: 8px;
+    background: linear-gradient(165deg, rgba(122,14,24,0.16), transparent 85%);
+    overflow: hidden;
+    transition: transform 0.25s ease, border-color 0.25s ease;
+  }
+  .creature-card:hover { transform: translateY(-5px); border-color: rgba(122,14,24,0.5); }
+  .creature-card .glyph { font-size: 2rem; }
+  .creature-card h3 { margin: 0.6rem 0 0.2rem; font-size: 1.15rem; color: var(--bone); }
+  .creature-card .torment {
+    font-family: 'Cinzel', serif;
+    font-size: 0.68rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--blood-bright);
+    display: block;
+    margin-bottom: 0.7rem;
+  }
+  .creature-card p { margin: 0; color: var(--bone-dim); font-size: 0.95rem; }
+  .creature-card.more {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background: repeating-linear-gradient(45deg, rgba(241,233,216,0.03), rgba(241,233,216,0.03) 10px, transparent 10px, transparent 20px);
+  }
+  .creature-card.more span { font-family: 'Cinzel', serif; color: var(--bone-dim); }
+
+  /* Universe section */
+  .universe { background: var(--ink-soft); border-top: 1px solid rgba(241,233,216,0.08); border-bottom: 1px solid rgba(241,233,216,0.08); }
+  .veil-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.4rem;
+    margin-top: 2.2rem;
+  }
+  .veil-col {
+    padding: 1.5rem;
+    border-radius: 8px;
+    border: 1px solid rgba(241,233,216,0.12);
+    background: rgba(18,7,8,0.4);
+  }
+  .veil-col h3 { font-size: 1.05rem; color: var(--bone); margin: 0 0 0.6rem; }
+  .veil-col p { margin: 0; color: var(--bone-dim); font-size: 0.95rem; }
+  .veil-col.middle {
+    border-color: rgba(122,14,24,0.4);
+    background: linear-gradient(180deg, rgba(122,14,24,0.14), rgba(18,7,8,0.4));
+  }
+  .veil-note {
+    margin-top: 2rem;
+    padding: 1.5rem 1.7rem;
+    border-left: 3px solid var(--blood);
+    background: rgba(122,14,24,0.08);
+    border-radius: 0 8px 8px 0;
+  }
+  .veil-note h3 { margin: 0 0 0.5rem; font-size: 1rem; color: var(--bone); }
+  .veil-note p { margin: 0; color: var(--bone-dim); font-size: 0.98rem; }
+  @media (max-width: 760px) { .veil-grid { grid-template-columns: 1fr; } }
+
+  /* Organisations */
+  .orga-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.4rem;
+    margin-top: 2.2rem;
+  }
+  .orga {
+    padding: 1.6rem 1.5rem;
+    border: 1px solid rgba(241,233,216,0.13);
+    border-radius: 8px;
+    background: rgba(18,7,8,0.35);
+    transition: transform 0.2s ease, border-color 0.2s ease;
+  }
+  .orga:hover { transform: translateY(-4px); border-color: rgba(122,14,24,0.5); }
+  .orga h3 { margin: 0 0 0.5rem; font-size: 1.1rem; color: var(--bone); }
+  .orga .creed { font-style: italic; color: var(--bone-dim); font-size: 0.95rem; margin: 0 0 0.8rem; }
+  .orga ul { margin: 0; padding-left: 1.1rem; color: var(--bone-dim); font-size: 0.9rem; }
+  .orga ul li { margin-bottom: 0.25rem; }
 
   /* Downloads */
   .downloads { background: var(--blood-dark); position: relative; }
@@ -248,7 +490,9 @@
     display: flex;
     flex-direction: column;
     gap: 1rem;
+    transition: transform 0.2s ease, border-color 0.2s ease;
   }
+  .card:hover { transform: translateY(-4px); border-color: rgba(241,233,216,0.4); }
   .card .icon { font-size: 2.2rem; }
   .card h3 { margin: 0; font-size: 1.15rem; color: var(--bone); }
   .card p { margin: 0; color: var(--bone-dim); font-size: 0.95rem; flex-grow: 1; }
@@ -265,25 +509,44 @@
   footer .brand { display: block; margin-bottom: 0.6rem; font-size: 1rem; }
   footer a.repo-link { color: var(--bone); text-decoration: underline; text-underline-offset: 3px; }
 
+  /* Scroll reveal */
+  .reveal {
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 0.7s ease, transform 0.7s cubic-bezier(.2,.8,.2,1);
+  }
+  .reveal.visible { opacity: 1; transform: none; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .reveal { opacity: 1; transform: none; transition: none; }
+    .hero::before, .hero .fog { animation: none; }
+    html { scroll-behavior: auto; }
+  }
+
   @media (max-width: 640px) {
     .nav-links { display: none; }
-    section { padding: 3.2rem 6%; }
+    section { padding: 3.5rem 6%; }
   }
 </style>
 </head>
-<body class="texture">
+<body>
 
 <header class="nav">
   <span class="brand">Les monstres que nous sommes</span>
   <nav class="nav-links">
     <a href="#jeu">Le jeu</a>
+    <a href="#systeme">Le système</a>
     <a href="#creatures">Créatures</a>
+    <a href="#univers">L'univers</a>
+    <a href="#organisations">Organisations</a>
     <a href="#telechargements">Téléchargements</a>
   </nav>
 </header>
 
 <section class="hero">
+  <div class="fog"></div>
   <div class="hero-content">
+    <p class="overline">Jeu de rôle · Horreur adolescente · Système Skeleton</p>
     <h1>les monstres que nous sommes</h1>
     <p class="tagline">Un jeu de rôle de monstres, de mystères et de drames adolescents, inspiré de nos séries télévisées surnaturelles préférées.</p>
     <div class="hero-ctas">
@@ -297,40 +560,48 @@
 </section>
 
 <section id="jeu" class="pitch">
-  <div class="section-inner">
+  <div class="section-inner reveal">
     <span class="kicker">Le jeu</span>
     <h2>Une petite ville, de grands secrets</h2>
-    <p>Vous incarnez des lycéens ou de jeunes étudiants d'une petite ville fictive, entre mystères surnaturels, drames adolescents et horreur — dans la lignée de <em>Buffy contre les vampires</em> ou <em>Teen Wolf</em>. Vos personnages devront composer avec la complexité de leur vie d'adolescents et leur nature monstrueuse, tout en essayant de protéger leur ville des dangers qui y rôdent.</p>
-    <p><strong>Les monstres que nous sommes</strong> est propulsé par le <strong>Skeleton</strong>, un système au d100 accessible et à lecture directe, quasiment sans calculs, qui met l'accent sur la montée en stress et la génération de drame propres à ce genre de récit.</p>
+    <p class="lead">Vous incarnez des lycéens ou de jeunes étudiants d'une petite ville fictive, entre mystères surnaturels, drames adolescents et horreur — dans la lignée de <em>Buffy contre les vampires</em> ou <em>Teen Wolf</em>. Vos personnages devront composer avec la complexité de leur vie d'adolescents et leur nature monstrueuse, tout en essayant de protéger leur ville des dangers qui y rôdent.</p>
+    <p class="lead"><strong>Les monstres que nous sommes</strong> est propulsé par le <strong>Skeleton</strong>, un système au d100 accessible et à lecture directe, quasiment sans calculs, qui met l'accent sur la montée en stress et la génération de drame propres à ce genre de récit.</p>
   </div>
 </section>
 
+<div class="divider reveal"><span class="mark">❦</span></div>
+
 <section class="features">
-  <div class="section-inner">
+  <div class="section-inner reveal">
     <span class="kicker">En bref</span>
     <h2>Ce que propose le jeu</h2>
     <div class="feature-grid">
       <div class="feature">
+        <span class="ficon">🎲</span>
         <h3>Un système simple</h3>
         <p>Un système de jeu au d100 à lecture directe, quasiment sans calculs.</p>
       </div>
       <div class="feature">
+        <span class="ficon">📚</span>
         <h3>Douze compétences</h3>
         <p>Accompagnées de leurs spécialités, pour des personnages riches et variés.</p>
       </div>
       <div class="feature">
+        <span class="ficon">🩸</span>
         <h3>Stress & traumas</h3>
         <p>Des résistances physiques et mentales amenant à gérer le stress et les traumas des personnages.</p>
       </div>
       <div class="feature">
+        <span class="ficon">🏠</span>
         <h3>Vie quotidienne</h3>
         <p>Une gestion simple de l'équipement, des ressources, du niveau de vie, des économies et des dettes.</p>
       </div>
       <div class="feature">
+        <span class="ficon">🎓</span>
         <h3>Environnement académique</h3>
         <p>Une tension entre résultats, popularité et sérénité qui nourrit le drame lycéen.</p>
       </div>
       <div class="feature">
+        <span class="ficon">💔</span>
         <h3>Relations aux PNJ</h3>
         <p>Un système basé sur l'amitié (ou l'hostilité), le désir et l'admiration.</p>
       </div>
@@ -338,23 +609,135 @@
   </div>
 </section>
 
+<section id="systeme">
+  <div class="section-inner reveal">
+    <span class="kicker">Le système Skeleton</span>
+    <h2>Un d100, et le drame fait le reste</h2>
+    <p class="lead">Toutes les valeurs de la fiche sont des pourcentages. On lance 1d100 : égal ou inférieur à la valeur testée, c'est un succès. Pas de tables à consulter, pas d'arithmétique — juste la tension du jet et ses conséquences.</p>
+    <div class="system-grid">
+      <ul class="system-points">
+        <li><strong>Compétences & spécialités.</strong> Une valeur de base à laquelle s'ajoutent jusqu'à deux spécialités (+20 max) et le modificateur de difficulté du MJ.</li>
+        <li><strong>Conflits.</strong> Jets opposés : le plus haut score réussi l'emporte, et le perdant encaisse ce que dicte la fiction.</li>
+        <li><strong>Stress.</strong> Physique ou mental, chaque case cochée impose -10 à la résistance concernée. On s'en libère par le repos ou son exutoire.</li>
+        <li><strong>Traumas.</strong> Les échecs marquants laissent des séquelles : -10 aux tests de compétences tant qu'ils ne sont pas soignés.</li>
+        <li><strong>Maîtrise de soi.</strong> La résistance surnaturelle : garder le contrôle de la bête, sous peine de perdre pied — et parfois son personnage.</li>
+      </ul>
+      <div class="dice-panel">
+        <span class="tag">Exemple de jet</span>
+        <h3>Camille sous le plexiglas</h3>
+        <p>Athlétisme 75, spécialité hockey +10, difficulté -10 → seuil de réussite : <strong>75</strong>.</p>
+        <div class="roll">
+          <span class="num">58</span>
+          <span class="lt">≤ 75</span>
+          <span class="res">Réussite</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="divider reveal"><span class="mark">❦</span></div>
+
 <section id="creatures">
-  <div class="section-inner">
+  <div class="section-inner reveal">
     <span class="kicker">Créatures jouables</span>
     <h2>Des règles pour vos monstres intérieurs</h2>
-    <p style="color: var(--bone-dim); max-width: 700px;">Chaque créature met en avant ses côtés dramatiques, ses particularités, et sa lutte pour garder la maîtrise d'elle-même.</p>
-    <div class="creatures">
-      <div class="creature"><div class="glyph">🩸</div><span>Vampires</span></div>
-      <div class="creature"><div class="glyph">🐺</div><span>Loups-garous</span></div>
-      <div class="creature"><div class="glyph">🔮</div><span>Sorcières</span></div>
-      <div class="creature"><div class="glyph">🌿</div><span>Leshy</span></div>
-      <div class="creature"><div class="glyph">✦</div><span>Et bien d'autres à venir…</span></div>
+    <p class="lead">Chaque créature met en avant ses côtés dramatiques, ses particularités, et sa lutte pour garder la maîtrise d'elle-même. Un stress surnaturel qui monte, une part sombre qui menace de tout emporter.</p>
+    <div class="creature-grid">
+      <div class="creature-card">
+        <div class="glyph">🩸</div>
+        <h3>Vampires</h3>
+        <span class="torment">Soif · Perversion</span>
+        <p>Composer avec une soif dévorante tout en luttant contre la perversion de la bête intérieure.</p>
+      </div>
+      <div class="creature-card">
+        <div class="glyph">🐺</div>
+        <h3>Loups-garous</h3>
+        <span class="torment">Faim · Rage</span>
+        <p>Mus par une faim de vivre insatiable, mais menacés de céder à leur rage primale sous la lune.</p>
+      </div>
+      <div class="creature-card">
+        <div class="glyph">🔮</div>
+        <h3>Sorcières</h3>
+        <span class="torment">Hubris · Corruption</span>
+        <p>Un pouvoir qui appelle l'hubris et un livre des ombres dont l'abus menace de les corrompre.</p>
+      </div>
+      <div class="creature-card">
+        <div class="glyph">🌿</div>
+        <h3>Leshy</h3>
+        <span class="torment">Pulsation · Colère</span>
+        <p>Ils ressentent la pulsation de la nature et risquent de se retourner contre ce qui la détruit.</p>
+      </div>
+      <div class="creature-card more">
+        <div class="glyph">✦</div>
+        <span>Et bien d'autres à venir…</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="univers" class="universe">
+  <div class="section-inner reveal">
+    <span class="kicker">L'univers</span>
+    <h2>De l'autre côté du voile</h2>
+    <p class="lead">Le monde ne se résume pas à sa partie matérielle. Une dimension d'émotions le double, séparée par un voile dont l'épaisseur dépend des sentiments qui l'agitent — plus mince les nuits de fête, de pleine lune ou de veillée funèbre.</p>
+    <div class="veil-grid">
+      <div class="veil-col">
+        <h3>Le monde matériel</h3>
+        <p>Le plan physique, celui où vos personnages ont un corps et une consistance. Les entités sans chair n'y séjournent qu'un instant.</p>
+      </div>
+      <div class="veil-col middle">
+        <h3>Le voile</h3>
+        <p>Le seuil entre les mondes. Les émotions fortes l'amincissent ; l'indifférence et la froideur l'épaississent.</p>
+      </div>
+      <div class="veil-col">
+        <h3>Le monde spirituel</h3>
+        <p>Un reflet émotionnel du nôtre, structuré par la résonance. On y croise fantômes, esprits et reflets — mondes de poche nés d'émotions cristallisées.</p>
+      </div>
+    </div>
+    <div class="veil-note">
+      <h3>Depuis les écrans : le Flux & le Bruit</h3>
+      <p>Depuis l'avènement des réseaux, un reflet sans géographie grandit à mesure que le monde se couvre d'écrans — le <strong>Flux</strong>, nourri d'émotions arrachées à leur contexte. De lui semble sourdre le <strong>Bruit</strong>, une résonance qui ne se rattache plus à rien et ne peut être apaisée. Presque personne, encore, ne s'en est aperçu.</p>
+    </div>
+  </div>
+</section>
+
+<section id="organisations">
+  <div class="section-inner reveal">
+    <span class="kicker">Organisations mystiques</span>
+    <h2>Trois philosophies, une guerre secrète</h2>
+    <p class="lead">Qui comprend que l'univers est fait d'émotions et de résonances sait qu'on peut agir sur le monde en les manipulant. De ce savoir naissent trois grands courants — et les factions qui s'y rattachent.</p>
+    <div class="orga-grid">
+      <div class="orga">
+        <h3>Les Harmonistes</h3>
+        <p class="creed">« Le monde a besoin de sa part de mystère, mais en équilibre. »</p>
+        <ul>
+          <li>La Confrérie de Saint Georges</li>
+          <li>Les Pythagoriciens</li>
+        </ul>
+      </div>
+      <div class="orga">
+        <h3>Les Ascendants</h3>
+        <p class="creed">« Le monde spirituel doit être renforcé et utilisé. »</p>
+        <ul>
+          <li>Le Cercle d'Hécate</li>
+          <li>Les Satanistes</li>
+        </ul>
+      </div>
+      <div class="orga">
+        <h3>Les Rationalistes</h3>
+        <p class="creed">« Moins d'émotions, moins de danger : un monde mesurable. »</p>
+        <ul>
+          <li>L'Ordre des Lumières</li>
+          <li>L'Institut Iscariote</li>
+        </ul>
+      </div>
     </div>
   </div>
 </section>
 
 <section id="telechargements" class="downloads">
-  <div class="section-inner">
+  <div class="section-inner reveal">
     <span class="kicker" style="color: var(--moon);">Téléchargements</span>
     <h2>Tout ce qu'il vous faut pour jouer</h2>
     <div class="download-grid">
@@ -362,7 +745,7 @@
         <div class="icon">📖</div>
         <h3>Livre de règles</h3>
         <p>Le livre complet : création de personnage, système de jeu, environnement académique et règles des créatures surnaturelles.</p>
-        <span class="meta">PDF — Version 2.7</span>
+        <span class="meta">PDF — Version 2.8</span>
         <a class="btn btn-primary" href="Les%20monstres%20que%20nous%20sommes.pdf" download>Télécharger le PDF</a>
       </div>
       <div class="card">
@@ -380,6 +763,25 @@
   <span class="brand">Les monstres que nous sommes</span>
   Un jeu de Thibaut Crespel — <a class="repo-link" href="https://github.com/Onirim/Les-monstres-que-nous-sommes">code source & dernières mises à jour sur GitHub</a>
 </footer>
+
+<script>
+  (function () {
+    var els = document.querySelectorAll('.reveal');
+    if (!('IntersectionObserver' in window)) {
+      els.forEach(function (e) { e.classList.add('visible'); });
+      return;
+    }
+    var obs = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          obs.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.12 });
+    els.forEach(function (e) { obs.observe(e); });
+  })();
+</script>
 
 </body>
 </html>
