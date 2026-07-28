@@ -18,7 +18,7 @@ Le voile sépare le monde matériel du monde spirituel. L'épaisseur du voile es
 
 ## Le monde spirituel
 
-*le monde spirituel, le plan éthéré, le monde des ombres, l'autre côté*
+*Le monde spirituel, le plan éthéré, le monde des ombres, l'autre côté*
 
 Il s'agit de la dimension éthérée juxtaposée au monde matériel. C'est une dimension d'émotions à la fois semblable au notre de part sa géographie générale et étranger car constitué des sensations des lieux plutôt que de leur réalité matérielle de l'autre côté du voile. Un cimetière propret et fleuri dans le monde matériel peut avoir un aspect ancien et défraîchi, baigné d'une lumière grise où des statues surplombent les caveaux avec un air menaçant car il a été longtemps négligé ou craint par les citadins ; une usine désaffectée dans le monde matériel peut encore être bourdonnante d'activité de machineries dans le monde spirituel. Il faut du temps avant qu'un changement dans le monde matériel se répercute dans le monde spirituel, et parfois d'anciens traumatismes ou d'anciennes émotions fortes laissent leur marques quant bien même le lieu aurait profondément changé depuis. L'émotion résiduelle qui structure le monde spirituel est nommée la résonance, on peut donc dire que les émotions du monde matériel créent une résonance dans le monde spirituel. Lorsque cette résonance est extrêmement forte, elle influe à son tour sur ce qui est ressenti dans le monde matériel, comme dans le cas des lieux hantés où un drame a teinté tellement fort le monde spirituel de sa résonance que le monde matériel en est affecté pendant des dizaines d'années.
 
@@ -36,8 +36,8 @@ Contrairement à un fantôme, un esprit n'a jamais été vivant : il s'agit d'un
 
 On peut catégoriser les esprits en deux niveaux :
 
-- Les esprits inférieurs sont des esprits locaux. Ils représentent la plupart des esprits que l'on peut croiser dans le monde spirituel dans un lieu donné. Ils sont conscients et peuvent parfois communiquer, ils peuvent même être dangereux mais ils sont toujours liés à un lieu spécifique, un bâtiment, une ville ou une forêt. Ainsi on peut y trouver des esprits mineurs de rats, de loups, de machines, de musique, de violence urbaine, etc.
-- Les esprits supérieurs sont des esprits globaux. Ils ont été créés par de nombreuses émotions convergentes au fil du temps et ne sont pas limités géographiquement. Ils sont invariablement puissants et peuvent se déplacer librement dans le monde spirituel - ils règnent parfois même sur leur propre reflet. Les entités créés par la croyance tels que les anges, les démons, les grands esprits totems sont des esprits majeurs, ainsi que les divinités ou quasi divinités actuelles ou passées telles qu'Artémis ou Baba Yaga.
+- Les esprits inférieurs sont des esprits locaux. Ils représentent la plupart des esprits que l'on peut croiser dans le monde spirituel dans un lieu donné. Ils sont conscients et peuvent parfois communiquer, ils peuvent même être dangereux mais ils sont toujours liés à un lieu spécifique, un bâtiment, une ville ou une forêt. Ainsi on peut y trouver des esprits mineurs de rats, de loups, de machines, de musique, de violence urbaine, etc. Les esprits inférieurs peuvent être affaiblis ou détruits.
+- Les esprits supérieurs sont des esprits anciens. Ils ont été créés par de nombreuses émotions convergentes au fil du temps et ne sont pas limités géographiquement. Ils sont invariablement puissants et peuvent se déplacer librement dans le monde spirituel - ils règnent parfois même sur leur propre reflet. Les entités créés par la croyance tels que les anges, les démons, les grands esprits totems sont des esprits majeurs, ainsi que les divinités ou quasi divinités actuelles ou passées telles qu'Artémis ou Baba Yaga. Les esprits supérieurs peuvent être temporairement affaiblis, mais jamais détruits.
 
 ## Les reflets
 
@@ -45,7 +45,7 @@ On peut catégoriser les esprits en deux niveaux :
 
 Les reflets sont des échos de lieux anciens ou plus récents, naturels ou non, qui ont donné naissance à des singularités dans le monde spirituel. Ces reflets sont comme des mondes de poches, souvent liés à un concept fort (Backrooms, Terres de l'Eternelle Chasse, Olympe mythique, Enfer ou Paradis, etc.). On peut les atteindre soit par le monde spirituel directement, soit par des passages dans le monde matériel, sorte de tunnels qui relient ces mondes. Ces reflets sont ainsi créés par les émotions du monde matériel dont les résonances ont cristallisé dans le monde spirituel pour créer leur propre réalité matérielle. Ils sont généralement habités par leurs propres esprits.
 
-## Changements décents
+## Changements récents
 
 Depuis l’avènement du monde digital et des réseaux sociaux au milieu des années 2010-2020, le monde spirituel connaît des bouleversements. 
 

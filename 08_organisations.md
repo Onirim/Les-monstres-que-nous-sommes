@@ -2,7 +2,7 @@
 
 # Les organisations mystiques
 
-Les personnes qui connaissent suffisamment la structure de l'univers savent qu'elle est constituée par les émotions et leurs résonances. Ils savent donc que c'est en manipulant les émotions qu'ils peuvent influer sur le monde spirituel et ses habitants, et que la résonance de ces derniers influera à leur tour sur le monde matériel. De cette observation, il existe trois courants de pensée, trois philosophies majeures.
+Les personnes qui connaissent suffisamment la structure du monde spirituel savent qu'il est constitué de résonance issue des émotions. Ils savent donc que c'est en manipulant les émotions qu'ils peuvent influer sur ce plan et ses habitants, et que la résonance de ces derniers influera à leur tour sur le monde matériel. De cette observation, il existe trois courants de pensée, trois philosophies majeures.
 
 ## Les Harmonistes
 
@@ -10,11 +10,11 @@ Ceux qui cherchent un équilibre entre le monde matériel et le monde spirituel 
 
 ### La Confrérie de Saint Georges
 
-Organisation millénaire de chasseurs de monstres, la Confrérie de Saint Georges s'est donné comme objectif de châtier les entités surnaturelles qu'ils considèrent comme un danger pour le monde.
+Organisation millénaire de chasseurs de monstres, la Confrérie de Saint Georges s'est donné comme objectif de châtier les entités surnaturelles qu'ils considèrent comme un danger pour le monde. Ils pensent cependant que chaque chose à sa place dans le grand schéma de l'univers, ainsi ils surveillent mais n'interviennent pas toujours lorsque les monstres se tiennent sages.
 
 ### Les Pythagoriciens
 
-Descendants des anciens disciples de Pythagore depuis l'antiquité, les Pythagoriciens cherchent à atteindre l'harmonie cosmique par les nombres, les mathématiques, les proportions parfaites. Selon eux, cette harmonie passe par la compréhension de tout le cosmos et par la recherche de l'équilibre parfait.
+Descendants des anciens disciples de Pythagore depuis l'antiquité, les Pythagoriciens cherchent à atteindre l'harmonie cosmique par les nombres, les mathématiques, les proportions parfaites. Selon eux, cette harmonie passe par la compréhension de tout le cosmos et par la recherche de l'équilibre parfait. A la fois scientifiques et philosophes, ils sont davantage portés par leurs études que par une quelconque volonté de puissance ou de destruction.
 
 ## Les Ascendants
 
@@ -24,9 +24,9 @@ Les Ascendants pensent que le monde spirituel doit être étudié et renforcé p
 
 Issu des différentes traditions paganises pré-catholiques, le Cercle d'Hécate accueille en son sein de nombreuses pratiquantes (et de moins nombreux pratiquants) de magie. Le Cercle s'est renforcé depuis l'avènement de la Wicca et du néo-paganisme depuis les années 1970. La tradition du Cercle d'Hécate promeut la magie blanche comme manière de révérer, de communier et de tirer parti du monde spirituel dans le respect des dogmes, bien que les adeptes de la magie noire soient également courants dans le cercle.
 
-### Les Satanistes
+### Les Adeptes de la Main Gauche
 
-Les Satanistes considèrent que la lumière n'existe pas sans l'ombre et qu'il faut chercher les vérités dans l'ombre, dans l'antithèse divine, dans ce que Dieu a voulu cacher ou interdire aux anges et aux mortels. Les satanistes de la main droite tendant à chercher principalement le savoir et la connaissance, ceux de la main gauche sont à la recherche du pouvoir qui leur a été interdit par Dieu et que Satan et son ange Lucifer leurs promettent.
+Les Adeptes de la Main Gauche considèrent que la lumière n'existe pas sans l'ombre et qu'il faut chercher les vérités dans les ténèbres, dans l'antithèse divine, dans ce que Dieu a voulu cacher ou interdire aux anges et aux mortels. Ils sont à la recherche du pouvoir qui leur a été interdit par Dieu et que Satan et son ange Lucifer leurs promettent, pratiquant une magie qui ferait hurler de terreur le Cercle d'Hécate.
 
 ## Les Rationalistes
 
@@ -38,4 +38,4 @@ Les grandes chasses aux sorcières d'Europe ont été les premières grandes act
 
 ### L'Institut Iscariote
 
-L'Institut Iscariote, nommé d'après le nom de famille de Judas, considère que le plan spirituel et ses entités sont un danger pour le monde, mais que l'on doit combattre le mal par le mal. Cette organisation accepte les créatures surnaturelles qui se considèrent comme maudites et qui acceptent de lutter contre les leurs, espérant par leurs actions racheter leur âme.
+L'Institut Iscariote, nommé d'après le nom de famille de Judas, considère que le plan spirituel, ses entités, et les pratiquants de magie sont un danger pour le monde, mais que l'on doit combattre le mal par le mal. Cette organisation accepte les créatures surnaturelles qui se considèrent comme maudites et qui acceptent de lutter contre les leurs, espérant par leurs actions racheter leur âme.
