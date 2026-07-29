@@ -22,7 +22,7 @@ Certaines armes sont plus dangereuses que d'autres, spécifiquement celles qui o
 
 Un équipement est considéré protecteur quand il possède **au moins la rigidité et l'épaisseur d'un blouson de cuir épais**. Il est possible de porter un équipement de protection pour chaque partie du corps ainsi que tenu à la main (torse, bras, jambes, tête, bouclier), pour un total maximum de 5 pièces. Chaque partie du corps protégé apporte un bonus de +10 aux tests de résistance physique, donc une protection complète à la fois du torse, des bras, des jambes, de la tête ainsi qu'un bouclier apporteront un bonus de +50 en résistance physique.
 
-> Camille fait l'inventaire des protections de sa tenue de hockey sur glace. Plastron, brassards, jambières, casque. Si elle devait encaisser un coup et effectuer un test de résistance physique, elle obtiendrait un bonus de +40 dans sa tenue complète !
+> Camille fait l'inventaire des protections de sa tenue de hockey sur glace. Plastron, brassards, jambières, casque. Si elle devait encaisser un coup et effectuer un test de résistance physique, elle obtiendrait un bonus de +40 dans sa tenue complète. En utilisant un couvercle de poubelle métallique en guise de bouclier, elle pourrait monter à +50 en résistance physique. Une véritable guerrière des temps modernes !
 
 ## Acquérir biens et services
 
