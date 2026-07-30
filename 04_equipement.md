@@ -20,9 +20,9 @@ Certaines armes sont plus dangereuses que d'autres, spécifiquement celles qui o
 
 ## Les protections
 
-Un équipement est considéré protecteur quand il possède **au moins la rigidité et l'épaisseur d'un blouson de cuir épais**. Il est possible de porter un équipement de protection pour chaque partie du corps ainsi que tenu à la main (torse, bras, jambes, tête, bouclier), pour un total maximum de 5 pièces. Chaque partie du corps protégé apporte un bonus de +10 aux tests de résistance physique, donc une protection complète à la fois du torse, des bras, des jambes, de la tête ainsi qu'un bouclier apporteront un bonus de +50 en résistance physique.
+De la même façon que pour les armes, il est possible de considérer la protection qu'un personnage peut porter. Une protection au moins aussi résistante qu'une veste de cuir épaisse ou qu'une armure improvisée faite de matériaux souples est considérée comme une protection **légère**, qui apporte un bonus à la résistante physique de +10. Les protections rigides suffisamment couvrantes (protections de football américain ou de hockey sur glace) ou les équipements spécialisés (veste pare-balle) sont considérées comme des protections **lourdes** et apportent un bonus à la résistance physique de +20. Le bonus apporté par les protections peut devenir un handicap lorsqu'il s'agit de se faufiler par une fenêtre discrètement ou d'escalader, aussi le MJ peut-il utiliser ce bonus en tant que malus pour les actions concernées.
 
-> Camille fait l'inventaire des protections de sa tenue de hockey sur glace. Plastron, brassards, jambières, casque. Si elle devait encaisser un coup et effectuer un test de résistance physique, elle obtiendrait un bonus de +40 dans sa tenue complète. En utilisant un couvercle de poubelle métallique en guise de bouclier, elle pourrait monter à +50 en résistance physique. Une véritable guerrière des temps modernes !
+> Camille a décidé de sortir ses protections de hockey sur glace pour aller visiter le sous-sol de l'étrange maison verte en bordure de la ville. S'agissant d'une protection lourde, ses protections lui apporteront un bonus de +20 à la résistance physique. Cependant, si elle doit tenter de se faire discrète durant son exploration, le MJ pourra lui imposer un malus de -20 à ses jets de filouterie.
 
 ## Acquérir biens et services
 
