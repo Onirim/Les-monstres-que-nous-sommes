@@ -16,7 +16,7 @@ Vous faites partie des jeunes gens qui étudient dans cette petite ville, au lyc
 
 Le système de jeu simple et modulaire propose une lecture directe des scores avec le moins de calculs et se spécialise dans le développement des personnages et la résolution de scènes rapides et émotionnellement fortes. Le jeu utilise principalement un dé à 100 faces (un dé à 10 faces de dizaines et un dé à 10 faces d'unités) ainsi qu'un ou deux dés à 6 faces. Le concept du système est simple : lorsqu'une situation mérite d'être testée, on lance 1d100 et si le résultat est inférieur ou égal au score du personnage, le test est un succès, sinon c'est un échec.
 
-## Le structure de jeu
+## La structure de jeu
 
 **Les monstres que nous sommes** vous propose une structure de jeu basé sur celui des séries télévisées du genre. La plus petite unité de temps que nous prenons en considération est la **scène**, durant laquelle les personnages interagissent avec leur environnement immédiat et avec les autres personnages proches. Une scène peut durer de quelques minutes à une heure, le temps d'un dialogue ou d'une suite rapide d'actions.
 

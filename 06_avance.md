@@ -2,7 +2,7 @@
 
 # Règles avancées
 
-Les monstres que nous sommes est un jeu se voulant simple et facile à prendre en main. Cependant, des MJ et joueurs vétérans pourraient souhaiter entrer plus en détail dans la vie de leurs personnages. Voici donc plusieurs règles avancées permettant de mettre en mouvement l'environnement académique (lycée et université) ainsi que la gestion des relations.
+Les monstres que nous sommes est un jeu se voulant simple et facile à prendre en main. Cependant, des MJ et joueurs vétérans pourraient souhaiter entrer plus en détail dans la vie de leurs personnages. Voici donc plusieurs règles avancées permettant de mettre en mouvement l'environnement académique (lycée et université) ainsi que la gestion des relations. La bonne pratique est de commencer une séance par le test académique, afin d'entrer dans la peau des personnages, et de n'autoriser l'approfondissent d'une seule relation par séance et par personnage.
 
 ## L'environnement académique
 
@@ -132,9 +132,9 @@ Chaque lien possède trois axes : l'**amitié**, le **désir** et l'**admiration
 
 Les règles de développement des relations n'ont pas pour vocation de remplacer le roleplay, mais d'offrir une structure qui puisse faciliter la charge de travail du MJ tout en améliorant la lisibilité des relations pour les joueurs. Il existe ainsi plusieurs moyens de développer une relation en termes de jeu, en notant qu'une relation ne peut être développée qu'une seule fois par épisode.
 
-- **Côtoyer le PNJ** : le personnage passe suffisamment de temps pour découvrir les valeurs d'amitié, de désir et d'admiration du PNJ à son égard et les reporter sur sa fiche. Il ne peut pas savoir quelle est l'affinité du PNJ à son égard par ce biais.
+- **Évaluer la relation** : le personnage passe suffisamment de temps pour découvrir les valeurs d'amitié, de désir et d'admiration du PNJ à son égard et peut les reporter sur sa fiche. Il ne peut pas savoir quelle est l'affinité du PNJ à son égard par ce biais.
 - **Traîner avec le PNJ** : faire des activités ensemble comme des révisions, du sport, une sortie ciné ou simplement glander dans la rue. Cela peut faire monter l'amitié d'un cran si celle-ci est une relation d'affinité.
-- **Proposer un rencart avec le PNJ** : si le PNJ accepte (si l'affinité le permet) alors le PJ peut aller au restaurant, au cinéma ou à tout endroit convenable pour un rencart, et le désir augmente d'un cran s'il s'agit d'une relation d'affinité. Si le PNJ refuse (parce qu'il n'a pas d'affinité), le PJ doit effectuer un jet de résistance mentale et en cas d'échec il subit un trauma approprié. Personne n'aime se prendre un râteau.
+- **Proposer un rencart avec le PNJ** : si le PNJ accepte (si l'affinité le permet) alors le PJ peut aller au restaurant, au cinéma ou à tout endroit convenable pour un rencart, et le désir augmente d'un cran s'il s'agit d'une relation d'affinité. Si le PNJ refuse (parce qu'il n'a pas d'affinité), le PJ doit effectuer un jet de résistance mentale et en cas d'échec il subit un trauma mental. Personne n'aime se prendre un râteau.
 - **Accorder de l'attention au PNJ** : passer du temps avec le PNJ sur l'activité qui concerne son admiration pour vous est une bonne façon de gagner davantage de son intérêt. L'admiration augmente d'un cran si une affinité existe entre les personnages.
 - **Arrondir les angles avec le PNJ** : vous pouvez tenter d'être cool avec l'un des personnages qui ne vous aime pas (et donc l'axe d'amitié est dans le sens de l'hostilité), d'essayer de le côtoyer et de vous montrer sympathique malgré son hostilité. Si le PNJ a une affinité d'amitié avec vous, il est ainsi possible de diminuer son hostilité d'un cran jusqu'à la ramener à zéro (après quoi arrondir les angles ne servira plus à rien, et vous pourrez commencer à traîner avec). En l'absence d'affinité, le PNJ vous humiliera et son niveau d'hostilité augmentera d'un cran. Vous devrez sans doute effectuer un jet de résistance mentale ou subir un trauma approprié.
 
