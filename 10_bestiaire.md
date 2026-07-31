@@ -14,6 +14,10 @@ Les profils ne mentionnent que les trois compétences les plus utiles de la cré
 
 Une attaque indiquée comme **légère** impose un malus de -10 à la résistance physique de sa cible. Une attaque **létale** impose un malus de -20, comme décrit au chapitre sur l'équipement. Lorsqu'un pouvoir provoque un défi, la compétence à utiliser par la créature est précisée dans sa description.
 
+## Personnages humains
+
+Les personnages humains peuvent pratiquer de nombreux métiers...
+
 ## Créatures de chair
 
 ### Goule affamée
