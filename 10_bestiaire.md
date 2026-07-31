@@ -2,4 +2,4 @@
 
 # Bestiaire
 
-Dans cette sections, vous trouverez différentes entités qui composent l'univers des Monstres que nous sommes. 
+Dans cette sections, vous trouverez différentes entités qui composent l'univers des **monstres que nous sommes**.

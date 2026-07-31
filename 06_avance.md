@@ -2,7 +2,7 @@
 
 # Règles avancées
 
-Les monstres que nous sommes est un jeu se voulant simple et facile à prendre en main. Cependant, des MJ et joueurs vétérans pourraient souhaiter entrer plus en détail dans la vie de leurs personnages. Voici donc plusieurs règles avancées permettant de mettre en mouvement l'environnement académique (lycée et université) ainsi que la gestion des relations. La bonne pratique est de commencer une séance par le test académique, afin d'entrer dans la peau des personnages, et de n'autoriser l'approfondissent d'une seule relation par séance et par personnage.
+**Les monstres que nous sommes** est un jeu se voulant simple et facile à prendre en main. Cependant, des MJ et joueurs vétérans pourraient souhaiter entrer plus en détail dans la vie de leurs personnages. Voici donc plusieurs règles avancées permettant de mettre en mouvement l'environnement académique (lycée et université) ainsi que la gestion des relations. La bonne pratique est de commencer une séance par le test académique, afin d'entrer dans la peau des personnages, et de n'autoriser l'approfondissent d'une seule relation par séance et par personnage.
 
 ## L'environnement académique
 
@@ -110,7 +110,7 @@ Une fois testé la vie académique, le MJ peut vous demander un test d'incident 
 
 ## Relations suivies
 
-**Les monstres que nous sommes** met en scène des adolescents aux prises avec leurs hormones et de jeunes adultes en pleine découvertes, c'est donc tout naturellement qu'une attention particulière doit être portée à leurs relations avec les autres. Il existe deux types de relations : les **relations suivies** et les **relations subies**. Lorsqu'un PJ rencontre un PNJ qu'il juge important, il peut l'ajouter à ses relations suivies. Le MJ quant à lui peut imposer la relation suivie avec un PNJ que le PJ a rencontré en tant que relation subie : une relation généralement négative, gênante ou toxique dont le PJ ne peut pas se débarrasser aisément. 
+**Les monstres que nous sommes** met en scène des adolescents aux prises avec leurs hormones et de jeunes adultes en pleine découvertes, c'est donc tout naturellement qu'une attention particulière doit être portée à leurs relations avec les autres. Il existe deux types de relations : les **relations suivies** et les **relations subies**. Lorsqu'un PJ rencontre un PNJ qu'il juge important, il peut l'ajouter à ses relations suivies. Le MJ quant à lui peut imposer la relation suivie avec un PNJ que le PJ a rencontré en tant que relation subie : une relation généralement négative, gênante ou toxique dont le PJ ne peut pas se débarrasser aisément.
 
 ### Les axes de relation
 

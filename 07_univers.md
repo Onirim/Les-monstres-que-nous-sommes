@@ -47,7 +47,7 @@ Les reflets sont des échos de lieux anciens ou plus récents, imaginaires ou no
 
 ## Les effets d'internet (après 2010)
 
-Les Monstres que nous sommes propose par défaut de jouer au début de notre millénaire, en 2000. Vous pouvez cependant opter pour une date plus récente et constater les effets du monde digital sur le monde spirituel. 
+**Les monstres que nous sommes** propose par défaut de jouer au début de notre millénaire, en 2000. Vous pouvez cependant opter pour une date plus récente et constater les effets du monde digital sur le monde spirituel.
 
 ### Le Flux
 

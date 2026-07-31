@@ -41,7 +41,7 @@ Une résistance est testée lorsqu'un événement vient mettre en danger la sant
 
 ## Le combat
 
-Dans les Monstres que nous sommes, le combat nécessite de découper la scène en tours, chaque tour durant entre 6 à 10 secondes. Un personnage peut effectuer une action ainsi qu'un déplacement à chaque tour. Un tour lui-même se découpe en phases où chacun peut agir en fonction de son action :
+Dans les **monstres que nous sommes**, le combat nécessite de découper la scène en tours, chaque tour durant entre 6 à 10 secondes. Un personnage peut effectuer une action ainsi qu'un déplacement à chaque tour. Un tour lui-même se découpe en phases où chacun peut agir en fonction de son action :
 
 1. **Phase de distance** : tous les personnages souhaitant utiliser leur action pour une attaque à distance agissent à cette phase, via un test opposé approprié, généralement l'attaquant utilise combat ou occultisme (s'il s'agit d'un pouvoir de sorcière) opposé à une compétence utilisable pour se soustraire aux attaques à distance (combat, athlétisme, occultisme ou filouterie peuvent être valables). Si l'assaillant l'emporte, sa cible doit effectuer un test de résistance en vertu des règles normales. Si la cible l'emporte, le coup est manqué. Dans le cas où la cible elle aussi utilise son action pour attaquer l'assaillant, alors c'est l'assaillant qui doit jouer son test de résistance !
 2. **Phase de mouvement** : tous les personnages peuvent se déplacer d'une dizaine de mètres environ (peut être davantage avec un pouvoir adapté). Aucun jet n'est normalement nécessaire pour un déplacement, sauf si le personnage essaie un déplacement complexe. Dans ce cas, le MJ peut demander un test d'athlétisme pour que le mouvement soit un succès.
