@@ -2,7 +2,7 @@
 
 # Bienvenue à Mystic Ridge
 
-*Mystic Ridge, Montana — début des années 2000. Trente mille habitants, deux lacs glacés, une forêt qui ne finit jamais tout à fait et beaucoup trop de choses que personne ne veut regarder en face.*
+*Mystic Ridge, Montana, au début des années 2000. Trente mille habitants, deux lacs glacés, des montagnes et des forêts sans fin et beaucoup trop de secrets.*
 
 ## Généralités
 

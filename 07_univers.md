@@ -45,18 +45,4 @@ On peut catégoriser les esprits en deux niveaux :
 
 Les reflets sont des échos de lieux anciens ou plus récents, imaginaires ou non, qui ont donné naissance à des singularités dans le monde spirituel. Ces reflets sont comme des mondes matériels, souvent liés à un concept fort (Backrooms, Terres de l'Eternelle Chasse, Olympe mythique, Enfer ou Paradis, etc.). On peut les atteindre soit par le monde spirituel directement, soit par des passages dans notre monde matériel, sorte de tunnels qui relient ces mondes. Ces reflets sont ainsi créés par les émotions du monde matériel dont les résonances ont cristallisé dans le monde spirituel pour créer leur propre réalité matérielle. Ils sont généralement habités par leurs propres esprits. Les esprits liés à leur propre reflet y prennent une forme physique.
 
-## Les effets d'internet (après 2010)
 
-**Les monstres que nous sommes** propose par défaut de jouer au début de notre millénaire, en 2000. Vous pouvez cependant opter pour une date plus récente et constater les effets du monde digital sur le monde spirituel.
-
-### Le Flux
-
-*Le fil, le scroll, la boucle infinie*
-
-Le Flux est un reflet. Mais contrairement aux autres reflets, il n'a ni mythologie ni folklore : il n'existe que depuis le milieu des années 2010, et grandit à mesure que le monde matériel se couvre d'écrans. C'est un reflet sans géographie propre — on n'y « va » pas comme on irait dans les Terres de l'Éternelle Chasse, on y tombe, happé par un fil d'actualité qu'on faisait défiler sans vraiment y penser. Il se nourrit d'une quantité prodigieuse d'émotions humaines, mais des émotions arrachées à leur contexte : de la colère ressentie par quelqu'un qui n'a pas vécu le drame qui l'a provoquée, de la joie de quelqu'un qui ne connaît pas la personne qu'il félicite, de la haine partagée par des milliers d'inconnus qui ne partagent rien d'autre que l'instant du clic. Personne, pas même parmi les initiés les plus savants, ne sait vraiment ce que le Flux est en train de devenir.
-
-### Le Bruit
-
-*La dissonance, le vacarme, la statique, le mauvais signal*
-
-Le Bruit est ce que devient une résonance quand elle n'a plus rien à quoi se rattacher. Une résonance naît normalement d'une émotion vécue, ancrée dans un lieu et une histoire réelle — même une résonance de rage a une origine qu'on peut remonter. Le Bruit, lui, ne construit rien et ne peut être apaisé, puisqu'il n'a jamais eu de cause à résoudre : ce n'est pas de la musique, c'est de la friture sur la ligne. Il se propage à travers les points de passage les plus récents et les plus négligés du voile — les écrans — et semble sourdre du Flux, sans qu'on sache s'il en est un simple sous-produit ou quelque chose de plus intentionnel. Un téléphone consulté compulsivement à trois heures du matin, un fil qu'on rafraîchit sans y penser, sont en train de devenir des brèches du voile aussi réelles qu'une veillée funèbre ou une nuit de pleine lune — sauf que presque personne, encore, ne s'en est aperçu.
