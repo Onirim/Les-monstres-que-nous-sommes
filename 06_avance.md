@@ -2,7 +2,7 @@
 
 # Règles avancées
 
-Les monstres que nous sommes est un jeu se voulant simple et facile à prendre en main. Cependant, des MJ et joueurs vétérans pourraient souhaiter entrer plus en détail dans la vie de leurs personnages. Voici donc plusieurs règles avancées permettant de mettre en mouvement l'environnement académique (lycée et université) ainsi que la gestion des relations.
+**Les monstres que nous sommes** est un jeu se voulant simple et facile à prendre en main. Cependant, des MJ et joueurs vétérans pourraient souhaiter entrer plus en détail dans la vie de leurs personnages. Voici donc plusieurs règles avancées permettant de mettre en mouvement l'environnement académique (lycée et université) ainsi que la gestion des relations. La bonne pratique est de commencer une séance par le test académique, afin d'entrer dans la peau des personnages, et de n'autoriser l'approfondissent d'une seule relation par séance et par personnage.
 
 ## L'environnement académique
 
@@ -55,7 +55,7 @@ L'attribut de sérénité peut être testé pour éviter des accidents d'inatten
 
 ### Test de vie académique
 
-Chaque début de scénario, on choisit où l'on a mis ses efforts durant la période écoulée. Si la période était relativement courte (une semaine) le PJ gagne 1d6 points dans son score de **résultats**, de **popularité** ou de **sérénité**. Si la période était plus longue, de l'ordre d'un mois, alors la valeur est augmentée de 2d6 points. Les deux scores qui n'ont pas été choisies doivent faire l'objet d'un test afin de ne pas chuter d'1d6 ou de 2d6 points. Notez que les malus dus aux traumas s'appliquent sur ces tests, on a donc plus de difficutlé à survivre dans la jungle académique lorsque l'on est pas au mieux de sa forme. Vous pouvez demander à vos joueurs :
+Chaque début de scénario, on choisit où l'on a mis ses efforts durant la période écoulée. Si la période était relativement courte (une semaine) le PJ gagne 1d6 points dans son score de **résultats**, de **popularité** ou de **sérénité**. Si la période était plus longue, de l'ordre d'un mois, alors la valeur est augmentée de 2d6 points. Les deux scores qui n'ont pas été choisies doivent faire l'objet d'un test afin de ne pas chuter d'1d6 ou de 2d6 points. Notez que les malus dus aux traumas s'appliquent sur ces tests, on a donc plus de difficulté à survivre dans la jungle académique lorsque l'on est pas au mieux de sa forme. Vous pouvez demander à vos joueurs :
 
 *« Depuis le dernier épisode, la vie a repris son cours. Au niveau académique, où avez-vous mis vos efforts ? Avez-vous révisé pour améliorer votre niveau ? Avez-vous privilégié votre popularité au sein de l'établissement ? Ou avez-vous plutôt relâché la pression ? Choisissez entre résultats, popularité et sérénité. »*
 
@@ -67,7 +67,7 @@ Chaque début de scénario, on choisit où l'on a mis ses efforts durant la pér
 
 Une fois testé la vie académique, le MJ peut vous demander un test d'incident académique. Testez alors votre plus faible valeur entre résultats, popularité et sérénité. Si vous échouez, le MJ peut se servir de la table correspondante à votre plus faible score pour vous créer un incident académique, qui a de grandes chances de vous faire commencer l'épisode avec une case de stress. L'incident académique vous est proposé afin de simuler les aléas de la vie académique. En tant que MJ, vous n'avez pas besoin de faire jouer cet incident lors d'une scène de jeu, plutôt juste de le raconter. Il est également possible d'utiliser l'incident académique pour débuter votre nouvel épisode !
 
-| 1d6 | Incident de résultats | 
+| 1d10 | Incident de résultats | 
 | --- | ------------ |
 | 1 | Vous êtes appelé au tableau pour une démonstration et vous vous trompez complètement. Vous subissez les moqueries de la salle de classe et subissez une case de stress mental. |
 | 2 | Alors que vous rendez l'un de vos devoirs, le professeur fait une remarque blessante sur votre capacité intellectuelle. Subissez une case de stress mental. |
@@ -75,6 +75,11 @@ Une fois testé la vie académique, le MJ peut vous demander un test d'incident 
 | 4 | Vos parents ont deux mots à vous dire au sujet de vos résultats et le dernier repas de famille était tendu. Subissez une case de stress mental. |
 | 5 | On vous accuse de tricher lors d'un examen devant toute la classe et vous devez vous en défendre. Subissez une case de stress mental.  |
 | 6 | Pour vous aider dans vos cours, l'un de vos professeurs vous offre une heure de colle à mettre à profit pour réviser. Subissez une case de stress mental. |
+| 7 | Vous devez travailler en groupes pour votre prochain projet, mais personne ne veut être avec vous. Subissez une case de stress mental. |
+| 8 | Un contrôle surprise tombe alors que vous n'avez absolument rien révisé, et votre note désastreuse est affichée au tableau des résultats. Subissez une case de stress mental. |
+| 9 | 	On vous surprend en train de copier sur votre voisin : c'est un zéro pointé, consigné dans votre dossier scolaire. Subissez une case de stress mental. |
+| 10 | Lors d'un oral, vous perdez tous vos moyens et bafouillez sans parvenir à répondre, sous le regard amusé de vos camarades. Subissez une case de stress mental. |
+
 
 | 1d10 | Incident de popularité |
 | --- | ------------ |
@@ -89,7 +94,7 @@ Une fois testé la vie académique, le MJ peut vous demander un test d'incident 
 | 9 | Vous vous faites grossièrement draguer en pleine classe, c'est tellement lourd que c'est forcément malveillant. Subissez une case de stress mental. |
 | 10 | Quelqu'un a trouvé amusant de déposer une punaise sur votre siège en cours. Votre cri de douleur fait rire quelques élèves. Subissez une case de stress mental. |
 
-| 1d6 | Incident de sérénité |
+| 1d10 | Incident de sérénité |
 | --- | ------------ |
 | 1 | Le système d'arrosage automatique se déclenche lorsque vous passez devant... vous finissez trempé. Subissez une case de stress mental. |
 | 2 | Vous avez oublié chez vos parents le devoir que vous deviez rendre, et personne ne vous croit. Subissez une case de stress mental. |
@@ -97,17 +102,21 @@ Une fois testé la vie académique, le MJ peut vous demander un test d'incident 
 | 4 | Vous avez égaré votre sac de cours et le retrouvez finalement aux objets trouvés. Il manque un livre. Subissez une case de stress mental. |
 | 5 | Attention ! Vous vous prenez une porte en pleine figure et finissez à l'infirmerie avec un saignement de nez. Subissez une case de stress physique. |
 | 6 | Vous avez du mal à vous concentrer et vous occupez autrement en classe. Vous écopez d'une heure de colle. Subissez une case de stress mental. |
+| 7 | Vous vous faites bousculer par mégarde près du distributeur de chocolat/café et renversez le contenu de votre gobelet sur vous. Subissez une case de stress mental.
+| 8 | Vous glissez sur une flaque d'eau dans le couloir et vous étalez lourdement devant tout le monde. Subissez une case de stress physique. |
+| 9 | Quelqu'un vous emprunte votre matériel de cours sans jamais vous le rendre, et vous devez vous débrouiller sans pour le reste de la journée. Subissez une case de stress mental.
+| 10 | Une migraine soudaine vous frappe en plein cours et vous devez sortir précipitamment sous le regard interrogateur de tous. Subissez une case de stress physique. |
 
 
 ## Relations suivies
 
-**Les monstres que nous sommes** met en scène des adolescents aux prises avec leurs hormones et de jeunes adultes en pleine découvertes, c'est donc tout naturellement qu'une attention particulière doit être portée à leurs relations avec les autres. Il existe deux types de relations : les **relations suivies** et les **relations subies**. Lorsqu'un PJ rencontre un PNJ qu'il juge important, il peut l'ajouter à ses relations suivies. Le MJ quant à lui peut imposer la relation suivie avec un PNJ que le PJ a rencontré en tant que relation subie : une relation généralement négative, gênante ou toxique dont le PJ ne peut pas se débarrasser aisément. 
+**Les monstres que nous sommes** met en scène des adolescents aux prises avec leurs hormones et de jeunes adultes en pleine découvertes, c'est donc tout naturellement qu'une attention particulière doit être portée à leurs relations avec les autres. Il existe deux types de relations : les **relations suivies** et les **relations subies**. Lorsqu'un PJ rencontre un PNJ qu'il juge important, il peut l'ajouter à ses relations suivies. Le MJ quant à lui peut imposer la relation suivie avec un PNJ que le PJ a rencontré en tant que relation subie : une relation généralement négative, gênante ou toxique dont le PJ ne peut pas se débarrasser aisément.
 
 ### Les axes de relation
 
 Chaque lien possède trois axes : l'**amitié**, le **désir** et l'**admiration**. Lorsqu'un nouveau PNJ est ajouté dans une relation suivie, le MJ doit secrètement définir quels sont les **affinités** entre le PNJ et le PJ. Il peut s'agir d'une affinité d'amitié, d'attirance ou d'admiration (un seul des axes, deux, voir même les trois !). La relation ne pourra progresser que pour les axes où il existe une affinité. La version négative de l'amitié est l'**hostilité**. Dans le cas d'un personnage hostile, le désir devient généralement toxique et l'admiration se transforme en jalousie.
 
-**Amitié** : L'amitié représente l'affinité, la camaraderie et la sympathie que le PNJ peut éprouver pour le PJ. A la différence des deux autres axes de relation, l'amitié peut être inversée et représenter alors l'hostilité éprouvée pour le PJ. L'amitié peut augmenter si le PJ se donne les moyens de la cultiver et qu'il y a une affinité entre les personnages, généralement en **trainant** avec le PNJ.
+**Amitié** : L'amitié représente l'affinité, la camaraderie et la sympathie que le PNJ peut éprouver pour le PJ. A la différence des deux autres axes de relation, l'amitié peut être inversée et représenter alors l'hostilité éprouvée pour le PJ. L'amitié peut augmenter si le PJ se donne les moyens de la cultiver et qu'il y a une affinité entre les personnages, généralement en **traînant** avec le PNJ.
 
 **Désir** : Le désir représente l'attirance physique, le besoin de séduction voir le crush du PNJ sur le PJ. Plus le score est élevé, et plus le PNJ aura d'attentes érotiques ou romantiques au sujet du PJ. Le score peut augmenter d'un cran après un **rencart** avec le PNJ si une affinité existe entre les personnages. On peut être attiré par l'allure et la façon d'être de quelqu'un et chercher sa compagnie sans pour autant avoir d'ambition sexuelle à son sujet.
 
@@ -123,16 +132,16 @@ Chaque lien possède trois axes : l'**amitié**, le **désir** et l'**admiration
 
 Les règles de développement des relations n'ont pas pour vocation de remplacer le roleplay, mais d'offrir une structure qui puisse faciliter la charge de travail du MJ tout en améliorant la lisibilité des relations pour les joueurs. Il existe ainsi plusieurs moyens de développer une relation en termes de jeu, en notant qu'une relation ne peut être développée qu'une seule fois par épisode.
 
-- **Côtoyer le PNJ** : le personnage passe suffisamment de temps pour découvrir les valeurs d'amitié, de désir et d'admiration du PNJ à son égard et les reporter sur sa fiche. Il ne peut pas savoir quelle est l'affinité du PNJ à son égard par ce biais.
-- **Trainer avec le PNJ** : faire des activités ensemble comme des révisions, du sport, une sortie ciné ou simplement glander dans la rue. Cela peut faire monter l'amitié d'un cran si celle-ci est une relation d'affinité.
-- **Proposer un rencart avec le PNJ** : si le PNJ accepte (si l'affinité le permet) alors le PJ peut aller au restaurant, au cinéma ou à tout endroit convenable pour un rencart, et le désir augmente d'un cran s'il s'agit d'une relation d'affinité. Si le PNJ refuse (parce qu'il n'a pas d'affinité), le PJ doit effectuer un jet de résistance mentale et en cas d'échec il subit un trauma approprié. Personne n'aime se prendre un rateau.
+- **Évaluer la relation** : le personnage passe suffisamment de temps pour découvrir les valeurs d'amitié, de désir et d'admiration du PNJ à son égard et peut les reporter sur sa fiche. Il ne peut pas savoir quelle est l'affinité du PNJ à son égard par ce biais.
+- **Traîner avec le PNJ** : faire des activités ensemble comme des révisions, du sport, une sortie ciné ou simplement glander dans la rue. Cela peut faire monter l'amitié d'un cran si celle-ci est une relation d'affinité.
+- **Proposer un rencart avec le PNJ** : si le PNJ accepte (si l'affinité le permet) alors le PJ peut aller au restaurant, au cinéma ou à tout endroit convenable pour un rencart, et le désir augmente d'un cran s'il s'agit d'une relation d'affinité. Si le PNJ refuse (parce qu'il n'a pas d'affinité), le PJ doit effectuer un jet de résistance mentale et en cas d'échec il subit un trauma mental. Personne n'aime se prendre un râteau.
 - **Accorder de l'attention au PNJ** : passer du temps avec le PNJ sur l'activité qui concerne son admiration pour vous est une bonne façon de gagner davantage de son intérêt. L'admiration augmente d'un cran si une affinité existe entre les personnages.
-- **Arrondir les angles avec le PNJ** : vous pouvez tenter d'être cool avec l'un des personnages qui ne vous aime pas (et donc l'axe d'amitié est dans le sens de l'hostilité), d'essayer de le cotoyer et de vous montrer sympathique malgré son hostilité. Si le PNJ a une affinité d'amitié avec vous, il est ainsi possible de diminuer son hostilité d'un cran jusqu'à la ramener à zéro (après quoi arrondir les angles ne servira plus à rien, et vous pourrez commencer à trainer avec). En l'absence d'affinité, le PNJ vous humiliera et son niveau d'hostilité augmentera d'un cran. Vous devrez sans doute effectuer un jet de résistance mentale ou subir un trauma approprié.
+- **Arrondir les angles avec le PNJ** : vous pouvez tenter d'être cool avec l'un des personnages qui ne vous aime pas (et donc l'axe d'amitié est dans le sens de l'hostilité), d'essayer de le côtoyer et de vous montrer sympathique malgré son hostilité. Si le PNJ a une affinité d'amitié avec vous, il est ainsi possible de diminuer son hostilité d'un cran jusqu'à la ramener à zéro (après quoi arrondir les angles ne servira plus à rien, et vous pourrez commencer à traîner avec). En l'absence d'affinité, le PNJ vous humiliera et son niveau d'hostilité augmentera d'un cran. Vous devrez sans doute effectuer un jet de résistance mentale ou subir un trauma approprié.
 
 **Générer aléatoirement les relations** : Les trois axes de relation ainsi que les affinités peuvent être définis aléatoirement au moment où vous en avez besoin ou en amont (ce qui demandera au MJ de gérer les valeurs de son côté tant que les joueurs ne les connaissent pas).
 
 - Les axes amitié/hostilité, désir et admiration peuvent être définis via le lancer d'1d6-3 (0 étant le minimum)
 - pour chaque axe, il les chances qu'il existe une affinité sont de 5 ou 6 sur 1d6
 
-**Découvrir une nouvelle affinité** : Lorsqu'un axe de relation atteint le nivau 5 (son maximum), le MJ peut estimer qu'une nouvelle affinité peut être ajoutée au PNJ. En effet, celui-ci découvre peut être une facette méconnue du PJ ou apprend à l'apprécier d'une manière qu'il n'avait pas prévu.
+**Découvrir une nouvelle affinité** : Lorsqu'un axe de relation atteint le niveau 5 (son maximum), le MJ peut estimer qu'une nouvelle affinité peut être ajoutée au PNJ. En effet, celui-ci découvre peut être une facette méconnue du PJ ou apprend à l'apprécier d'une manière qu'il n'avait pas prévu.
 
