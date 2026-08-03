@@ -16,7 +16,13 @@ Une attaque indiquée comme **légère** impose un malus de -10 à la résistanc
 
 ## Personnages humains
 
-Les personnages humains peuvent pratiquer de nombreux métiers...
+Les personnages humains peuvent pratiquer de nombreux métiers : qu'ils soient policiers, professeurs, gardes forestiers ou étudiants, les personnages humains possèdent des attributs très variés qui dépendent de leur métier et de leurs centres d'intérêt. Lorsque vous décidez de mettre en scène un PNJ, vous pouvez vous servir de la table ci-après comme guide pour lui attribuer ses scores dans ses compétences et ses résistances.
+
+| Niveau | Score d'attribut |
+| Inexpérimenté | 30 |
+| Débutant | 50 |
+| Professionnel | 70 |
+| Expert | 90 |
 
 ## Créatures de chair
 
