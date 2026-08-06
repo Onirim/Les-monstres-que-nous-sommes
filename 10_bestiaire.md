@@ -12,7 +12,7 @@ Les mentions **menace mineure**, **menace sérieuse** et **menace majeure** indi
 
 Les profils ne mentionnent que les trois compétences les plus utiles de la créature. Pour toute autre action, utilisez une valeur de 40, ou de 20 si l'action va à l'encontre de sa nature. Les limites imposées aux personnages lors de leur création ne s'appliquent pas aux créatures. Pour rendre une rencontre plus facile ou plus difficile, le MJ peut simplement retrancher ou ajouter 10 à leurs résistances et à leurs compétences.
 
-Une attaque indiquée comme **légère** impose un malus de -10 à la résistance physique de sa cible. Une attaque **létale** impose un malus de -20, comme décrit au chapitre sur l'équipement. Lorsqu'un pouvoir provoque un défi, la compétence à utiliser par la créature est précisée dans sa description.
+Une attaque indiquée comme **légère** impose un malus de -10 à la résistance physique de sa cible. Une attaque **létale** impose un malus de -20, comme décrit au chapitre sur l'équipement. Lorsqu'un pouvoir provoque un test opposé, la compétence à utiliser par la créature est précisée dans sa description.
 
 ## Personnages humains
 
@@ -61,7 +61,7 @@ Ce profil représente un loup-garou ayant totalement cédé à sa rage. Ce n'est
 - **Bond du prédateur** : Le loup-garou peut parcourir une vingtaine de mètres et franchir un obstacle ordinaire pendant sa phase de mouvement. Il teste son athlétisme seulement si le terrain est particulièrement dangereux.
 - **Régénération bestiale** : Le loup-garou efface tout son stress physique à la fin de la scène. Une fois par scène, lorsqu'un échec à un test de résistance physique devrait le mettre hors de combat, il peut immédiatement se relever. Il ne peut pas se relever si l'attaque utilisait de l'argent ou de l'aconit.
 
-**Faiblesse — Argent et aconit** : Le loup-garou subit un malus de -50 à sa résistance physique contre l'argent et l'aconit. Une personne qui compte sincèrement pour lui peut employer son action et réussir un défi de bagou contre sa résistance mentale pour suspendre ses attaques pendant un tour.
+**Faiblesse — Argent et aconit** : Le loup-garou subit un malus de -50 à sa résistance physique contre l'argent et l'aconit. Une personne qui compte sincèrement pour lui peut employer son action et réussir un test opposé de bagou contre sa résistance mentale pour suspendre ses attaques pendant un tour.
 
 ### Chimère de Prometheus
 
@@ -76,7 +76,7 @@ Les chimères de Prometheus Corp mêlent tissus animaux, organes humains et rés
 **Pouvoirs** :
 
 - **Armature composite** : Ses plaques lui accordent une protection légère déjà comprise dans sa résistance physique. Les griffes de la chimère sont des armes létales.
-- **Camouflage optique** : Tant qu'elle reste immobile, la chimère se confond avec son environnement. La repérer exige de remporter un défi de vigilance contre sa filouterie. Le camouflage cesse dès qu'elle attaque ou se déplace rapidement.
+- **Camouflage optique** : Tant qu'elle reste immobile, la chimère se confond avec son environnement. La repérer exige de remporter un test opposé de vigilance contre sa filouterie. Le camouflage cesse dès qu'elle attaque ou se déplace rapidement.
 - **Hurlement dissonant** : Une fois par scène, la chimère émet une vibration qui brouille les sens. Toutes les personnes à proximité doivent tester leur résistance mentale. Celles qui échouent perdent leur prochaine action, désorientées par la vibration.
 
 **Faiblesse — Implant de contrôle** : Un personnage qui observe la chimère et réussit un test de technologie remarque son implant. Une attaque ciblée portée avec un malus de -20 peut l'arracher : la chimère perd son armature composite et 10 points de résistance physique, mais devient lucide assez longtemps pour fuir ou se laisser approcher.
@@ -157,7 +157,7 @@ Le mange-chagrin naît dans les chambres où quelqu'un souffre seul depuis trop 
 
 **Pouvoirs** :
 
-- **Ami invisible** : Le mange-chagrin ne peut être perçu que par sa victime ou par une personne qui remporte un défi de vigilance contre sa filouterie. Il prend alors l'apparence d'une silhouette rassurante et familière.
+- **Ami invisible** : Le mange-chagrin ne peut être perçu que par sa victime ou par une personne qui remporte un test opposé de vigilance contre sa filouterie. Il prend alors l'apparence d'une silhouette rassurante et familière.
 - **Engourdissement** : Il oppose son bagou à la résistance mentale de sa cible. S'il l'emporte, elle efface une case de stress mental, mais subit -10 à tous ses tests de bagou et de vigilance jusqu'à la fin du scénario. Les pénalités sont cumulatives.
 - **Dévorer le lien** : Une fois par scène, le mange-chagrin peut obliger sa victime à interpréter une parole bienveillante comme une attaque. La cible doit réussir un test de résistance mentale ou rejeter brutalement la personne qui tente de l'aider.
 
@@ -195,7 +195,7 @@ Un doppelgänger naît dans un reflet à partir de ce qu'une personne aurait pu 
 
 **Pouvoirs** :
 
-- **Visage volé** : Après avoir observé quelqu'un pendant une scène, le doppelgänger reproduit parfaitement son apparence et sa voix. Le démasquer exige de remporter un défi de vigilance contre sa filouterie ou de lui demander un souvenir chargé d'émotion.
+- **Visage volé** : Après avoir observé quelqu'un pendant une scène, le doppelgänger reproduit parfaitement son apparence et sa voix. Le démasquer exige de remporter un test opposé de vigilance contre sa filouterie ou de lui demander un souvenir chargé d'émotion.
 - **Souvenirs de surface** : En touchant sa victime endormie, il apprend les faits marquants de sa vie récente. Il ne ressent pas les émotions associées et interprète souvent mal les non-dits.
 - **Usurper le lien** : Le doppelgänger oppose son bagou à la résistance mentale d'un proche de son modèle. S'il l'emporte, cette personne rationalise une incohérence flagrante et refuse d'envisager l'imposture jusqu'à ce qu'une nouvelle preuve lui soit présentée.
 
@@ -214,7 +214,7 @@ Un démon du pacte apparaît lorsqu'une personne désire quelque chose au point 
 **Pouvoirs** :
 
 - **Marché irrésistible** : Le démon peut réaliser un souhait plausible à l'échelle d'une série : obtenir une information interdite, guérir un trauma, ruiner une réputation ou ramener brièvement un mort. Le prix crée toujours une complication durable. Aucun jet n'est nécessaire si le marché est librement accepté.
-- **Lire le désir** : Après quelques minutes de conversation, le démon sait ce que son interlocuteur désire le plus. Résister exige de remporter un défi de bagou contre son bagou ; en cas d'échec, le démon apprend également ce que la personne refuse de sacrifier.
+- **Lire le désir** : Après quelques minutes de conversation, le démon sait ce que son interlocuteur désire le plus. Résister exige de remporter un test opposé de bagou contre son bagou ; en cas d'échec, le démon apprend également ce que la personne refuse de sacrifier.
 - **Clauses infernales** : Quiconque rompt un pacte doit réussir un test de résistance mentale avec un malus de -20 ou subir un trauma mental. Le démon peut apparaître aussitôt à proximité du coupable, même si le voile est épais.
 - **Forme véritable** : Une fois par scène, le démon révèle sa nature. Tous les témoins testent leur résistance mentale avec un malus de -20. Ceux qui échouent fuient, se figent ou se soumettent pendant un tour, en plus de subir les conséquences habituelles.
 

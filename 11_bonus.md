@@ -26,9 +26,9 @@ Chaque leshy peut développer jusqu'à trois pouvoirs qui lui sont propres. Lors
 
 **Voix de la canopée** : Vous pouvez communiquer avec la flore environnante — arbres, buissons, mousses — et en tirer des informations fragmentaires sur ce qui s'est passé récemment à proximité (un passage, une agression, une odeur de sang). Un test de pouvoir réussi vous donnera des informations utiles.
 
-**Camouflage sylvestre** : En pleine nature ou à proximité de végétation suffisante, vous pouvez vous fondre presque totalement dans votre environnement. Vous pouvez ajouter votre score de pouvoir à votre compétence de nature lorsque vous vous camouflez, et devenez extrêmement difficile à repérer pour quiconque ne vous cherche pas activement ; un poursuivant averti de votre présence peut tenter un défi de vigilance opposé à votre compétence de nature.
+**Camouflage sylvestre** : En pleine nature ou à proximité de végétation suffisante, vous pouvez vous fondre presque totalement dans votre environnement. Vous pouvez ajouter votre score de pouvoir à votre compétence de nature lorsque vous vous camouflez, et devenez extrêmement difficile à repérer pour quiconque ne vous cherche pas activement ; un poursuivant averti de votre présence peut tenter un test opposé de vigilance contre votre compétence de nature.
 
-**Ronces vengeresses** : Vous pouvez faire jaillir des ronces ou des racines du sol environnant pour entraver un adversaire pendant une scène. La cible doit réussir un défi d'athlétisme ou de résistance physique contre votre pouvoir pour se libérer avant d'agir normalement.
+**Ronces vengeresses** : Vous pouvez faire jaillir des ronces ou des racines du sol environnant pour entraver un adversaire pendant une scène. La cible doit réussir un test opposé d'athlétisme ou de résistance physique contre votre pouvoir pour se libérer avant d'agir normalement.
 
 **Symbiose animale** : Vous êtes perçu comme un gardien bienveillant par la faune sauvage, qui ne vous craint jamais et peut même vous assister. Sur un test de pouvoir réussi, vous pouvez faire appel à des animaux proches (oiseaux, cerfs, renards) pour observer un lieu, guider quelqu'un dans la forêt, ou détourner l'attention d'un poursuivant.
 
