@@ -16,7 +16,7 @@ Une attaque indiquée comme **légère** impose un malus de -10 à la résistanc
 
 ## Personnages humains
 
-Les personnages humains peuvent pratiquer de nombreux métiers : qu'ils soient policiers, professeurs, gardes forestiers ou étudiants, les personnages humains possèdent des attributs très variés qui dépendent de leur métier et de leurs centres d'intérêt. Lorsque vous décidez de mettre en scène un PNJ, vous pouvez vous servir de la table ci-après comme guide pour lui attribuer ses scores dans ses compétences et ses résistances.
+Les personnages humains peuvent pratiquer de nombreux métiers : qu'ils soient policiers, professeurs, gardes forestiers ou étudiants, les personnages humains possèdent des attributs très variés qui dépendent de leur occupation et de leurs centres d'intérêt. Lorsque vous décidez de mettre en scène un PNJ, vous pouvez vous servir de la table ci-après comme guide pour lui attribuer ses scores dans ses compétences et ses résistances.
 
 | Niveau | Score d'attribut |
 | --- | --- |
@@ -27,11 +27,11 @@ Les personnages humains peuvent pratiquer de nombreux métiers : qu'ils soient p
 
 ## Créatures de chair
 
-### Goule affamée
+### Goule
 
-*Menace mineure — mort-vivant, prédateur de cave, serviteur abandonné*
+*Menace mineure — serviteur loyal, mort-vivant, prédateur de cave*
 
-Une goule est un humain qui a été vidé de son sang par un vampire avant de recevoir un peu du sang de ce dernier. Il devient alors un serviteur du vampire, attaché émotionnellement à son maître et dépendant de son sang (il doit être nourrit d'un peu de sang de son maître une fois par semaine). Abandonnée sans soins, son teint devient cireux, ses gestes saccadés, et elle tentera par tous les moyens de boire du sang  ou de la chair de mortel pour continuer d'exister. Si un vampire lui donne de son sang, la goule retrouve la raison et peut reconnaître le donneur comme son nouveau maître.
+Une goule est un humain qui a été vidé de son sang par un vampire avant de recevoir un peu du sang de ce dernier. Il devient alors un serviteur du vampire, attaché émotionnellement à son maître et dépendant de son sang (il doit être nourrit d'un peu de sang de son maître une fois par semaine). Abandonnée sans soins, son teint devient cireux, ses gestes saccadés, et elle tentera par tous les moyens de boire du sang de mortel pour continuer d'exister. Si un vampire lui donne de son sang, la goule retrouve la raison et peut reconnaître le donneur comme son nouveau maître.
 
 **Résistances** : physique 60, mentale 40.
 
@@ -39,11 +39,11 @@ Une goule est un humain qui a été vidé de son sang par un vampire avant de re
 
 **Pouvoirs** :
 
-- **Crocs de goule** : Les dents de la goule ressemblent à celles des vampires et sont considérées comme des armes légères. Contrairement au vampire, la morsure d'une goule n'entraîne ni XXX ni oubli, mais une grande faiblesse. Une victime mise hors de combat par sa morsure subit généralement un trauma physique.
+- **Canines de goule** : Les canines de la goule ressemblent à celles des vampires et sont considérées comme des armes légères. Contrairement au vampire, la morsure d'une goule n'entraîne ni extase ni oubli, mais davantage une grande faiblesse et un froid intérieur. Une victime mise hors de combat par sa morsure subit généralement un trauma physique.
 - **Flair du sang** : La goule réussit automatiquement à repérer du sang frais dans la même pièce. Elle obtient +20 en vigilance pour retrouver une personne blessée ou suivre sa piste.
-- **Cadavre opiniâtre** : La goule ne ressent ni douleur ni peur. Elle ne subit jamais de stress mental provoqué par l'intimidation. Une fois par scène, si elle échoue à un test de résistance physique contre une attaque à mains nues ou une arme improvisée, elle peut rester debout et cocher une case de stress physique à la place.
+- **Opiniâtre** : Une fois par scène, si une goule échoue à un test de résistance physique contre une attaque à mains nues ou une arme improvisée, elle peut se relever et cocher une case de stress physique.
 
-**Faiblesse — Sang du maître** : Privée pendant plusieurs jours du sang du vampire qui l'a créée, la goule perd Cadavre opiniâtre, puis dépérit. Boire le sang d'un autre vampire peut briser son ancienne loyauté, mais en crée aussitôt une nouvelle.
+**Faiblesse — Sang du créateur** : Privée pendant plus d'une semaine du sang du vampire qui l'a créée, la goule devient une goule sauvage. Boire le sang d'un autre vampire peut briser son ancienne loyauté, mais en crée aussitôt une nouvelle.
 
 ### Loup-garou déchaîné
 
@@ -53,7 +53,7 @@ Ce profil représente un loup-garou ayant totalement cédé à sa rage. Ce n'est
 
 **Résistances** : physique 80, mentale 40.
 
-**Compétences principales** : Combat 85, Athlétisme 75, Vigilance 70.
+**Compétences principales** : Combat 110, Athlétisme 75, Vigilance 70.
 
 **Pouvoirs** :
 
@@ -71,7 +71,7 @@ Les chimères de Prometheus Corp mêlent tissus animaux, organes humains et rés
 
 **Résistances** : physique 75, mentale 35.
 
-**Compétences principales** : Combat 70, Athlétisme 65, Filouterie 55.
+**Compétences principales** : Combat 80, Athlétisme 65, Filouterie 55.
 
 **Pouvoirs** :
 
@@ -79,7 +79,7 @@ Les chimères de Prometheus Corp mêlent tissus animaux, organes humains et rés
 - **Camouflage optique** : Tant qu'elle reste immobile, la chimère se confond avec son environnement. La repérer exige de remporter un test opposé de vigilance contre sa filouterie. Le camouflage cesse dès qu'elle attaque ou se déplace rapidement.
 - **Hurlement dissonant** : Une fois par scène, la chimère émet une vibration qui brouille les sens. Toutes les personnes à proximité doivent tester leur résistance mentale. Celles qui échouent perdent leur prochaine action, désorientées par la vibration.
 
-**Faiblesse — Implant de contrôle** : Un personnage qui observe la chimère et réussit un test de technologie remarque son implant. Une attaque ciblée portée avec un malus de -20 peut l'arracher : la chimère perd son armature composite et 10 points de résistance physique, mais devient lucide assez longtemps pour fuir ou se laisser approcher.
+**Faiblesse — Implant de contrôle** : Un personnage qui observe la chimère et réussit un test de technologie remarque son implant. Une attaque ciblée portée avec un malus de -20 peut l'arracher : la chimère perd alors ses pouvoirs de camouflage optique et de hurlements dissonants, mais n'en reste pas moins dangereuse.
 
 ## Fantômes
 

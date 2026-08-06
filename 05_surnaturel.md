@@ -6,7 +6,7 @@ Chaque créature surnaturelle possède ses propres règles spéciales, peut dév
 
 ## La maîtrise de soi
 
-Lorsqu'un événement est susceptible de mettre à mal le contrôle du personnage sur sa nature surnaturelle et laisser libre court à son côté monstrueux, il doit effectuer un test de maîtrise de soi. Ce test s'effectue de la même façon que les résistances physiques et mentales, en fait c'est une sorte de résistance d'auto-discipline. Lorsqu'un personnage devient une créature surnaturelle, sa maîtrise de soi est de 50.
+Lorsqu'un événement est susceptible de mettre à mal le contrôle du personnage sur son caractère surnaturel et laisser libre court à son côté monstrueux, on réalise un test de maîtrise de soi. Ce test s'effectue de la même façon que les résistances physiques et mentales, en fait c'est une sorte de résistance d'auto-discipline. Lorsqu'un personnage devient une créature surnaturelle, sa maîtrise de soi est de 50.
 
 ### Le stress surnaturel
 
