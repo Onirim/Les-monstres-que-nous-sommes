@@ -15,5 +15,4 @@ Les monstres que nous sommes en bref
   - Des vampires qui doivent composer avec leur soif et qui luttent contre la perversion de leur bête intérieure
   - Des loups-garous mus par leur faim de vivre mais menaçant de céder à leur rage primale
   - Des sorcières dotées d'un pouvoir appelant l'hubris et menaçant de les corrompre
-  - Des leshy ressentant la pulsation de la nature et menaçant de s'attaquer à ce qui la détruit
-  - Et bien d'autres à venir !
+  - Et d'autres en bonus !
