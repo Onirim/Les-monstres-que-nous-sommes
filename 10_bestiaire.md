@@ -29,17 +29,17 @@ Les personnages humains peuvent pratiquer de nombreux métiers : qu'ils soient p
 
 ### Goule affamée
 
-*Menace mineure — cadavre servile, prédateur de cave, vestige d'un repas de vampire*
+*Menace mineure — mort-vivant, prédateur de cave, serviteur abandonné*
 
-Une goule est un humain vidé de presque tout son sang puis maintenu dans un simulacre de vie par celui de son créateur. Son teint est cireux, ses gestes saccadés et sa loyauté envers son maître absolue. Affamée, elle dévore de la viande crue et attaque sans se soucier de ses blessures.
+Une goule est un humain qui a été vidé de son sang par un vampire avant de recevoir un peu du sang de ce dernier. Il devient alors un serviteur du vampire, attaché émotionnellement à son maître et dépendant de son sang (il doit être nourrit d'un peu de sang de son maître une fois par semaine). Abandonnée sans soins, son teint devient cireux, ses gestes saccadés, et elle tentera par tous les moyens de boire du sang  ou de la chair de mortel pour continuer d'exister. Si un vampire lui donne de son sang, la goule retrouve la raison et peut reconnaître le donneur comme son nouveau maître.
 
-**Résistances** : physique 60, mentale 30.
+**Résistances** : physique 60, mentale 40.
 
 **Compétences principales** : Combat 60, Athlétisme 55, Vigilance 50.
 
 **Pouvoirs** :
 
-- **Morsure vorace** : Les dents et les ongles de la goule sont des armes légères. Une victime mise hors de combat par sa morsure est ensuite fiévreuse et subit un malus de -10 à ses compétences physiques jusqu'à ce que la plaie soit désinfectée.
+- **Crocs de goule** : Les dents de la goule ressemblent à celles des vampires et sont considérées comme des armes légères. Contrairement au vampire, la morsure d'une goule n'entraîne ni XXX ni oubli, mais une grande faiblesse. Une victime mise hors de combat par sa morsure subit généralement un trauma physique.
 - **Flair du sang** : La goule réussit automatiquement à repérer du sang frais dans la même pièce. Elle obtient +20 en vigilance pour retrouver une personne blessée ou suivre sa piste.
 - **Cadavre opiniâtre** : La goule ne ressent ni douleur ni peur. Elle ne subit jamais de stress mental provoqué par l'intimidation. Une fois par scène, si elle échoue à un test de résistance physique contre une attaque à mains nues ou une arme improvisée, elle peut rester debout et cocher une case de stress physique à la place.
 
