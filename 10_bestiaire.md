@@ -6,9 +6,9 @@ Dans cette section, vous trouverez différentes entités qui composent l'univers
 
 ## Utiliser le bestiaire
 
-Les créatures suivent les règles habituelles de résistance et de stress. Dans un combat, une créature qui échoue à un test de résistance physique est immédiatement mise hors de combat, comme n'importe quel autre personnage. Dans les autres situations, échouer à un test de résistance signifie que la créature perd la confrontation en cours et que la fiction s'applique : elle peut prendre la fuite, être bannie, perdre sa forme physique ou accepter de négocier. En cas de réussite, elle peut cocher une case de stress normalement, ce qui rend ses résistances suivantes plus difficiles. Il n'est donc pas nécessaire de suivre ses traumas. Seul un pouvoir indiquant explicitement qu'une créature peut se relever lui permet d'échapper à cette règle.
+Les créatures suivent les règles habituelles de résistance et de stress. Dans un combat, une créature qui échoue à un test de choc physique est immédiatement mise hors de combat, comme n'importe quel autre personnage. Dans les autres situations, échouer à un test de résistance signifie que la créature perd la confrontation en cours et que la fiction s'applique : elle peut prendre la fuite, être bannie, perdre sa forme physique ou accepter de négocier. En cas de réussite, elle peut cocher une case de stress normalement, ce qui rend ses résistances suivantes plus difficiles. Il n'est donc pas nécessaire de suivre ses traumas. Seul un pouvoir indiquant explicitement qu'une créature peut se relever lui permet d'échapper à cette règle.
 
-Les mentions **menace mineure**, **menace sérieuse** et **menace majeure** indiquent seulement la place que la créature peut occuper dans un scénario. Elles ne changent pas la manière dont les résistances sont résolues.
+Les mentions **menace mineure**, **menace sérieuse** et **menace majeure** indiquent seulement la place que la créature peut occuper dans un épisode. Elles ne changent pas la manière dont les résistances sont résolues.
 
 Les profils ne mentionnent que les trois compétences les plus utiles de la créature. Pour toute autre action, utilisez une valeur de 40, ou de 20 si l'action va à l'encontre de sa nature. Les limites imposées aux personnages lors de leur création ne s'appliquent pas aux créatures. Pour rendre une rencontre plus facile ou plus difficile, le MJ peut simplement retrancher ou ajouter 10 à leurs résistances et à leurs compétences.
 
@@ -41,7 +41,7 @@ Une goule est un humain qui a été vidé de son sang par un vampire avant de re
 
 - **Canines de goule** : Les canines de la goule ressemblent à celles des vampires et sont considérées comme des armes légères. Contrairement au vampire, la morsure d'une goule n'entraîne ni extase ni oubli, mais davantage une grande faiblesse et un froid intérieur. Une victime mise hors de combat par sa morsure subit généralement un trauma physique.
 - **Flair du sang** : La goule réussit automatiquement à repérer du sang frais dans la même pièce. Elle obtient +20 en vigilance pour retrouver une personne blessée ou suivre sa piste.
-- **Opiniâtre** : Une fois par scène, si une goule échoue à un test de résistance physique contre une attaque à mains nues ou une arme improvisée, elle peut se relever et cocher une case de stress physique.
+- **Opiniâtre** : Une fois par scène, si une goule échoue à un test de choc physique contre une attaque à mains nues ou une arme improvisée, elle peut se relever et cocher une case de stress physique.
 
 **Faiblesse — Sang du créateur** : Privée pendant plus d'une semaine du sang du vampire qui l'a créée, la goule devient une goule sauvage. Boire le sang d'un autre vampire peut briser son ancienne loyauté, mais en crée aussitôt une nouvelle.
 
@@ -59,7 +59,7 @@ Ce profil représente un loup-garou ayant totalement cédé à sa rage. Ce n'est
 
 - **Crocs et griffes** : Ses attaques naturelles sont létales.
 - **Bond du prédateur** : Le loup-garou peut parcourir une vingtaine de mètres et franchir un obstacle ordinaire pendant sa phase de mouvement. Il teste son athlétisme seulement si le terrain est particulièrement dangereux.
-- **Régénération bestiale** : Le loup-garou efface tout son stress physique à la fin de la scène. Une fois par scène, lorsqu'un échec à un test de résistance physique devrait le mettre hors de combat, il peut immédiatement se relever. Il ne peut pas se relever si l'attaque utilisait de l'argent ou de l'aconit.
+- **Régénération bestiale** : Le loup-garou efface tout son stress physique à la fin de la scène. Une fois par scène, lorsqu'un échec à un test de choc physique devrait le mettre hors de combat, il peut immédiatement se relever. Il ne peut pas se relever si l'attaque utilisait de l'argent ou de l'aconit.
 
 **Faiblesse — Argent et aconit** : Le loup-garou subit un malus de -50 à sa résistance physique contre l'argent et l'aconit. Une personne qui compte sincèrement pour lui peut employer son action et réussir un test opposé de bagou contre sa résistance mentale pour suspendre ses attaques pendant un tour.
 
@@ -85,7 +85,7 @@ Les chimères de Prometheus Corp mêlent tissus animaux, organes humains et rés
 
 Les fantômes sont immatériels dans le monde matériel. Tant qu'ils ne se manifestent pas, les attaques physiques ordinaires ne peuvent pas les atteindre ; la magie, les pouvoirs surnaturels et les actions menées depuis le monde spirituel les affectent normalement. Lorsqu'un fantôme se manifeste pour utiliser un pouvoir dans le monde matériel, il peut être affecté jusqu'à sa prochaine action.
 
-Mettre un fantôme hors de combat ne résout rien durablement : il se reconstitue près de l'une de ses ancres au scénario suivant. Seule la destruction ou la résolution de toutes ses ancres lui permet de quitter définitivement le monde spirituel.
+Mettre un fantôme hors de combat ne résout rien durablement : il se reconstitue près de l'une de ses ancres à l'épisode suivant. Seule la destruction ou la résolution de toutes ses ancres lui permet de quitter définitivement le monde spirituel.
 
 ### Revenant endeuillé
 
@@ -158,7 +158,7 @@ Le mange-chagrin naît dans les chambres où quelqu'un souffre seul depuis trop 
 **Pouvoirs** :
 
 - **Ami invisible** : Le mange-chagrin ne peut être perçu que par sa victime ou par une personne qui remporte un test opposé de vigilance contre sa filouterie. Il prend alors l'apparence d'une silhouette rassurante et familière.
-- **Engourdissement** : Il oppose son bagou à la résistance mentale de sa cible. S'il l'emporte, elle efface une case de stress mental, mais subit -10 à tous ses tests de bagou et de vigilance jusqu'à la fin du scénario. Les pénalités sont cumulatives.
+- **Engourdissement** : Il oppose son bagou à la résistance mentale de sa cible. S'il l'emporte, elle efface une case de stress mental, mais subit -10 à tous ses tests de bagou et de vigilance jusqu'à la fin de l'épisode. Les pénalités sont cumulatives.
 - **Dévorer le lien** : Une fois par scène, le mange-chagrin peut obliger sa victime à interpréter une parole bienveillante comme une attaque. La cible doit réussir un test de résistance mentale ou rejeter brutalement la personne qui tente de l'aider.
 
 **Faiblesse — Émotion partagée** : Une conversation sincère au cours de laquelle la victime révèle ce qu'elle ressent rend l'esprit visible à tous et le chasse pour le reste de la scène. Il ne peut utiliser Engourdissement contre quelqu'un qui reçoit activement le soutien d'un proche.
@@ -218,5 +218,5 @@ Un démon du pacte apparaît lorsqu'une personne désire quelque chose au point 
 - **Clauses infernales** : Quiconque rompt un pacte doit réussir un test de résistance mentale avec un malus de -20 ou subir un trauma mental. Le démon peut apparaître aussitôt à proximité du coupable, même si le voile est épais.
 - **Forme véritable** : Une fois par scène, le démon révèle sa nature. Tous les témoins testent leur résistance mentale avec un malus de -20. Ceux qui échouent fuient, se figent ou se soumettent pendant un tour, en plus de subir les conséquences habituelles.
 
-**Faiblesse — Lettre du contrat** : Le démon ne peut mentir sur les termes explicites d'un pacte ni agir directement contre une personne qui en respecte toutes les clauses. Trouver une contradiction, satisfaire le contrat d'une manière inattendue ou détruire ce que le démon devait obtenir permet de le bannir vers son reflet. Un démon du pacte est un adversaire de scénario : le vaincre devrait demander une enquête, pas seulement de bons jets de combat.
+**Faiblesse — Lettre du contrat** : Le démon ne peut mentir sur les termes explicites d'un pacte ni agir directement contre une personne qui en respecte toutes les clauses. Trouver une contradiction, satisfaire le contrat d'une manière inattendue ou détruire ce que le démon devait obtenir permet de le bannir vers son reflet. Un démon du pacte est un adversaire d'intrigue : le vaincre devrait demander une enquête, pas seulement de bons jets de combat.
 

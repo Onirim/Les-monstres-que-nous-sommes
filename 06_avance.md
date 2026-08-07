@@ -2,11 +2,11 @@
 
 # Règles avancées
 
-**Les monstres que nous sommes** est un jeu se voulant simple et facile à prendre en main. Cependant, des MJ et joueurs vétérans pourraient souhaiter entrer plus en détail dans la vie de leurs personnages. Voici donc plusieurs règles avancées permettant de mettre en mouvement l'environnement académique (lycée et université) ainsi que la gestion des relations. La bonne pratique est de commencer une séance par le test académique, afin d'entrer dans la peau des personnages, et de n'autoriser l'approfondissent d'une seule relation par séance et par personnage.
+**Les monstres que nous sommes** est un jeu se voulant simple et facile à prendre en main. Cependant, des MJ et joueurs vétérans pourraient souhaiter entrer plus en détail dans la vie de leurs personnages. Voici donc plusieurs règles avancées permettant de mettre en mouvement l'environnement académique (lycée et université) ainsi que la gestion des relations. La bonne pratique est de commencer un épisode par le test académique afin d'entrer dans la peau des personnages et de n'autoriser l'approfondissent que d'une seule relation par épisode et par personnage.
 
 ## L'environnement académique
 
-Dans votre série, la vie au lycée ou à l'université est un élément aussi important pour le personnage que ses aventures surnaturelles, cela vaut donc le coup de suivre son évolution, sans entrer dans trop de détails. Nous suivrons donc trois indicateurs : les **résultats**, la **popularité** et la **sérénité**. Lors de la création du personnage, les résultats sont égaux au score de savoir du personnage, la popularité est égale à sa valeur de bagou et son score de sérénité est égal à sa résistance mentale.
+Dans votre série, la vie au lycée ou à l'université est un élément aussi important pour le personnage que ses aventures surnaturelles, cela vaut donc le coup de suivre son évolution, sans entrer dans trop de détails. Nous suivrons donc trois attributs : les **résultats**, la **popularité** et la **sérénité**. Lors de la création du personnage, les résultats sont égaux au score de savoir du personnage, la popularité est égale à sa valeur de bagou et son score de sérénité est égal à sa résistance mentale. Aucun de ces attributs ne peut être inférieur à 1 ni supérieur à 100.
 
 ### Résultats
 
@@ -51,11 +51,11 @@ La sérénité représente la capacité des étudiants à résister à la pressi
 
 L'attribut de sérénité peut être testé pour éviter des accidents d'inattention et pour éviter de devoir faire des tests de résistance mentaux lorsqu'un incident se produit dans le cadre académique. 
 
-**Instabilité surnaturelle** : La peur de dévoiler sa nature surnaturelle peut faire chuter la sérénité, ce qui se produit à chaque fois qu'un personnage subit une perte de sa valeur de maîtrise de soi. Lorsque le personnage perd 1d6 ou 2d6 en maîtrise de soi, il perd également 1d6 ou 2d6 en sérénité (les résultats des dés peuvent être différents entre les deux valeurs).
+**Instabilité surnaturelle** : La peur de dévoiler sa nature surnaturelle peut faire chuter la sérénité, ce qui se produit à chaque fois qu'un personnage subit une perte de sa valeur de maîtrise de soi. Lorsque le personnage perd 1d6 ou 2d6 en maîtrise de soi, il perd cette même valeur en sérénité.
 
 ### Test de vie académique
 
-Chaque début de scénario, on choisit où l'on a mis ses efforts durant la période écoulée. Si la période était relativement courte (une semaine) le PJ gagne 1d6 points dans son score de **résultats**, de **popularité** ou de **sérénité**. Si la période était plus longue, de l'ordre d'un mois, alors la valeur est augmentée de 2d6 points. Les deux scores qui n'ont pas été choisies doivent faire l'objet d'un test afin de ne pas chuter d'1d6 ou de 2d6 points. Notez que les malus dus aux traumas s'appliquent sur ces tests, on a donc plus de difficulté à survivre dans la jungle académique lorsque l'on est pas au mieux de sa forme. Vous pouvez demander à vos joueurs :
+A chaque début d'épisode, on choisit où l'on a mis ses efforts durant la période écoulée. Si la période était relativement courte (une semaine) le PJ gagne 1d6 points dans son attribut de **résultats**, de **popularité** ou de **sérénité**. Si la période était plus longue, de l'ordre d'un mois, alors la valeur est augmentée de 2d6 points. Les deux attributs qui n'ont pas été choisies doivent faire l'objet d'un test afin de ne pas chuter d'1d6 ou de 2d6 points. Notez que les malus dus aux traumas s'appliquent sur ces tests, on a donc plus de difficulté à survivre dans la jungle académique lorsque l'on est pas au mieux de sa forme. Vous pouvez demander à vos joueurs :
 
 *« Depuis le dernier épisode, la vie a repris son cours. Au niveau académique, où avez-vous mis vos efforts ? Avez-vous révisé pour améliorer votre niveau ? Avez-vous privilégié votre popularité au sein de l'établissement ? Ou avez-vous plutôt relâché la pression ? Choisissez entre résultats, popularité et sérénité. »*
 
@@ -65,7 +65,7 @@ Chaque début de scénario, on choisit où l'on a mis ses efforts durant la pér
 
 ### Incidents académiques
 
-Une fois testé la vie académique, le MJ peut vous demander un test d'incident académique. Testez alors votre plus faible valeur entre résultats, popularité et sérénité. Si vous échouez, le MJ peut se servir de la table correspondante à votre plus faible score pour vous créer un incident académique, qui a de grandes chances de vous faire commencer l'épisode avec une case de stress. L'incident académique vous est proposé afin de simuler les aléas de la vie académique. En tant que MJ, vous n'avez pas besoin de faire jouer cet incident lors d'une scène de jeu, plutôt juste de le raconter. Il est également possible d'utiliser l'incident académique pour débuter votre nouvel épisode !
+Une fois testé la vie académique, le MJ peut vous demander un test d'incident académique. Testez alors votre plus faible valeur entre résultats, popularité et sérénité. Si vous échouez, le MJ peut se servir de la table correspondante à votre plus faible score pour vous créer un incident académique, qui a de grandes chances de vous faire commencer l'épisode avec une case de stress. L'incident académique vous est proposé afin de simuler les aléas de la vie académique. En tant que MJ, vous n'avez pas besoin de faire jouer cet incident lors d'une scène de jeu, plutôt juste de le raconter. Il est toutefois possible d'utiliser l'incident académique pour débuter votre nouvel épisode !
 
 | 1d10 | Incident de résultats | 
 | --- | ------------ |
@@ -102,46 +102,91 @@ Une fois testé la vie académique, le MJ peut vous demander un test d'incident 
 | 4 | Vous avez égaré votre sac de cours et le retrouvez finalement aux objets trouvés. Il manque un livre. Subissez une case de stress mental. |
 | 5 | Attention ! Vous vous prenez une porte en pleine figure et finissez à l'infirmerie avec un saignement de nez. Subissez une case de stress physique. |
 | 6 | Vous avez du mal à vous concentrer et vous occupez autrement en classe. Vous écopez d'une heure de colle. Subissez une case de stress mental. |
-| 7 | Vous vous faites bousculer par mégarde près du distributeur de chocolat/café et renversez le contenu de votre gobelet sur vous. Subissez une case de stress mental.
+| 7 | Vous vous faites bousculer par mégarde près du distributeur de chocolat/café et renversez le contenu de votre gobelet sur vous. Subissez une case de stress mental. |
 | 8 | Vous glissez sur une flaque d'eau dans le couloir et vous étalez lourdement devant tout le monde. Subissez une case de stress physique. |
-| 9 | Quelqu'un vous emprunte votre matériel de cours sans jamais vous le rendre, et vous devez vous débrouiller sans pour le reste de la journée. Subissez une case de stress mental.
+| 9 | Quelqu'un vous emprunte votre matériel de cours sans jamais vous le rendre, et vous devez vous débrouiller sans pour le reste de la journée. Subissez une case de stress mental. |
 | 10 | Une migraine soudaine vous frappe en plein cours et vous devez sortir précipitamment sous le regard interrogateur de tous. Subissez une case de stress physique. |
 
 
 ## Relations suivies
 
-**Les monstres que nous sommes** met en scène des adolescents aux prises avec leurs hormones et de jeunes adultes en pleine découvertes, c'est donc tout naturellement qu'une attention particulière doit être portée à leurs relations avec les autres. Il existe deux types de relations : les **relations suivies** et les **relations subies**. Lorsqu'un PJ rencontre un PNJ qu'il juge important, il peut l'ajouter à ses relations suivies. Le MJ quant à lui peut imposer la relation suivie avec un PNJ que le PJ a rencontré en tant que relation subie : une relation généralement négative, gênante ou toxique dont le PJ ne peut pas se débarrasser aisément.
+**Les monstres que nous sommes** met en scène des adolescents aux prises avec leurs hormones et de jeunes adultes en pleine découvertes, c'est donc tout naturellement qu'une attention particulière doit être portée à leurs relations avec les autres. Il existe deux types de relations : les **relations suivies** et les **relations subies**. Lorsqu'un PJ rencontre un PNJ qu'il juge important, il peut l'ajouter à ses relations suivies. Le MJ quant à lui peut imposer la relation suivie avec un PNJ que le PJ a rencontré en tant que relation subie : une relation généralement négative, gênante ou toxique. Le nombre maximum de relations suivies est de 10 et le joueur peut librement ajouter ou supprimer une relation. Le nombre maximum de relations subies est de 4, mais seul le MJ peut ajouter ou supprimer ces relations.
 
 ### Les axes de relation
 
-Chaque lien possède trois axes : l'**amitié**, le **désir** et l'**admiration**. Lorsqu'un nouveau PNJ est ajouté dans une relation suivie, le MJ doit secrètement définir quels sont les **affinités** entre le PNJ et le PJ. Il peut s'agir d'une affinité d'amitié, d'attirance ou d'admiration (un seul des axes, deux, voir même les trois !). La relation ne pourra progresser que pour les axes où il existe une affinité. La version négative de l'amitié est l'**hostilité**. Dans le cas d'un personnage hostile, le désir devient généralement toxique et l'admiration se transforme en jalousie.
+Chaque lien possède trois axes : l'**amitié**, le **désir** et l'**admiration**. De plus, le PNJ peut posséder une ou plusieurs **affinités** avec le PJ. Il peut s'agir d'une affinité d'amitié, de désir ou d'admiration (un seul des axes, deux, voir même les trois !). La relation ne pourra progresser que pour les axes où il existe une affinité. La version négative de l'amitié est l'**hostilité**. Dans le cas d'un personnage hostile, le désir devient généralement toxique et l'admiration se transforme en jalousie.
 
-**Amitié** : L'amitié représente l'affinité, la camaraderie et la sympathie que le PNJ peut éprouver pour le PJ. A la différence des deux autres axes de relation, l'amitié peut être inversée et représenter alors l'hostilité éprouvée pour le PJ. L'amitié peut augmenter si le PJ se donne les moyens de la cultiver et qu'il y a une affinité entre les personnages, généralement en **traînant** avec le PNJ.
+**Amitié** : L'amitié représente l'affinité, la camaraderie et la sympathie que le PNJ peut éprouver pour le PJ. A la différence des deux autres axes de relation, l'amitié peut être inversée et représenter alors l'hostilité éprouvée pour le PJ. L'amitié peut augmenter si le PJ se donne les moyens de la cultiver et qu'il y a une affinité entre les personnages, généralement en **traînant** avec le PNJ. L'inverse de l'amitié est l'**hostilité**.
 
-**Désir** : Le désir représente l'attirance physique, le besoin de séduction voir le crush du PNJ sur le PJ. Plus le score est élevé, et plus le PNJ aura d'attentes érotiques ou romantiques au sujet du PJ. Le score peut augmenter d'un cran après un **rencart** avec le PNJ si une affinité existe entre les personnages. On peut être attiré par l'allure et la façon d'être de quelqu'un et chercher sa compagnie sans pour autant avoir d'ambition sexuelle à son sujet.
+| Amitié | Description |
+| --- | -------- |
+| 0 | Le PNJ n'a aucun avis sur vous. |
+| 1 | Le PNJ vous considère comme un camarade sympathique. |
+| 2 | Le PNJ vous considère comme un copain de son cercle proche.  | 
+| 3 | Le PNJ vous considère comme un de ses meilleurs potes. |
+| 4 | Le PNJ vous considère comme l'un de ses amis les plus proches. |
+| 5 | Le PNJ vous considère comme son meilleur ami et confident. |
+
+| Hostilité | Description |
+| --- | -------- |
+| 0 | Le PNJ n'a aucun avis sur vous. |
+| 1 | Le PNJ vous considère comme une nuisance légère. |
+| 2 | Le PNJ ne vous apprécie pas du tout et le fait savoir autour de lui.  | 
+| 3 | Le PNJ vous déteste et s'il le peut il vous le fera comprendre clairement. |
+| 4 | Le PNJ vous hait et cherche activement à vous faire du mal. |
+| 5 | Le PNJ vous considère son pire ennemi. |
+
+**Désir** : Le désir représente l'attirance physique qu'exerce le PJ sur le PNJ. Plus le score est élevé et plus le PNJ sera attiré par le physique ou le charme du PJ, incluant éventuellement un désir érotiques ou romantique. Le score peut augmenter d'un cran après un **rencart** avec le PNJ si une affinité existe entre les personnages. On peut être attiré par le charme et la façon d'être de quelqu'un et chercher sa compagnie sans pour autant avoir d'attentes sexuelle à son sujet, attention à la manière dont vous manipulez cet axe à votre table.
+
+| Désir | Description |
+| --- | -------- |
+| 0 | Le PNJ n'éprouve aucune attirance particulière envers vous. |
+| 1 | Le PNJ vous a remarqué et trouve que vous sortez du lot. |
+| 2 | Le PNJ est attiré par votre charme et apprécie de vous observer.  | 
+| 3 | Le PNJ envisage éventuellement de nouer une relation de flirt avec vous. |
+| 4 | Le PNJ est séduit et tente activement de nouer une relation avec vous. |
+| 5 | Le PNJ songe à vous avec désir et passion, il vous a dans la peau. |
 
 **Admiration** : Ce troisième axe de relation est celui des admirateurs et fans (ou leur version négative, les jaloux). Il représente l'estime accordée au personnage pour ce qu'il fait ou pour sa façon d'être. Les admirateurs et les fans aiment à se rapprocher de l'objet de leur admiration et à un haut niveau cela peut presque devenir maladif. **Accorder de l'attention** au PNJ est susceptible de faire monter leur admiration, si une affinité existe à ce niveau.
 
-**Affinité** : Les affinités représentent les envies profondes du PNJ envers le PJ. Comme nous l'avons vu plus haut, chaque PNJ possède un score allant de 0 à 5 dans ses axes de relation. Mais ce qui détermine ce que recherche vraiment le PNJ, ce sont ses affinités.
+| Admiration | Description |
+| --- | -------- |
+| 0 | Le PNJ ne s'intéresse pas à ce que vous faites. |
+| 1 | Le PNJ a remarqué que vous sortez du lot dans ce que vous faites. |
+| 2 | Le PNJ s'intéresse à vous quand l'occasion se présente.  | 
+| 3 | Le PNJ est impressionné et aimerait vous mentorer ou apprendre de vous. |
+| 4 | Le PNJ est captivé par vos talents et se considère comme chanceux de partager votre activité avec vous. |
+| 5 | Le PNJ est un véritable fan ou s'il est votre mentor vous êtes son meilleur élément. |
 
-- Une affinité sur l'axe d'**amitié** indique que le PNJ ressent une connexion particulière avec  le PJ, et qu'il pourrait fort bien devenir son meilleur ami.
+**Affinité** : Les affinités représentent les potentiels d'évolution des relations entre le PNJ et le PJ. Comme nous l'avons vu plus haut, chaque PNJ possède un score allant de 0 à 5 dans ses axes de relation. Mais ce qui détermine ce que recherche vraiment le PNJ, ce sont ses affinités.
+
+- Une affinité sur l'axe d'**amitié** indique que le PNJ ressent une connexion particulière avec le PJ, et qu'il pourrait fort bien devenir son meilleur ami.
 - Une affinité sur l'axe de **désir** indique que le PNJ est attiré sentimentalement et érotiquement par le PJ et qu'il aimerait que ça aille plus loin.
 - Une affinité sur l'axe d'**admiration** indique que le PNJ porte un intérêt fort aux activités du PJ et qu'il souhaite devenir son apprenti ou son mentor, en fonction de ses propres compétences dans le domaine.
 
 ### Développer une relation
 
-Les règles de développement des relations n'ont pas pour vocation de remplacer le roleplay, mais d'offrir une structure qui puisse faciliter la charge de travail du MJ tout en améliorant la lisibilité des relations pour les joueurs. Il existe ainsi plusieurs moyens de développer une relation en termes de jeu, en notant qu'une relation ne peut être développée qu'une seule fois par épisode.
+Les règles de développement des relations n'ont pas pour vocation de remplacer le roleplay, mais d'offrir une structure qui puisse faciliter la charge de travail du MJ tout en améliorant la lisibilité des relations pour les joueurs. Il existe ainsi plusieurs moyens de développer une relation en termes de jeu, mais il n'est pas possible au cours d'un épisode de développer plus d'une relation.
 
-- **Évaluer la relation** : le personnage passe suffisamment de temps pour découvrir les valeurs d'amitié, de désir et d'admiration du PNJ à son égard et peut les reporter sur sa fiche. Il ne peut pas savoir quelle est l'affinité du PNJ à son égard par ce biais.
+- **Évaluer la relation** : le personnage passe suffisamment de temps pour découvrir les valeurs d'amitié, de désir et d'admiration du PNJ à son égard et peut les reporter sur sa fiche. Il ne peut pas savoir quelles sont les affinités du PNJ à son égard par ce biais.
 - **Traîner avec le PNJ** : faire des activités ensemble comme des révisions, du sport, une sortie ciné ou simplement glander dans la rue. Cela peut faire monter l'amitié d'un cran si celle-ci est une relation d'affinité.
-- **Proposer un rencart avec le PNJ** : si le PNJ accepte (si l'affinité le permet) alors le PJ peut aller au restaurant, au cinéma ou à tout endroit convenable pour un rencart, et le désir augmente d'un cran s'il s'agit d'une relation d'affinité. Si le PNJ refuse (parce qu'il n'a pas d'affinité), le PJ doit effectuer un jet de résistance mentale et en cas d'échec il subit un trauma mental. Personne n'aime se prendre un râteau.
-- **Accorder de l'attention au PNJ** : passer du temps avec le PNJ sur l'activité qui concerne son admiration pour vous est une bonne façon de gagner davantage de son intérêt. L'admiration augmente d'un cran si une affinité existe entre les personnages.
-- **Arrondir les angles avec le PNJ** : vous pouvez tenter d'être cool avec l'un des personnages qui ne vous aime pas (et donc l'axe d'amitié est dans le sens de l'hostilité), d'essayer de le côtoyer et de vous montrer sympathique malgré son hostilité. Si le PNJ a une affinité d'amitié avec vous, il est ainsi possible de diminuer son hostilité d'un cran jusqu'à la ramener à zéro (après quoi arrondir les angles ne servira plus à rien, et vous pourrez commencer à traîner avec). En l'absence d'affinité, le PNJ vous humiliera et son niveau d'hostilité augmentera d'un cran. Vous devrez sans doute effectuer un jet de résistance mentale ou subir un trauma approprié.
+- **Proposer un rencart avec le PNJ** : si le PNJ accepte alors le PJ peut aller au restaurant, au cinéma ou à tout endroit convenable pour un rencart, et le désir augmente d'un cran s'il s'agit d'une relation d'affinité. Si le PNJ refuse, le MJ peut demander au PJ un test de résistance mentale mineur. Personne n'aime se prendre un râteau.
+- **Partager son activité avec le PNJ** : passer du temps avec le PNJ et partager autour de l'activité qui concerne son admiration pour vous est une bonne façon de gagner davantage de son intérêt. L'admiration augmente d'un cran si une affinité existe entre les personnages.
+- **Arrondir les angles avec le PNJ** : vous pouvez tenter d'être cool avec l'un des personnages qui ne vous aime pas (et donc l'axe d'amitié est dans le sens de l'hostilité), d'essayer de le côtoyer et de vous montrer sympathique malgré son hostilité. Si le PNJ a une affinité d'amitié avec vous, il est ainsi possible de diminuer son hostilité d'un cran jusqu'à la ramener à zéro (après quoi arrondir les angles ne servira plus à rien, et vous pourrez commencer à traîner avec). En l'absence d'affinité, le PNJ vous humiliera et son niveau d'hostilité augmentera d'un cran. Vous devrez sans doute effectuer un jet de résistance mentale ou subir un trauma mental.
 
-**Générer aléatoirement les relations** : Les trois axes de relation ainsi que les affinités peuvent être définis aléatoirement au moment où vous en avez besoin ou en amont (ce qui demandera au MJ de gérer les valeurs de son côté tant que les joueurs ne les connaissent pas).
+**Générer aléatoirement les relations** : Les trois axes de relation ainsi que les affinités peuvent être définis aléatoirement au moment où vous en avez besoin ou en amont (ce qui demandera au MJ de gérer les valeurs de son côté tant que les joueurs ne les connaissent pas). Les axes amitié/hostilité, désir et admiration peuvent être déterminés via cette table.
 
-- Les axes amitié/hostilité, désir et admiration peuvent être définis via le lancer d'1d6-3 (0 étant le minimum)
-- pour chaque axe, il les chances qu'il existe une affinité sont de 5 ou 6 sur 1d6
+| 1d100 | Valeur de l'axe |
+| --- | --- |
+| 01-25 | 0 |
+| 26-50 | 1 |
+| 51-70 | 2 |
+| 71-90 | 3 |
+| 91-98 | 4 |
+| 99-100 | 5 |
 
-**Découvrir une nouvelle affinité** : Lorsqu'un axe de relation atteint le niveau 5 (son maximum), le MJ peut estimer qu'une nouvelle affinité peut être ajoutée au PNJ. En effet, celui-ci découvre peut être une facette méconnue du PJ ou apprend à l'apprécier d'une manière qu'il n'avait pas prévu.
+Pour l'axe amitié/hostilité, les chances d'hostilité sont de 5 ou 6 sur 1d6.
+Pour chaque axe, les chances qu'il existe une affinité sont de 5 ou 6 sur 1d6.
+
+**Découvrir une nouvelle affinité** : Lorsqu'un axe de relation atteint le niveau 5 (son maximum), le MJ peut estimer qu'une nouvelle affinité peut être ajoutée au PNJ. En effet, celui-ci découvre peut être une facette méconnue du PJ ou apprend à l'apprécier d'une manière qu'il n'avait pas prévu. Le MJ peut également ajouter une affinité lorsqu’un événement important transforme sincèrement la manière dont le PNJ considère le personnage.
 

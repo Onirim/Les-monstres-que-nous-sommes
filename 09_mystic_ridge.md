@@ -6,7 +6,7 @@
 
 ## Généralités
 
-Nichée dans une vallée encaissée entre les Rocheuses et deux modestes lacs glaciaires, Mystic Ridge est une petite ville du Montana fondée officiellement en 1854 par des pionniers attirés par les richesses minières de la région. Autrefois prospère grâce à l'extraction d'argent et de cuivre, elle a connu son apogée à la fin du XIXe siècle avant de s'appauvrir progressivement. Aujourd'hui, en l'an 2000, c'est une ville à l'économie stagnante, où la jeunesse rêve d'ailleurs et où les adultes s'accrochent à un quotidien routinier.
+Nichée dans une vallée encaissée entre les Rocheuses et deux modestes lacs glaciaires, Mystic Ridge est une petite ville du Montana fondée officiellement en 1864 par des pionniers attirés par les richesses minières de la région. Autrefois prospère grâce à l'extraction d'argent et de cuivre, elle a connu son apogée à la fin du XIXe siècle avant de s'appauvrir progressivement. Aujourd'hui, en l'an 2000, c'est une ville à l'économie stagnante, où la jeunesse rêve d'ailleurs et où les adultes s'accrochent à un quotidien routinier.
 
 ### Un passé de pionniers et de superstitions
 
