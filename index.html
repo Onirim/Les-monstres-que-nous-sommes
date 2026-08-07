@@ -3,13 +3,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Les monstres que nous sommes — Jeu de rôle</title>
-<meta name="description" content="Les monstres que nous sommes est un jeu de rôle de monstres, de mystères et de drames adolescents inspiré de nos séries télévisées surnaturelles préférées.">
+<title>Les monstres que nous sommes — Bêta 3.0</title>
+<meta name="description" content="Découvrez la bêta 3.0 du jeu de rôle Les monstres que nous sommes : monstres, mystères et drames adolescents.">
 <link rel="icon" href="Couverture.png">
-<meta property="og:title" content="Les monstres que nous sommes — Jeu de rôle">
-<meta property="og:description" content="Un jeu de rôle de monstres, de mystères et de drames adolescents, inspiré de nos séries télévisées surnaturelles préférées.">
+<meta property="og:title" content="Les monstres que nous sommes — Bêta 3.0">
+<meta property="og:description" content="La bêta 3.0 du jeu de rôle de monstres, de mystères et de drames adolescents est disponible.">
 <meta property="og:image" content="Couverture.jpg">
 <meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
@@ -105,6 +106,16 @@
   }
   .nav-links a:hover { color: var(--bone); }
   .nav-links a:hover::after { transform: scaleX(1); }
+  @media (max-width: 1020px) {
+    .brand { font-size: 0.95rem; }
+    .nav-links { gap: 0.8rem; font-size: 0.7rem; }
+  }
+
+  a:focus-visible {
+    outline: 2px solid var(--moon);
+    outline-offset: 4px;
+    border-radius: 2px;
+  }
 
   /* Hero */
   .hero {
@@ -167,6 +178,30 @@
     color: var(--bone-dim);
     margin: 0 0 1.1rem;
     opacity: 0.8;
+  }
+  .version-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    margin-bottom: 1rem;
+    padding: 0.38rem 0.75rem;
+    border: 1px solid rgba(241,233,216,0.35);
+    border-radius: 999px;
+    background: rgba(122,14,24,0.22);
+    color: var(--moon);
+    font-family: 'Cinzel', serif;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+  .version-badge::before {
+    content: "";
+    width: 0.45rem;
+    height: 0.45rem;
+    border-radius: 50%;
+    background: var(--blood-bright);
+    box-shadow: 0 0 12px rgba(146,18,30,0.9);
   }
   .hero h1 {
     font-size: clamp(2.2rem, 5.4vw, 3.8rem);
@@ -295,6 +330,57 @@
     color: var(--blood-bright);
   }
   .pitch .lead + .lead { margin-top: 1.4rem; }
+
+  /* Beta release */
+  .release {
+    padding-top: 4.5rem;
+    background:
+      linear-gradient(135deg, rgba(122,14,24,0.14), transparent 55%),
+      var(--ink);
+  }
+  .release-heading {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 2rem;
+    align-items: end;
+  }
+  .release-heading .lead { margin-bottom: 0; }
+  .release-cta { white-space: nowrap; }
+  .release-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.4rem;
+    margin-top: 2.4rem;
+  }
+  .release-item {
+    position: relative;
+    padding: 1.5rem 1.5rem 1.5rem 4rem;
+    border-top: 1px solid rgba(241,233,216,0.18);
+  }
+  .release-item .number {
+    position: absolute;
+    top: 1.25rem;
+    left: 0;
+    color: var(--blood-bright);
+    font-family: 'Cinzel', serif;
+    font-size: 1.65rem;
+    line-height: 1;
+  }
+  .release-item h3 {
+    margin: 0 0 0.5rem;
+    color: var(--bone);
+    font-size: 1rem;
+  }
+  .release-item p {
+    margin: 0;
+    color: var(--bone-dim);
+    font-size: 0.95rem;
+  }
+  @media (max-width: 760px) {
+    .release-heading { grid-template-columns: 1fr; align-items: start; }
+    .release-grid { grid-template-columns: 1fr; }
+    .release-item { padding-bottom: 0.6rem; }
+  }
 
   /* Features grid */
   .features {
@@ -514,7 +600,7 @@
     html { scroll-behavior: auto; }
   }
 
-  @media (max-width: 640px) {
+  @media (max-width: 760px) {
     .nav-links { display: none; }
     section { padding: 3.5rem 6%; }
   }
@@ -526,6 +612,7 @@
   <span class="brand">Les monstres que nous sommes</span>
   <nav class="nav-links">
     <a href="#jeu">Le jeu</a>
+    <a href="#beta">Bêta 3.0</a>
     <a href="#systeme">Le système</a>
     <a href="#creatures">Créatures</a>
     <a href="#univers">L'univers</a>
@@ -537,6 +624,7 @@
 <section class="hero">
   <div class="fog"></div>
   <div class="hero-content">
+    <span class="version-badge">Bêta 3.0 · Août 2026</span>
     <p class="overline">Jeu de rôle · Horreur adolescente · Système Skeleton</p>
     <h1>les monstres que nous sommes</h1>
     <p class="tagline">Un jeu de rôle de monstres, de mystères et de drames adolescents, inspiré de nos séries télévisées surnaturelles préférées.</p>
@@ -560,6 +648,36 @@
 </section>
 
 <div class="divider reveal"><span class="mark">❦</span></div>
+
+<section id="beta" class="release">
+  <div class="section-inner reveal">
+    <div class="release-heading">
+      <div>
+        <span class="kicker">Nouvelle version</span>
+        <h2>La bêta 3.0 est disponible</h2>
+        <p class="lead">Cette nouvelle édition affine le cœur du système et accompagne davantage les meneurs comme les joueurs, de la première scène au dernier cliffhanger.</p>
+      </div>
+      <a class="btn btn-ghost release-cta" href="#telechargements">Découvrir les PDF ↓</a>
+    </div>
+    <div class="release-grid">
+      <article class="release-item">
+        <span class="number">01</span>
+        <h3>Des résistances clarifiées</h3>
+        <p>Les épreuves et les chocs distinguent désormais clairement les risques de stress et de trauma, tandis que les critiques ont un impact direct.</p>
+      </article>
+      <article class="release-item">
+        <span class="number">02</span>
+        <h3>Des relations approfondies</h3>
+        <p>Les liens, affinités et niveaux d'amitié, d'hostilité, de désir ou d'admiration gagnent en précision et en possibilités de jeu.</p>
+      </article>
+      <article class="release-item">
+        <span class="number">03</span>
+        <h3>Un guide pour mener</h3>
+        <p>Un nouveau chapitre propose une structure en cinq temps pour rythmer les épisodes, faire monter la pression et conclure chaque intrigue.</p>
+      </article>
+    </div>
+  </div>
+</section>
 
 <section class="features">
   <div class="section-inner reveal">
@@ -735,7 +853,7 @@
         <div class="icon">📖</div>
         <h3>Livre de règles</h3>
         <p>Le livre complet : création de personnage, système de jeu, environnement académique et règles des créatures surnaturelles.</p>
-        <span class="meta">PDF — Version 2.8</span>
+        <span class="meta">PDF — Bêta 3.0 · Août 2026</span>
         <a class="btn btn-primary" href="Les%20monstres%20que%20nous%20sommes.pdf" download>Télécharger le PDF</a>
       </div>
       <div class="card">
@@ -751,7 +869,8 @@
 
 <footer>
   <span class="brand">Les monstres que nous sommes</span>
-  Un jeu de Thibaut Crespel — <a class="repo-link" href="https://github.com/Onirim/Les-monstres-que-nous-sommes">code source & dernières mises à jour sur GitHub</a>
+  Bêta 3.0 · Août 2026 — Un jeu de Thibaut Crespel<br>
+  <a class="repo-link" href="https://github.com/Onirim/Les-monstres-que-nous-sommes">Code source & dernières mises à jour sur GitHub</a>
 </footer>
 
 <script>
