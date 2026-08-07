@@ -20,11 +20,11 @@ Le système de jeu simple et modulaire propose une lecture directe des scores av
 
 **Les monstres que nous sommes** vous propose une structure de jeu basé sur celui des séries télévisées du genre. La plus petite unité de temps que nous prenons en considération est la **scène**, durant laquelle les personnages interagissent avec leur environnement immédiat et avec les autres personnages proches. Une scène peut durer de quelques minutes à une heure, le temps d'un dialogue ou d'une suite rapide d'actions.
 
-L'unité de temps suivante et l'**épisode**, qui est l'équivalent d'une session de jeu de rôle classique d'environ 4 heures. Au cours d'un épisode donc, plusieurs scènes se déroulent et le scénario avance. La plupart du temps, le scénario est résolu entre l'introduction et la fin de l'épisode, mais certains scénarios peuvent durer plusieurs épisodes (voir plus bas).
+L'unité de temps suivante et l'**épisode**, qui est l'équivalent d'une session de jeu de rôle classique d'environ 4 heures. Au cours d'un épisode donc, plusieurs scènes se déroulent et l'intrigue avance. La plupart du temps, l'intrigue est résolue entre l'introduction et la fin de l'épisode, mais certaines intrigues peuvent durer plusieurs épisodes (voir plus bas).
 
-Un **scénario** est une histoire avec un début et une fin, qui peut tenir dans un seul épisode ou s'étaler sur deux voir trois épisodes continus. Lorsqu'un scénario dure plusieurs épisodes, les personnages n'ont généralement pas le temps de souffler ni de se remettre de leurs traumas.
+Une **intrigue** est une histoire avec un début et une fin, qui peut tenir dans un seul épisode ou s'étaler sur deux voir trois épisodes continus. Lorsqu'une intrigue dure plusieurs épisodes, les personnages n'ont généralement pas le temps de souffler ni de se remettre de leurs traumas.
 
-Une **saison** est une succession de scénarios menant à une révélation importante ou a un changement notable dans le cadre de jeu, et elle représente généralement une année dans l'univers du jeu mais on peut imaginer des saisons semestrielles voir même trimestrielles si vos épisodes sont hebdomadaires. Les saisons ont en général un thème qui tend à unir leurs scénarios et qui les distinguent des autres.
+Une **saison** est une succession d'intrigues menant à une révélation importante ou a un changement notable dans le cadre de jeu, et elle représente généralement une année dans l'univers du jeu mais on peut imaginer des saisons semestrielles voir même trimestrielles si vos épisodes sont hebdomadaires. Les saisons ont en général un thème qui tend à unir leurs intrigues et qui les distinguent des autres.
 
 Enfin, la **série** c'est votre groupe de joueurs dans votre ville fictive : une ou plusieurs saisons vous permettait de faire vivre les protagonistes et de développer une histoire riche et pleine d'émotion.
 
@@ -41,10 +41,6 @@ Même la série la plus sanglante choisit ce qu'elle cadre et ce qu'elle coupe a
 ### « Coupez »
 
 Sur un tournage, n'importe qui peut arrêter une prise. Ici, c'est pareil : n'importe qui — le MJ compris — peut lever la main et dire **« Coupez »**. On rembobine, on ajuste, on repart. Pas de justification à donner, pas de débat, pas d'explication due à qui que ce soit. Une scène qui coûte quelque chose à une vraie personne ne vaut aucun jet de dé. Et pour les demi-mesures, on peut toujours demander un fondu au noir ou une avance rapide plutôt qu'une coupe franche.
-
-### Après l'épisode
-
-Vos personnages, eux, traînent leurs traumas d'un scénario à l'autre. Vous, non : à la fin de la séance, on referme le livre et on rentre chez soi. Un petit tour de table — ce qui a marqué, ce qui a plu, ce qu'on préfère garder à distance la prochaine fois — suffit largement à laisser les monstres sur le plateau et à repartir léger.
 
 ### Le monstre, c'est le personnage
 
