@@ -6,8 +6,6 @@ Toutes les valeurs chiffrées d'une fiche de personnage sont exprimées en pourc
 
 Un résultat naturel de **01 sur le dé est toujours un succès**, alors qu'un résultat de **100 est toujours un échec**, quelle que soit la valeur testée.
 
-Lorsqu'un résultat naturel donne une valeur **double** (11, 44, 77, etc.), il s'agit d'un **résultat critique**. Si le test est réussi alors c'est une réussite critique, s'il est échoué on parle d'échec critique. Une réussite critique permet au personnage de récupérer l'une de ses cases de stress, alors qu'un échec critique fait cocher une case de stress au personnage (le type de stress doit être logique avec la fiction). Le MJ est encourage à décrire ces résultats critiques de manière exceptionnelle afin qu'ils soient marquants !
-
 ## Test de compétences
 
 Un test de compétence est basé sur la valeur de la compétence à laquelle on peut ajouter jusqu'à deux spécialités pouvant s'appliquer (donc pouvant apporter jusqu'à +20). Le MJ peut accorder un bonus ou un malus à un test en fonction de sa difficulté.
@@ -101,7 +99,7 @@ A la fin d’une séance, le MJ peut accorder de 1 à 5 coches d’expérience e
 
 A la fin d’un épisode, tous les losanges cochés donnent droit à un test de progression. Pour les **compétences**, **résistances** et **pouvoirs**, si le joueur obtient un résultat **strictement supérieur** à la valeur actuelle, celle-ci progresse du résultat d'1d6. Si le résultat est inférieur ou égal, celle-ci progresse tout de même mais d'un point seulement. Aucune valeur d'attribut ne peut descendre en dessous de 1 ni dépasser 100.
 
-Il est également possible d’obtenir une nouvelle **spécialité**. Dans ce cas, la valeur à tester est égale au nombre de spécialités possédées multipliées par 15. Le joueur doit obtenir un résultat strictement supérieur à cette valeur, et s’il réussit, alors il peut noter sa nouvelle spécialité sur sa fiche.
+Il est également possible d’obtenir une nouvelle **spécialité** jusqu'à un maximum de 7. Pour obtenir une nouvelle spécialité, la valeur à tester est égale au nombre de spécialités possédées multipliées par 15. Le joueur doit obtenir un résultat strictement supérieur à cette valeur, et s’il réussit, alors il peut noter sa nouvelle spécialité sur sa fiche.
 
 Les PJ surnaturels peuvent également augmenter certaines des valeurs de leurs fiches de créatures surnaturelles : 
 - La maîtrise de soi peut être augmentée de la même façon qu'une résistance physique ou mentale.

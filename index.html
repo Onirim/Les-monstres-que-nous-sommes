@@ -544,6 +544,150 @@
   .orga ul { margin: 0; padding-left: 1.1rem; color: var(--bone-dim); font-size: 0.9rem; }
   .orga ul li { margin-bottom: 0.25rem; }
 
+  /* Character sheet preview */
+  .sheets {
+    overflow: hidden;
+    background:
+      radial-gradient(ellipse at 82% 12%, rgba(122,14,24,0.22), transparent 48%),
+      linear-gradient(180deg, var(--ink) 0%, var(--ink-soft) 100%);
+    border-top: 1px solid rgba(241,233,216,0.08);
+    border-bottom: 1px solid rgba(241,233,216,0.08);
+  }
+  .sheets-heading {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: end;
+    gap: 2rem;
+  }
+  .sheets-heading .lead { margin-bottom: 0; }
+  .sheets-note {
+    max-width: 220px;
+    margin: 0;
+    color: var(--bone-dim);
+    font-size: 0.85rem;
+    font-style: italic;
+    text-align: right;
+  }
+  .sheet-gallery {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(250px, 31%);
+    gap: 1.4rem;
+    margin: 2.6rem calc((100vw - min(980px, 90vw)) / -2) 0;
+    padding: 0 max(5vw, calc((100vw - 980px) / 2)) 1.4rem;
+    overflow-x: auto;
+    overscroll-behavior-inline: contain;
+    scroll-snap-type: inline mandatory;
+    scrollbar-color: var(--blood) rgba(241,233,216,0.08);
+    scrollbar-width: thin;
+  }
+  .sheet-preview {
+    margin: 0;
+    scroll-snap-align: start;
+  }
+  .sheet-open {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid rgba(241,233,216,0.18);
+    border-radius: 5px;
+    background: #e9e9e7;
+    color: inherit;
+    cursor: zoom-in;
+    box-shadow: 0 18px 45px rgba(0,0,0,0.38);
+    transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+  }
+  .sheet-open::after {
+    content: "Agrandir";
+    position: absolute;
+    right: 0.8rem;
+    bottom: 0.8rem;
+    padding: 0.35rem 0.65rem;
+    border: 1px solid rgba(241,233,216,0.28);
+    border-radius: 999px;
+    background: rgba(18,7,8,0.84);
+    color: var(--bone);
+    font-family: 'Cinzel', serif;
+    font-size: 0.62rem;
+    letter-spacing: 0.08em;
+    opacity: 0;
+    transform: translateY(5px);
+    transition: opacity 0.2s ease, transform 0.2s ease;
+  }
+  .sheet-open:hover,
+  .sheet-open:focus-visible {
+    transform: translateY(-7px) rotate(-0.35deg);
+    border-color: rgba(241,233,216,0.48);
+    box-shadow: 0 26px 60px rgba(0,0,0,0.55), 0 0 30px rgba(122,14,24,0.2);
+  }
+  .sheet-open:hover::after,
+  .sheet-open:focus-visible::after { opacity: 1; transform: none; }
+  .sheet-open img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 9 / 13;
+  }
+  .sheet-caption { padding: 1rem 0.2rem 0; }
+  .sheet-caption strong {
+    display: block;
+    color: var(--bone);
+    font-family: 'Cinzel', serif;
+    font-size: 0.88rem;
+  }
+  .sheet-caption span {
+    color: var(--bone-dim);
+    font-size: 0.84rem;
+  }
+  .sheet-dialog {
+    width: min(92vw, 820px);
+    max-height: 94vh;
+    padding: 0;
+    overflow: visible;
+    border: 1px solid rgba(241,233,216,0.22);
+    border-radius: 8px;
+    background: #e9e9e7;
+    box-shadow: 0 35px 100px rgba(0,0,0,0.85);
+  }
+  .sheet-dialog::backdrop {
+    background: rgba(8,3,4,0.88);
+    backdrop-filter: blur(6px);
+  }
+  .sheet-dialog img {
+    display: block;
+    width: 100%;
+    max-height: 90vh;
+    object-fit: contain;
+    border-radius: 7px;
+  }
+  .sheet-dialog-close {
+    position: absolute;
+    top: -0.85rem;
+    right: -0.85rem;
+    width: 2.7rem;
+    height: 2.7rem;
+    border: 1px solid rgba(241,233,216,0.34);
+    border-radius: 50%;
+    background: var(--ink);
+    color: var(--bone);
+    font: 1.5rem/1 'Crimson Pro', serif;
+    cursor: pointer;
+  }
+  @media (max-width: 760px) {
+    .sheets-heading { grid-template-columns: 1fr; gap: 0.8rem; }
+    .sheets-note { max-width: none; text-align: left; }
+    .sheet-gallery {
+      grid-auto-columns: minmax(235px, 78vw);
+      margin-right: -6vw;
+      margin-left: -6vw;
+      padding-right: 6vw;
+      padding-left: 6vw;
+    }
+    .sheet-open::after { opacity: 1; transform: none; }
+  }
+
   /* Downloads */
   .downloads { background: var(--blood-dark); position: relative; }
   .downloads::before {
@@ -614,6 +758,7 @@
     <a href="#jeu">Le jeu</a>
     <a href="#beta">Bêta 3.0</a>
     <a href="#systeme">Le système</a>
+    <a href="#fiches">Les fiches</a>
     <a href="#creatures">Créatures</a>
     <a href="#univers">L'univers</a>
     <a href="#organisations">Organisations</a>
@@ -844,6 +989,51 @@
   </div>
 </section>
 
+<section id="fiches" class="sheets">
+  <div class="section-inner reveal">
+    <div class="sheets-heading">
+      <div>
+        <span class="kicker">Dans les mains des joueurs</span>
+        <h2>Un aperçu des fiches de personnage</h2>
+        <p class="lead">La vie quotidienne, les relations et la nature monstrueuse tiennent sur des fiches pensées comme les pages d'un dossier personnel. Faites-les défiler pour découvrir l'identité visuelle du jeu.</p>
+      </div>
+      <p class="sheets-note">Cliquez sur une page pour l'examiner en grand.</p>
+    </div>
+    <div class="sheet-gallery" aria-label="Aperçu des fiches de personnage">
+      <figure class="sheet-preview">
+        <button class="sheet-open" type="button" data-sheet="images/image1.jpg" data-alt="Fiche de personnage : informations, compétences, équipement et résistances" aria-label="Agrandir la fiche générale">
+          <img src="images/image1.jpg" width="720" height="1040" loading="lazy" alt="Aperçu de la fiche générale du personnage">
+        </button>
+        <figcaption class="sheet-caption"><strong>Le personnage</strong><span>Identité, compétences, équipement et résistances</span></figcaption>
+      </figure>
+      <figure class="sheet-preview">
+        <button class="sheet-open" type="button" data-sheet="images/image2.jpg" data-alt="Fiche de personnage : environnement académique, relations et cadre familial" aria-label="Agrandir la fiche de vie quotidienne">
+          <img src="images/image2.jpg" width="720" height="1040" loading="lazy" alt="Aperçu de la fiche de vie quotidienne du personnage">
+        </button>
+        <figcaption class="sheet-caption"><strong>La vie quotidienne</strong><span>Études, relations suivies et cadre familial</span></figcaption>
+      </figure>
+      <figure class="sheet-preview">
+        <button class="sheet-open" type="button" data-sheet="images/image3.jpg" data-alt="Fiche surnaturelle du loup-garou : formes, pouvoirs, faim et rage" aria-label="Agrandir la fiche du loup-garou">
+          <img src="images/image3.jpg" width="720" height="1040" loading="lazy" alt="Aperçu de la fiche surnaturelle du loup-garou">
+        </button>
+        <figcaption class="sheet-caption"><strong>Le loup-garou</strong><span>Formes, pouvoirs de la bête, faim et rage</span></figcaption>
+      </figure>
+      <figure class="sheet-preview">
+        <button class="sheet-open" type="button" data-sheet="images/image4.jpg" data-alt="Fiche surnaturelle de la sorcière : livre des ombres, hubris et corruption" aria-label="Agrandir la fiche de la sorcière">
+          <img src="images/image4.jpg" width="720" height="1040" loading="lazy" alt="Aperçu de la fiche surnaturelle de la sorcière">
+        </button>
+        <figcaption class="sheet-caption"><strong>La sorcière</strong><span>Livre des ombres, hubris et corruption</span></figcaption>
+      </figure>
+      <figure class="sheet-preview">
+        <button class="sheet-open" type="button" data-sheet="images/image5.jpg" data-alt="Fiche surnaturelle du vampire : danse macabre, pouvoirs de sang, soif et perversion" aria-label="Agrandir la fiche du vampire">
+          <img src="images/image5.jpg" width="720" height="1040" loading="lazy" alt="Aperçu de la fiche surnaturelle du vampire">
+        </button>
+        <figcaption class="sheet-caption"><strong>Le vampire</strong><span>Danse macabre, pouvoirs de sang, soif et perversion</span></figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
 <section id="telechargements" class="downloads">
   <div class="section-inner reveal">
     <span class="kicker" style="color: var(--moon);">Téléchargements</span>
@@ -873,6 +1063,11 @@
   <a class="repo-link" href="https://github.com/Onirim/Les-monstres-que-nous-sommes">Code source & dernières mises à jour sur GitHub</a>
 </footer>
 
+<dialog class="sheet-dialog" aria-label="Aperçu agrandi d'une fiche de personnage">
+  <button class="sheet-dialog-close" type="button" aria-label="Fermer l'aperçu">×</button>
+  <img src="" alt="">
+</dialog>
+
 <script>
   (function () {
     var els = document.querySelectorAll('.reveal');
@@ -889,6 +1084,29 @@
       });
     }, { threshold: 0.12 });
     els.forEach(function (e) { obs.observe(e); });
+  })();
+
+  (function () {
+    var dialog = document.querySelector('.sheet-dialog');
+    var dialogImage = dialog.querySelector('img');
+    var closeButton = dialog.querySelector('.sheet-dialog-close');
+
+    document.querySelectorAll('.sheet-open').forEach(function (button) {
+      button.addEventListener('click', function () {
+        dialogImage.src = button.dataset.sheet;
+        dialogImage.alt = button.dataset.alt;
+        dialog.showModal();
+      });
+    });
+
+    closeButton.addEventListener('click', function () { dialog.close(); });
+    dialog.addEventListener('click', function (event) {
+      if (event.target === dialog) dialog.close();
+    });
+    dialog.addEventListener('close', function () {
+      dialogImage.src = '';
+      dialogImage.alt = '';
+    });
   })();
 </script>
 

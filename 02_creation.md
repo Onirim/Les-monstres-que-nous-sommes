@@ -11,7 +11,7 @@ La création des personnages est sans doute l'étape la plus importante du jeu. 
       3. Lien d'enfance
    b. Préadolescence
       1. Difficultés familiales
-	  2. Lien de pré Adolescence
+	  2. Lien de préadolescence
    c. Adolescence
       1. Difficultés personnelles
 	  2. Contact avec le surnaturel
