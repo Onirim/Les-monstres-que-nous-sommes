@@ -1,8 +1,8 @@
 \cleardoublepage
 
-# Règles avancées
+# Règles complètes
 
-**Les monstres que nous sommes** est un jeu se voulant simple et facile à prendre en main. Cependant, des MJ et joueurs vétérans pourraient souhaiter entrer plus en détail dans la vie de leurs personnages. Voici donc plusieurs règles avancées permettant de mettre en mouvement l'environnement académique (lycée et université) ainsi que la gestion des relations. La bonne pratique est de commencer un épisode par le test académique afin d'entrer dans la peau des personnages et de n'autoriser l'approfondissent que d'une seule relation par épisode et par personnage.
+**Les monstres que nous sommes** est un jeu se voulant simple et facile à prendre en main. Pour les MJ et joueurs à l'aise avec les règles de base, voici les règles complètes permettant de mettre en mouvement l'environnement académique (lycée et université) ainsi que la gestion des relations. La bonne pratique est de commencer un épisode par le test académique afin d'entrer dans la peau des personnages et de n'autoriser l'approfondissent que d'une seule relation par épisode et par personnage.
 
 ## L'environnement académique
 
