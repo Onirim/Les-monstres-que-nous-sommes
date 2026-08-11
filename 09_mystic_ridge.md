@@ -130,8 +130,6 @@ Café animé et chaleureux, le Hideout se situe près de Blakewood High School. 
 
 À l'intérieur, des tables en bois et des fauteuils confortables sont disposés de façon à créer des espaces intimes pour discuter. Un comptoir en bois massif domine l'entrée, où l'équipe s'affaire à préparer des boissons. À l'étage, un coin lecture avec une bibliothèque et des jeux de société offre un espace de détente décoré de tentures et de guirlandes lumineuses. Le sol y est tapissé de coussins, de poufs et de petites tables basses.
 
-Le café est tenu par Danny et Maryla Mercier. La jeune Asha Stormfeather y travaille désormais quelques heures les samedis et mercredis après-midi.
-
 ### La base Coldwater
 
 Perdue dans les profondeurs boisées de Whisperwood, l'ancienne base militaire Coldwater repose à flanc de montagne, entre deux rivières. Un sentier à demi effacé, utilisé autrefois par les convois militaires, serpente parmi les sapins noirs jusqu'à déboucher sur des portes de fer marquées « U.S. Army — entrée interdite », une guérite et un mélange de grilles et de barbelés qui enclosent encore la zone.
@@ -148,7 +146,7 @@ La base militaire s'étend au-delà de ces quelques bâtiments, et les rumeurs v
 
 ### Le Blue Bear
 
-Bâtiment proche de l'Oxford Mall, juste après le bowling et avant l'ancienne station-service transformée en laverie automatique, le Blue Bear sommeille le jour. Mais à la tombée de la nuit, il s'éveille doucement au rythme de ses lumières bleues et de ses basses assourdies.
+Bâtiment proche du Three Pines Mall, juste après le bowling et avant l'ancienne station-service transformée en laverie automatique, le Blue Bear sommeille le jour. Mais à la tombée de la nuit, il s'éveille doucement au rythme de ses lumières bleues et de ses basses assourdies.
 
 Son enseigne clignote de loin comme une promesse : un ours en néon bleu qui semble prendre vie en trois temps — d'abord à quatre pattes, puis dressé, puis penché sur le côté, prêt à danser. Ce mouvement cyclique hypnotique éclaire doucement la rue déserte. Ce n'est pas une enseigne tape-à-l'œil, mais elle suffit à attirer les initiés et les curieux.
 
@@ -164,11 +162,9 @@ Le Blue Bear n'est pas un endroit où l'on fait semblant. C'est l'endroit où l'
 
 ### Le Strike & Shake
 
-C'est dans la zone de l'Oxford Mall, blotti contre la façade rutilante du Blue Bear, que se trouve le Strike & Shake : un endroit à part, presque hors du temps, où l'odeur des frites chaudes se mêle à celle de la cire fraîche sur les pistes et où les rires résonnent sous les grandes poutres de bois comme un vieux jingle oublié de sitcom des années 1980.
+C'est dans la zone du Three Pines Mall, blotti contre la façade rutilante du Blue Bear, que se trouve le Strike & Shake : un endroit à part, presque hors du temps, où l'odeur des frites chaudes se mêle à celle de la cire fraîche sur les pistes et où les rires résonnent sous les grandes poutres de bois comme un vieux jingle oublié de sitcom des années 1980.
 
 Ce temple des quilles possède douze pistes parfaitement entretenues, flanquées de banquettes en cuir vieilli couleur caramel. Les panneaux lumineux au-dessus des pistes brillent de mille feux, et des écrans cathodiques fixés au plafond affichent les scores dans une typographie délicieusement obsolète. Les murs sont décorés de vieux trophées, d'affiches de tournois et de quelques photos en noir et blanc de Raoul, le maître des lieux.
-
-Raoul, ancien Marine à la barbe poivre et sel taillée au cordeau, est aussi doux qu'un chaton en tablier. Sa stature imposante cache un cœur tendre et un esprit de compétition de feu sacré. Il a joué quatre parties parfaites — des 300 nets et sans bavure — et n'hésite jamais à donner un conseil ou une tape dans le dos à ceux qui ratent leur split de peu. Son lancer est si précis qu'on raconte qu'il pourrait abattre une mouche posée sur une quille. À quatre-vingts pieds.
 
 Mais le Strike & Shake n'est pas qu'un bowling. C'est un refuge social, une cantine du soir et un terrain de jeu pour toutes les générations. On y trouve un restaurant à la carte simple et généreuse : burgers juteux, nachos dégoulinants, milkshakes à la fraise et à la bière de racine pour les puristes. Le tout est servi dans des paniers en plastique rouge, comme il se doit.
 
@@ -178,15 +174,15 @@ Le clou du spectacle est sans doute la tradition mensuelle du Cosmic Bowl, chaqu
 
 ### Moonlit Wonders
 
-Boutique nichée depuis plus de cinquante ans dans le South Business District, Moonlit Wonders éclaire Mystic Ridge d'une lueur étrange et fascinante. Fondée par Ethel Curie, une immigrée polonaise naturalisée américaine, cette boutique ésotérique est à la fois un sanctuaire de savoirs occultes et un attrape-touristes aux mille promesses. Si les curieux y voient une caverne d'Ali Baba remplie de cristaux scintillants, de tarots illustrés et d'encens exotiques, ceux qui ont « l'œil » y perçoivent autre chose.
+Boutique nichée depuis plus de cinquante ans dans le South Business District, Moonlit Wonders éclaire Mystic Ridge d'une lueur étrange et fascinante. Fondée par Marta Plichta, une immigrée roumaine naturalisée américaine, cette boutique ésotérique est à la fois un sanctuaire de savoirs occultes et un attrape-touristes aux mille promesses. Si les curieux y voient une caverne d'Ali Baba remplie de cristaux scintillants, de tarots illustrés et d'encens exotiques, ceux qui ont « l'œil » y perçoivent autre chose.
 
 Dès l'entrée, un mélange enivrant de sauge, de santal et de cire fondue flotte dans l'air. Sous la lueur tamisée des lustres anciens, grimoires, potions et amulettes se mêlent aux attrape-rêves et aux pendules en quartz. Pourtant, derrière ces artefacts inoffensifs, Moonlit Wonders cache un autre visage. Ceux qui savent chercher peuvent y dénicher des ingrédients et des objets aux propriétés bien plus troublantes.
 
-Ethel, bien qu'affaiblie par l'âge, veille toujours sur son héritage depuis son appartement du troisième étage, laissant la gestion du magasin à sa fille Liliana. Cette dernière accueille les clients avec un sourire énigmatique qui semble en savoir bien plus qu'il n'y paraît. Entre conseils bienveillants et fioles discrètement glissées aux initiés, elle perpétue le mystère familial.
+Marta, bien qu'affaiblie par l'âge, veille toujours sur son héritage depuis son appartement du troisième étage, laissant la gestion du magasin à sa fille Liliana. Cette dernière accueille les clients avec un sourire énigmatique qui semble en savoir bien plus qu'il n'y paraît. Entre conseils bienveillants et fioles discrètement glissées aux initiés, elle perpétue le mystère familial.
 
 Dans une section plus reculée, loin des attrape-rêves et des pendules en quartz rose, les antiquités oubliées suscitent autant la fascination que l'inquiétude : des livres reliés en cuir jaunis par le temps, un miroir terni aux reflets incertains ou un pendentif d'argent dont le porteur raconte faire d'étranges rêves.
 
-Les habitants murmurent que les Curie cachent bien des secrets. Mais après tout, ce ne sont que des rumeurs. N'est-ce pas ?
+Les habitants murmurent que les Plichta cachent bien des secrets. Mais après tout, ce ne sont que des rumeurs. N'est-ce pas ?
 
 ### Mystic Ridge University
 
@@ -204,17 +200,6 @@ Le cœur du campus est constitué de bâtiments de brique rouge, mêlés à des 
 - La **Bibliothèque Alcott**, refuge de vieux grimoires et de coupures de journaux étranges, abrite un étage non référencé officiellement sur les plans.
 - **La Serre**, abandonnée depuis une dizaine d'années, semble toujours trouver le moyen de fleurir au printemps, malgré l'absence d'entretien.
 
-#### Cursus majeurs
-
-- Sciences sociales et psychologie ;
-- littérature, folklore et mythes comparés ;
-- histoire et civilisations anciennes ;
-- arts plastiques et arts visuels ;
-- biochimie, petit cursus en pleine expansion ;
-- informatique et technologies émergentes ;
-- études environnementales et géobiologie ;
-- économie locale et gestion agricole.
-
 #### Traditions et légendes
 
 Chaque année, la Semaine du Silence est organisée : une tradition remontant à une époque floue, où les étudiants ne peuvent s'exprimer qu'en chuchotant durant trois jours, en hommage à « ceux dont la voix fut avalée par les ténèbres ». Personne ne sait vraiment qui furent ces « ceux », mais chaque année des bougies sont allumées devant la serre et les vieilles statues du jardin intérieur.
@@ -223,13 +208,13 @@ Il se raconte aussi que, sous la bibliothèque Alcott, il existe une salle sans 
 
 L'université de Mystic Ridge n'est pas qu'un établissement d'enseignement supérieur. C'est une enclave où les disciplines croisent les lignes de faille invisibles du réel. Un lieu où l'on peut apprendre à coder, ou à déchiffrer les songes du passé.
 
-### Oxford Mall
+### Three Pines Mall
 
-Véritable cœur battant de la ville, noyé sous une pluie constante de néons et de musique d'ambiance, l'Oxford Mall attire chaque jour une foule bigarrée en quête de distraction, de confort ou d'oubli. Ses trois étages regorgent de tout ce qui fait vibrer Mystic Ridge.
+Véritable cœur battant de la ville, noyé sous une pluie constante de néons et de musique d'ambiance, le Three Pines Mall attire chaque jour une foule bigarrée en quête de distraction, de confort ou d'oubli. Ses trois étages regorgent de tout ce qui fait vibrer Mystic Ridge.
 
 - **Something To Do** est la boutique de loisirs incontournable. Elle vend jeux de société, jeux de rôle, cartes à collectionner, maquettes, kits scientifiques, dés, échiquiers, trains et avions télécommandés, et bien plus encore. Quelques tables permettent de jouer sur place, souvent occupées par des habitués plongés dans des campagnes de donjons ou des tournois de *Magic*.
 - **Toyz Town** est un paradis coloré où s'entassent les jouets les plus récents et les plus populaires, des figurines articulées aux peluches interactives. C'est l'endroit préféré des enfants, et de certains adultes nostalgiques.
-- **Frostline Sports**, fondé en 1985 par Daryl « Moose » Ackerley, ancien joueur semi-professionnel du Montana reconverti après une vilaine blessure au genou, est le repaire des sportifs du coin. On y trouve de l'équipement de hockey sur glace et de roller-hockey, des maillots locaux et de NHL, des raquettes, ballons, protections, vêtements techniques et une petite section consacrée au plein air. Une zone d'essai de slapshots avec radar, souvent hors service, amuse toujours les gamins. Les murs sont tapissés de photos d'équipes scolaires et un élan casqué en mousse grandeur nature, « Frosty », garde l'entrée. On raconte que ses yeux bougent parfois tout seuls. Camille Cooper y travaille depuis quelque temps, surtout pour la mise en rayon et le conseil sur le matériel de glisse.
+- **Frostline Sports**, fondé en 1985 par Daryl « Moose » Ackerley, ancien joueur semi-professionnel du Montana reconverti après une vilaine blessure au genou, est le repaire des sportifs du coin. On y trouve de l'équipement de hockey sur glace et de roller-hockey, des maillots locaux et de NHL, des raquettes, ballons, protections, vêtements techniques et une petite section consacrée au plein air. Une zone d'essai de slapshots avec radar, souvent hors service, amuse toujours les gamins. Les murs sont tapissés de photos d'équipes scolaires et un élan casqué en mousse grandeur nature, « Frosty », garde l'entrée. On raconte que ses yeux bougent parfois tout seuls.
 - **Scooter's Cards** est spécialisé dans les cartes de sport et les souvenirs sportifs, notamment autour des Cincinnati Reds et des Montana Grizzlies. La boutique propose aussi quelques bandes dessinées et cartes non sportives, entre raretés poussiéreuses et nouveaux boosters sous blister.
 - **Poster World** vend affiches de films, objets de cinéma et memorabilia hollywoodiens. Son service d'encadrement sur mesure est idéal pour sublimer un poster de *Blade Runner* ou de *The Lost Boys*.
 - **Valley Girll** est une enseigne de vêtements branchés pour adolescentes et jeunes femmes, axée sur les tendances venues tout droit de la Côte Ouest. Entre crop tops, jeans taille basse et lunettes colorées, l'ambiance y est toujours très « L.A. ».
@@ -242,10 +227,8 @@ Cette station-service est un lieu de rencontre extrêmement populaire auprès de
 
 La station est gérée par les jumeaux Sinclair. Le terrain vague à côté du magasin est souvent rempli d'adolescents. Il contient les vestiges d'un bâtiment : une grande dalle de béton et une petite fosse en terre battue. Personne ne sait exactement ce qui se trouvait là avant. Les jumeaux, eux, changent de sujet dès qu'on leur pose la question.
 
-### Uunck's Rockaway Records
+### Doug's Records
 
-Uunck's Rockaway Records est un magasin de musique unique et très apprécié, spécialisé dans les disques, les cassettes, les CD et les souvenirs musicaux. Le personnel accorde aux clients un crédit d'échange pour leur musique d'occasion, ce qui permet au magasin de proposer un excellent rayon de seconde main. La boutique est réputée pour avoir tous les styles, pour ses postes d'écoute et pour son coin réservé aux groupes qui jouent en direct.
+Doug's Records est un magasin de musique unique et très apprécié, spécialisé dans les disques, les cassettes, les CD et les souvenirs musicaux. Le personnel accorde aux clients un crédit d'échange pour leur musique d'occasion, ce qui permet au magasin de proposer un excellent rayon de seconde main. La boutique est réputée pour avoir tous les styles, pour ses postes d'écoute et pour son coin réservé aux groupes qui jouent en direct.
 
-Le propriétaire, Uunck de Lyon, est coiffé d'un grand mohawk et a joué dans un groupe punk rock new-yorkais, The Lazer Lips. Uunck est souvent en conflit avec le révérend Phillips, lequel estime que certains disques n'ont rien à faire à portée des jeunes oreilles de Mystic Ridge.
-
-Depuis peu, le jeune Josh Bennett travaille à mi-temps à la boutique. Il connaît déjà par cœur la moitié des bacs, et prétend pouvoir retrouver n'importe quel album en moins de trente secondes, même dans le noir.
+Le propriétaire, Doug Garrison, est coiffé d'un grand mohawk et a joué dans un groupe punk rock new-yorkais, Hairy Dogs. Doug est souvent en conflit avec le révérend Horton, lequel estime que certains disques n'ont rien à faire à portée des jeunes oreilles de Mystic Ridge.

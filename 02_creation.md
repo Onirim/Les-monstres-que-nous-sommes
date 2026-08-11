@@ -111,8 +111,8 @@ La création de l'historique des personnages permet de mieux les définir et de 
 
 | 1d10 | Difficulté personnelle |
 | --- | --------- |
-| 1 | Identité de genre |
-| 2 | Préférence sexuelle |
+| 1 | Questionnement sur l'identité de genre |
+| 2 | Préférence sexuelle socialement problématique |
 | 3 | Dévalorisation de soi |
 | 4 | Addiction |
 | 5 | Mauvaise réputation |

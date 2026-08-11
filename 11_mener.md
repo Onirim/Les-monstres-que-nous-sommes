@@ -4,62 +4,6 @@
 
 Le rôle du meneur de jeu est de faire vivre la série autour des personnages joueurs. Il présente les situations, interprète les personnages secondaires et met en mouvement les complications choisies lors de la création. Il n'a pas à préparer une histoire dont il connaîtrait déjà toutes les étapes : il lui suffit de savoir ce qui menace les personnages, ce qui arrivera s'ils n'interviennent pas et quels secrets ils pourront découvrir. Le reste naîtra de leurs décisions et des conséquences de leurs actions.
 
-## Préparer un épisode
-
-Ne prévoyez ni succession de scènes ni réactions des personnages. En une vingtaine de minutes, imaginez plutôt une situation instable à l'aide des rubriques suivantes. Quelques mots suffisent ; les décisions des joueurs compléteront le reste.
-
-### Le problème
-
-Une menace peut être une créature, un humain, une organisation ou un phénomène surnaturel. Elle peut même agir pour de bonnes raisons, mais employer des moyens dangereux.
-
-- **Personne ou lieu menacé** : Qui risque de souffrir, de disparaître ou d'être transformé ?
-- **La menace et son désir** : Qui est-elle et que cherche-t-elle réellement ?
-- **Si personne n'intervient** : Que se produira-t-il ?
-
-La menace agit, commet des erreurs et laisse des traces ; elle n'attend pas les personnages dans son repaire.
-
-### Le lien avec les personnages
-
-Reliez le problème à un élément créé par les joueurs plutôt qu'à un inconnu introduit pour l'occasion.
-
-- **Élément de la série mis en jeu** : Quelle relation, famille, complication ou obligation académique est touchée ?
-- **Raison d'intervenir** : Pourquoi les personnages ne peuvent-ils pas simplement ignorer le problème ?
-- **Première manifestation** : Que voient ou apprennent-ils au début de l'épisode ?
-
-### Les révélations et les indices
-
-Préparez trois informations importantes et un premier indice pour chacune. Les autres traces ou témoins seront improvisés à partir des idées des joueurs.
-
-1. **Première révélation — comprendre le danger**
-   - Premier indice ou témoin
-2. **Deuxième révélation — comprendre le désir ou la méthode de la menace**
-   - Premier indice ou témoin
-3. **Troisième révélation — découvrir comment agir**
-   - Premier indice ou témoin
-
-Un indice indispensable n'est jamais caché derrière un test. Un test réussi permet plutôt de l'obtenir plus vite, d'en apprendre davantage ou d'éviter une conséquence.
-
-### La montée de la pression
-
-Notez ce que fera la menace si les personnages tardent, échouent ou attirent son attention. Ces étapes ne sont pas des scènes obligatoires.
-
-1. **Signe inquiétant :** La menace laisse voir sa présence ou frappe une première fois.
-2. **Aggravation :** Une personne est blessée, un secret est menacé ou une situation ordinaire devient dangereuse.
-3. **Point de rupture :** La menace est sur le point d'obtenir ce qu'elle désire et force les personnages à agir.
-
-### La vie ordinaire
-
-Préparez une situation rappelant que les personnages ont aussi des études, une famille et des relations à préserver.
-
-- **Obligation académique ou familiale** : Il faut réviser un examen, participer à un repas de famille ou tenir une promesse.
-- **Relation ou complication à mettre en mouvement** : Un PNJ propose un rencard, réclame de l'aide ou choisit le pire moment pour régler ses comptes.
-
-### Visages et lieux
-
-Donnez un nom, un désir et un trait reconnaissable à deux ou trois PNJ. Choisissez deux ou trois lieux possibles pour les premières recherches.
-
-Ne préparez ni solution ni conclusion. La confrontation naîtra des décisions des joueurs lorsqu'ils auront compris l'essentiel du problème ou lorsque la menace atteindra son point de rupture.
-
 ## Déroulement d'un épisode
 
 Un épisode correspond généralement à une séance d'environ quatre heures. Il est composé d'une succession de scènes et devrait faire progresser à la fois un mystère surnaturel et la vie personnelle des protagonistes. Il n'existe pas de nombre obligatoire de scènes, mais un bon épisode alterne les moments ordinaires, les découvertes inquiétantes et les situations de tension. Les personnages doivent avoir le temps d'être des étudiants et des amis avant d'être confrontés à ce qui rôde dans l'ombre.
