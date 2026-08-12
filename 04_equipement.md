@@ -26,24 +26,7 @@ De la même façon que pour les armes, il est possible de considérer la protect
 
 ## Acquérir biens et services
 
-Afin de conserver un système de ressources simple, nous considérons que l'acquisition d'un bien ou d'un service dépend du **niveau de vie** nécessaire à son acquisition. Le niveau de vie du personnages dépend de son métier et de ses revenus réguliers, et permet principalement de juger si l'obtention d'un bien est possible ou non. Si un bien nécessite un niveau de ressource supérieur à celui du personnage, il ne peut pas l'acquérir sans faire appel à ses économies.
-
-### Les économies
-
-Les cases d'économies représentent les ressources que le personnage a pu mettre de côté, les trésors qu'il peut échanger ou revendre ou tout avantage de ressource temporaire qui ne fait pas pour autant monter son niveau de vie. Les cases d'économies peuvent être utilisés pour effectuer un achat au dessus de son niveau de vie. Dans ce cas, il faut dépenser les cases d'économies **pour chaque niveau de vie au dessus du sien** jusqu'à atteindre le niveau de vie requis pour l'acquisition du bien. Par exemple un personnage de niveau de vie précaire et qui souhaite acquérir un bien de niveau confortable doit dépenser 3 cases d'économies (1 pour atteindre le niveau modeste, puis 2 pour atteindre le niveau confortable).
-
-| Coût du bien | Coût en économies |
-| --- | --- |
-| Modeste | 1 |
-| Confortable | 2 |
-| Aisé | 4 |
-| Riche | 8 |
-
-> Notre jeune Camille aimerait bien acquérir un téléphone portable, afin de pouvoir joindre ses copines et envoyer des SMS (le MJ ayant situé la série au début des années 2000). Hélas un téléphone portable dans les années 2000 c'est un achat possible pour une famille modeste, pas pour une lycéenne qui possède en propre un niveau de vie précaire. Si elle veut pouvoir s'en acheter un sans demander à ses parents de le lui payer, elle devra faire des économies (1 case d'économie, lui permettant pour cet achat de passer de précaire à modeste). N'y avait-il pas cette offre d'emploi pour étudiant dans le magasin de sport qu'elle fréquente ?
-
-### Les dettes
-
-Lorsqu'un personnage a besoin d'obtenir une case d'économies, il peut contracter une dette. Pour chaque case d'économie gagnée, le personnage doit cocher une case de dette. Les dettes doivent être remboursées, soit via la dépense d'économies, soit en nature, en fonction de l'usurier. En général, tarder à rembourser une dette peut poser de gros problèmes au personnage.
+Afin de conserver un système de ressources simple, nous considérons que l'acquisition d'un bien ou d'un service dépend du **niveau de vie** nécessaire à son acquisition. Le niveau de vie du personnages dépend de son métier et de ses revenus réguliers (c'est à dire celui des parents généralement), et permet principalement de juger si l'obtention d'un bien est possible ou non. Si un bien nécessite un niveau de ressource supérieur à celui du personnage, le personnage ne peut pas l'acquérir par des moyens ordinaires.
 
 ### Liste de coûts
 

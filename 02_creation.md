@@ -4,6 +4,30 @@
 
 La création des personnages est sans doute l'étape la plus importante du jeu. En effet, c'est l'alchimie entre les personnages qui donnera à la série sa profondeur dramatique. Les personnages et les liens qu'ils tissent entre eux (et avec les PNJ) sont l'essence même des séries de drame surnaturel. Il est recommandé de faire créer les personnages par tous les joueurs en même temps afin d'obtenir un groupe d'amis soudés (ou du moins liés ensemble). Il est également recommandé que tous les personnages joueurs de la table fassent partie du même établissement (lycée ou université).
 
+1. Environnement familial
+   a. Petite enfance
+	  1. Milieu et activité familiale
+      2. Taille de la fratrie
+      3. Lien d'enfance
+   b. Préadolescence
+      1. Difficultés familiales
+	  2. Lien de préadolescence
+   c. Adolescence
+      1. Difficultés personnelles
+	  2. Contact avec le surnaturel
+2. Environnement académique
+   a. Cursus académique
+   b. Activité parascolaire
+   c. Cliques ou Fraternités
+3. Détails personnels
+   a. Personnalité
+   b. Exutoires
+   c. Complications
+   d. Compétences
+   e. Spécialités et langues
+   f. Résistances
+   g. Niveau de vie
+
 > Tout au long de ce chapitre, nous suivrons Camille Cooper, une lycéenne sportive qui subira la malédiction des loups-garous.
 
 ## Environnement familial
@@ -38,13 +62,20 @@ La création de l'historique des personnages permet de mieux les définir et de 
 | 9 | 4 | Beaucoup plus âgé que vous | Garçon |
 | 10 | 5 | Beaucoup plus âgé que vous | Fille |
 
-Une fois votre cadre familial défini, nous pouvons commencer à tisser des liens entre les personnages de la table. Demandez à chaque joueur de choisir un autre personnage autour de la table qui aurait pu devenir son ami d'enfance. A cet âge, c'est généralement parce-que les familles se côtoient déjà.
+*« Chacun votre tour, vous allez définir un lien que vous entretenez avec le PJ à votre gauche. Utilisez à la table ci-après pour déterminer l'événement à l'origine du lien. Discutez de ce lien et de son importance dans les relations entre vos personnages. »*
 
-*« Choisissez votre ami d'enfance parmi les PJ autour de la table. Il est généralement issu du même milieu que vous. »*
+| 1d6 | Événement |
+| --- | ------- |
+| 1 | Vous avez commis une grave bêtise ensemble, mais vous avez laissé l'autre PJ porter toute la faute. |
+| 2 | Vous étiez en désaccord et vous avez humilié l'autre PJ devant tout le monde. |
+| 3 | Vous protégiez régulièrement l'autre PJ de ceux qui voulaient lui faire du mal. |
+| 4 | Vous avez réchappé de justesse à un événement paranormal avec l'autre PJ et ce secret vous a rapproché. |
+| 5 | Vous avez prononcé une promesse de loyauté et d'amitié indéfectible avec l'autre PJ. |
+| 6 | Vous avez sauvé l'autre PJ d'un accident qui aurait pu lui être fatal. |
 
-> Pour la création de Camille, nous décidons qu'elle sera issue du milieu ouvrier : son père travaille dans un petit laboratoire de biologie en tant que technicien, sa mère travail  dans le milieu commerçant en tant qu'employée dans le centre de loisir local. Les parents de Camille ont une famille nombreuse, la jeune fille a une sœur plus jeune qu'elle, une sœur plus âgée qu'elle, et un frère jumeau ! Nous décidons que la famille Cooper vit dans un bateau aménagé, amarré constamment au port lacustre de la ville. Une famille de 6 personnes dans un bateau, ça fait peu de places et Camille est obligée de partager sa petite chambre avec sa sœur cadette. Enfin, nous décidons que sa famille est immigrée canadienne, et qu'elle a laissé son ami d'enfance là bas.
+> Pour la création de Camille, nous décidons qu'elle sera issue du milieu ouvrier : son père travaille dans un petit laboratoire de biologie en tant que technicien, sa mère travail  dans le milieu commerçant en tant qu'employée dans le centre de loisir local. Les parents de Camille ont une famille nombreuse, la jeune fille a une sœur plus jeune qu'elle, une sœur plus âgée qu'elle, et un frère jumeau ! Nous décidons que la famille Cooper vit dans un bateau aménagé, amarré constamment au port lacustre de la ville. Une famille de 6 personnes dans un bateau, ça fait peu de places et Camille est obligée de partager sa petite chambre avec sa sœur cadette. Enfin, nous décidons que sa famille est immigrée canadienne, et qu'elle a laissé son ami d'enfance là bas. Elle ne sélectionne donc pas de lien avec le PJ du joueur à sa gauche.
 
-### Pré adolescence
+### Préadolescence
 
 *« Entre 11 et 14 ans, vous êtes confronté aux problèmes de votre famille. Quel est le problème principal que rencontre votre famille et qui vous a marqué ? Choisissez librement dans la table ci-dessous ou laissez le hasard vous inspirer. »*
 
@@ -61,9 +92,18 @@ Une fois votre cadre familial défini, nous pouvons commencer à tisser des lien
 | 9 | Famille victime de racisme |
 | 10 | Difficultés avec la justice |
 
-*« Choisissez un second ami d'enfance parmi les PJ autour de la table, qui vous a soutenu lors les crises familiales. »*
+*« Chacun votre tour, vous allez déterminer le lien que vous entretenez avec un autre personnage, mais cette fois avec le PJ à votre droite. Utilisez à la table ci-après pour déterminer l'événement à l'origine du lien. Discutez de ce lien et de son importance dans les relations entre vos personnages. »*
 
-> Pour la famille de Camille, les difficultés financières se sont accumulées à cause du faible salaire des parents et du nombre d'enfants à scolariser. Aussi la famille vit-elle toujours dans son bateau aménagé, et la jeune fille vit assez mal d'être entassée avec sa petite sœur (une adorable chipie). Elle cherche toutes les occasions de passer du temps en dehors du bateau. C'est à cette occasion qu'elle a rencontré Mary Christina Tucker, une fille de ranchers catholiques très pratiquants chez qui elle squatte beaucoup et avec qui elle écoute des CD de musiques extrême - hard rock, black metal, etc. - que les parents de Mary Christina réprouveraient fortement. Chez Mary Christina, la jeune Camille peut souffler et s'épanouir davantage.
+| 1d6 | Événement |
+| --- | ------- |
+| 1 | Vos familles se détestent, alors que vous avez longtemps été inséparables. |
+| 2 | Vous avez mêlés vos sangs lors d'une promesse de loyauté et d'amitié indéfectible avec l'autre PJ. |
+| 3 | Vous protégiez régulièrement l'autre PJ de ceux qui voulaient lui faire du mal. |
+| 4 | Vous avez réchappé de justesse à un événement paranormal avec l'autre PJ et ce secret vous a rapproché. |
+| 5 | Vous avez fugué plusieurs jours de chez vous et l'autre PJ vous a secouru et aidé à revenir parmi les vôtres. |
+| 6 | Vous avez sauvé l'autre PJ d'un accident qui aurait pu lui être fatal. |
+
+> Pour la famille de Camille, les difficultés financières se sont accumulées à cause du faible salaire des parents et du nombre d'enfants à scolariser. Aussi la famille vit-elle toujours dans son bateau aménagé, et la jeune fille vit assez mal d'être entassée dans une chambre minuscule avec sa petite sœur (une adorable chipie). Elle cherche toutes les occasions de passer du temps en dehors du bateau. Le joueur de Mary Christina est assis à la droite de celui de Camille. Ainsi Camille a t-elle rencontré Mary Christina Tucker, une fille de ranchers catholiques très pratiquants chez qui elle squatte beaucoup et avec qui elle écoute des CD de musiques métal et hard rock que les parents de Mary Christina réprouveraient fortement. Camille fugua plusieurs jours chez Mary Christina lorsqu'elle était pré adolescente, cette dernière l'hébergea en secret dans sa chambre jusqu'à ce que des parents terriblement inquiets la retrouvent.
 
 ### Adolescence
 
@@ -71,8 +111,8 @@ Une fois votre cadre familial défini, nous pouvons commencer à tisser des lien
 
 | 1d10 | Difficulté personnelle |
 | --- | --------- |
-| 1 | Identité de genre |
-| 2 | Préférence sexuelle |
+| 1 | Questionnement sur l'identité de genre |
+| 2 | Préférence sexuelle socialement problématique |
 | 3 | Dévalorisation de soi |
 | 4 | Addiction |
 | 5 | Mauvaise réputation |
@@ -170,25 +210,29 @@ Le jeu implique qu'un certain nombre de personnages autour de la table deviendro
 
 > Le joueur de Camille décide qu'elle deviendra loup-garou. Le style dynamique de la jeune fille pourrait offrir une alchimie explosive !
 
-## La personnalité
+## Détails personnels
+
+Jusqu'à présent, nous avons vu les éléments ayant permis de construire le personnage. Maintenant, nous entrons dans les détails du personnage en lui-même.
+
+### La personnalité
 
 Indiquez la personnalité de votre personnage dans la section des informations générales de la fiche de personnage. Cela vous aidera à décrire votre personnage au delà de son aspect physique et à vous y tenir.
 
 > Pour Camille, nous notons les traits de personnalité fonceuse, dynamique et explosive.
 
-## Les exutoires
+### Les exutoires
 
 Lorsque le stress s'accumule, le personnage a besoin de libérer la pression accumulée et de se ressourcer. De quelle manière le fait-il ? En s'ouvrant avec quelqu'un de confiance ? En pratiquant un art ? Une activité sportive intense ? Via une addiction ou un comportement violent ? Choisissez jusqu'à deux exutoires qui lui corresponde. L'exutoire sera nécessaire lorsque votre personnage voudra faire diminuer son stress mental.
 
 > Là encore, c'est le sport qui joue le rôle d'exutoire pour Camille. Pour se libérer de son stress mental, elle a pour habitude de se dépenser en faisant du sport ou alors de plonger dans les profondeurs du lac tout proche pour trouver un moment de calme et de paix.
 
-## Les complications
+### Les complications
 
 Nous avons chacun nos problèmes. Quels sont ceux de votre personnage ? Vous pouvez déjà compter sur votre difficulté familiale et votre difficulté d'adolescent en tant que complications, ou en imaginer d'autres. Le MJ est invité à mettre en jeu vos complications pour vous en faire baver, bien entendu.
 
 > Pour Camille, nous pouvons noter que son environnement familial est étouffant - même si elle aime sincèrement sa famille - et noter également qu'elle a une réputation de frigide (ou de lesbienne) qui tend à lui coller à la peau.
 
-## Les compétences
+### Les compétences
 
 Les scores dans les 12 compétences sont exprimées en pourcentage et représentent la maîtrise de votre personnage dans ces différentes aptitudes. Commencez par attribuer un score de **75 à votre meilleure compétence**, puis 70 à la seconde, 65 à la troisième et ainsi de suite en retranchant 5 à chaque nouvelle compétence attribuée. A la fin du processus, votre plus faible compétence doit être de 20.
 
@@ -209,7 +253,7 @@ Les scores dans les 12 compétences sont exprimées en pourcentage et représent
 
 > C'est le moment de répartir les compétences. Nous attribuons à Camille les scores de compétences suivants : 75 en athlétisme, 70 en combat, 65 en bagou, 60 en vigilance, 55 en médecine, 50 en technologie, 45 en art, 40 en véhicules, 35 en nature, 30 en filouterie, 25 en savoir et 20 en occultisme.
 
-## Les spécialités
+### Les spécialités et les langues
 
 Votre personnage débute le jeu avec 3 spécialités. Une spécialité possède deux usages. Tout d'abord, elle apporte un **bonus de +10** à la valeur d'une compétence quand la spécialité peut s'appliquer. Ensuite, certaines compétences ne peuvent pas être réussies sans la spécialité adéquate (et dans ce cas, le test est automatiquement échoué). Par exemple il est inutile de tenter une opération chirurgicale sans la spécialité de chirurgie, tout comme il est impossible de pirater un logiciel informatique sans spécialité d'informatique ou de hacking.
 
@@ -217,11 +261,15 @@ On peut appliquer jusqu'à deux spécialité différentes sur un même test, pou
 
 > Nous attribuons trois spécialités à Camille : le Hockey sur glace (c'est une championne en herbe), le motocross (son moyen de déplacement préféré) ainsi que la plongée (elle adore l'eau, les profondeurs aquatiques, leur sérénité et leurs secrets oubliés).
 
-### Les langues
-
 Chaque personnage parle sa langue natale. Chaque langage supplémentaire maîtrisé doit être acquis en tant que spécialité.
 
-## Le niveau de vie
+### Les résistances
+
+Deux résistances principales sont utilisés en jeu : la **résistance physique** et la **résistance mentale**. Ces attributs servent à votre personnage à se préserver des dangers du monde qui l'entoure. Plus votre personnage a des résistances élevés, plus il est capable de supporter les agressions et d'éviter les conséquences désastreuses. A la création, le total des deux résistances doit être égal à 100, avec un minimum de 30 et un maximum de 70. Elles pourront ensuite progresser librement jusqu'à un maximum de 100.
+
+> Camille est un peu plus physique que mentale, nous lui attribuons donc une résistance physique de 60 pour une résistance mentale de 40 (et donc pour un total de 100).
+
+### Le niveau de vie
 
 Le niveau de vie du personnage est généralement inférieur d'un niveau au niveau de vie de ses parents. Pour connaître le niveau de vie de ses parents, basez-vous sur le cadre familial décidé lors de la première étape de la création de votre personnage. Si vous n'avez aucune idée du niveau de vie des parents de la famille de votre personnage, vous pouvez laisser les dés décider.
 
@@ -243,8 +291,5 @@ Le niveau de vie du personnage est généralement inférieur d'un niveau au nive
 - **Aisé**: Vous vivez dans un grand logement, profitez d'une cuisine raffinée et êtes vêtu élégamment. Vous pouvez sortir où et quand vous le désirez et fréquenter le beau monde.
 - **Riche**: Vous vivez dans un très grand logement et en possédez certainement plusieurs. Vos domestiques s'occupent de la plupart des corvées tandis que vous vous concentrez sur vos activités dans un environnement luxueux.
 
-## Les résistances
 
-Deux résistances principales sont utilisés en jeu : la **résistance physique** et la **résistance mentale**. Ces attributs servent à votre personnage à se préserver des dangers du monde qui l'entoure. Plus votre personnage a des résistances élevés, plus il est capable de supporter les agressions et d'éviter les conséquences désastreuses. Le total des deux résistances doit être égal à 100, avec un minimum de 30 et un maximum de 70.
 
-> Camille est un peu plus physique que mentale, nous lui attribuons donc une résistance physique de 60 pour une résistance mentale de 40 (et donc pour un total de 100).

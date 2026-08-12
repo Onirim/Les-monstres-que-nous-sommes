@@ -3,11 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Les monstres que nous sommes — Bêta 3.0</title>
-<meta name="description" content="Découvrez la bêta 3.0 du jeu de rôle Les monstres que nous sommes : monstres, mystères et drames adolescents.">
+<title>Les monstres que nous sommes — Bêta 3.1</title>
+<meta name="description" content="Découvrez la bêta 3.1 du jeu de rôle Les monstres que nous sommes : monstres, mystères et drames adolescents.">
 <link rel="icon" href="Couverture.png">
-<meta property="og:title" content="Les monstres que nous sommes — Bêta 3.0">
-<meta property="og:description" content="La bêta 3.0 du jeu de rôle de monstres, de mystères et de drames adolescents est disponible.">
+<meta property="og:title" content="Les monstres que nous sommes — Bêta 3.1">
+<meta property="og:description" content="La bêta 3.1 du jeu de rôle de monstres, de mystères et de drames adolescents est disponible.">
 <meta property="og:image" content="Couverture.jpg">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
@@ -544,6 +544,276 @@
   .orga ul { margin: 0; padding-left: 1.1rem; color: var(--bone-dim); font-size: 0.9rem; }
   .orga ul li { margin-bottom: 0.25rem; }
 
+  /* Character sheet preview */
+  .sheets {
+    overflow: hidden;
+    background:
+      radial-gradient(ellipse at 82% 12%, rgba(122,14,24,0.22), transparent 48%),
+      linear-gradient(180deg, var(--ink) 0%, var(--ink-soft) 100%);
+    border-top: 1px solid rgba(241,233,216,0.08);
+    border-bottom: 1px solid rgba(241,233,216,0.08);
+  }
+  .sheets-heading {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: end;
+    gap: 2rem;
+  }
+  .sheets-heading .lead { margin-bottom: 0; }
+  .sheets-note {
+    max-width: 220px;
+    margin: 0;
+    color: var(--bone-dim);
+    font-size: 0.85rem;
+    font-style: italic;
+    text-align: right;
+  }
+  .sheet-showcase {
+    display: grid;
+    grid-template-columns: minmax(0, 1.12fr) minmax(310px, 0.88fr);
+    gap: clamp(2rem, 5vw, 4.6rem);
+    align-items: center;
+    margin-top: 2.8rem;
+    padding: clamp(1rem, 3vw, 2rem);
+    border: 1px solid rgba(241,233,216,0.12);
+    border-radius: 18px;
+    background:
+      linear-gradient(135deg, rgba(241,233,216,0.055), transparent 42%),
+      rgba(8,3,4,0.42);
+    box-shadow: inset 0 1px rgba(255,255,255,0.04), 0 30px 80px rgba(0,0,0,0.28);
+  }
+  .sheet-stage {
+    position: relative;
+    display: grid;
+    justify-items: center;
+    isolation: isolate;
+  }
+  .sheet-stage::before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    width: 78%;
+    aspect-ratio: 1;
+    top: 14%;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(146,18,30,0.32), transparent 68%);
+    filter: blur(10px);
+  }
+  .sheet-feature {
+    position: relative;
+    display: block;
+    width: min(100%, 440px);
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid rgba(241,233,216,0.28);
+    border-radius: 7px;
+    background: #e9e9e7;
+    cursor: zoom-in;
+    box-shadow: 0 28px 70px rgba(0,0,0,0.58), 18px 18px 0 rgba(74,7,16,0.34);
+    transform: rotate(-0.7deg);
+    transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  .sheet-feature:hover,
+  .sheet-feature:focus-visible {
+    transform: rotate(0deg) translateY(-5px);
+    border-color: rgba(241,233,216,0.55);
+    box-shadow: 0 34px 85px rgba(0,0,0,0.66), 13px 16px 0 rgba(122,14,24,0.45);
+  }
+  .sheet-feature img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 9 / 13;
+  }
+  .sheet-counter,
+  .sheet-zoom {
+    position: absolute;
+    z-index: 1;
+    border: 1px solid rgba(241,233,216,0.24);
+    border-radius: 999px;
+    background: rgba(18,7,8,0.88);
+    color: var(--bone);
+    font-family: 'Cinzel', serif;
+    letter-spacing: 0.08em;
+    backdrop-filter: blur(6px);
+  }
+  .sheet-counter {
+    top: 0.85rem;
+    left: 0.85rem;
+    padding: 0.32rem 0.62rem;
+    font-size: 0.58rem;
+  }
+  .sheet-zoom {
+    right: 0.85rem;
+    bottom: 0.85rem;
+    padding: 0.42rem 0.72rem;
+    font-size: 0.62rem;
+  }
+  .sheet-controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1.7rem;
+  }
+  .sheet-arrow {
+    display: grid;
+    place-items: center;
+    width: 2.65rem;
+    height: 2.65rem;
+    border: 1px solid rgba(241,233,216,0.2);
+    border-radius: 50%;
+    background: rgba(241,233,216,0.045);
+    color: var(--bone);
+    font: 1.35rem/1 'Crimson Pro', serif;
+    cursor: pointer;
+    transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+  }
+  .sheet-arrow:hover,
+  .sheet-arrow:focus-visible {
+    background: var(--blood);
+    border-color: var(--blood-bright);
+    transform: scale(1.06);
+  }
+  .sheet-dots { display: flex; gap: 0.45rem; }
+  .sheet-dot {
+    width: 1.7rem;
+    height: 3px;
+    border-radius: 999px;
+    background: rgba(241,233,216,0.18);
+    transition: width 0.25s ease, background 0.25s ease;
+  }
+  .sheet-dot.is-active { width: 2.8rem; background: var(--blood-bright); }
+  .sheet-index {
+    display: grid;
+    gap: 0.65rem;
+  }
+  .sheet-tab {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) 48px;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+    padding: 0.72rem 0.75rem 0.72rem 0.95rem;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background: transparent;
+    color: var(--bone-dim);
+    text-align: left;
+    cursor: pointer;
+    transition: color 0.2s ease, background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+  }
+  .sheet-tab:hover,
+  .sheet-tab:focus-visible {
+    color: var(--bone);
+    background: rgba(241,233,216,0.05);
+    transform: translateX(-4px);
+  }
+  .sheet-tab.is-active {
+    color: var(--bone);
+    border-color: rgba(146,18,30,0.58);
+    background: linear-gradient(90deg, rgba(122,14,24,0.28), rgba(241,233,216,0.035));
+    box-shadow: inset 3px 0 var(--blood-bright);
+  }
+  .sheet-tab-number {
+    color: var(--blood-bright);
+    font-family: 'Cinzel', serif;
+    font-size: 0.72rem;
+    font-weight: 700;
+  }
+  .sheet-tab-copy { min-width: 0; }
+  .sheet-tab-copy strong {
+    display: block;
+    color: inherit;
+    font-family: 'Cinzel', serif;
+    font-size: 0.85rem;
+  }
+  .sheet-tab-copy small {
+    display: block;
+    margin-top: 0.12rem;
+    overflow: hidden;
+    color: var(--bone-dim);
+    font-size: 0.78rem;
+    line-height: 1.25;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .sheet-tab img {
+    display: block;
+    width: 48px;
+    aspect-ratio: 9 / 13;
+    object-fit: cover;
+    object-position: top;
+    border: 1px solid rgba(241,233,216,0.22);
+    border-radius: 3px;
+    filter: grayscale(0.7) brightness(0.78);
+    transition: filter 0.2s ease;
+  }
+  .sheet-tab.is-active img,
+  .sheet-tab:hover img { filter: none; }
+  .sheet-dialog {
+    width: min(92vw, 820px);
+    max-height: 94vh;
+    padding: 0;
+    overflow: visible;
+    border: 1px solid rgba(241,233,216,0.22);
+    border-radius: 8px;
+    background: #e9e9e7;
+    box-shadow: 0 35px 100px rgba(0,0,0,0.85);
+  }
+  .sheet-dialog::backdrop {
+    background: rgba(8,3,4,0.88);
+    backdrop-filter: blur(6px);
+  }
+  .sheet-dialog img {
+    display: block;
+    width: 100%;
+    max-height: 90vh;
+    object-fit: contain;
+    border-radius: 7px;
+  }
+  .sheet-dialog-close {
+    position: absolute;
+    top: -0.85rem;
+    right: -0.85rem;
+    width: 2.7rem;
+    height: 2.7rem;
+    border: 1px solid rgba(241,233,216,0.34);
+    border-radius: 50%;
+    background: var(--ink);
+    color: var(--bone);
+    font: 1.5rem/1 'Crimson Pro', serif;
+    cursor: pointer;
+  }
+  @media (max-width: 760px) {
+    .sheets-heading { grid-template-columns: 1fr; gap: 0.8rem; }
+    .sheets-note { max-width: none; text-align: left; }
+    .sheet-showcase {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+      padding: 1rem;
+      border-radius: 13px;
+    }
+    .sheet-feature { width: min(86vw, 410px); }
+    .sheet-index {
+      display: flex;
+      gap: 0.55rem;
+      margin: 0 -1rem -0.2rem;
+      padding: 0 1rem 0.8rem;
+      overflow-x: auto;
+      scroll-snap-type: inline mandatory;
+      scrollbar-width: none;
+    }
+    .sheet-index::-webkit-scrollbar { display: none; }
+    .sheet-tab {
+      flex: 0 0 78%;
+      grid-template-columns: auto minmax(0, 1fr) 42px;
+      scroll-snap-align: center;
+    }
+    .sheet-tab:hover,
+    .sheet-tab:focus-visible { transform: none; }
+  }
+
   /* Downloads */
   .downloads { background: var(--blood-dark); position: relative; }
   .downloads::before {
@@ -612,8 +882,9 @@
   <span class="brand">Les monstres que nous sommes</span>
   <nav class="nav-links">
     <a href="#jeu">Le jeu</a>
-    <a href="#beta">Bêta 3.0</a>
+    <a href="#beta">Bêta 3.1</a>
     <a href="#systeme">Le système</a>
+    <a href="#fiches">Les fiches</a>
     <a href="#creatures">Créatures</a>
     <a href="#univers">L'univers</a>
     <a href="#organisations">Organisations</a>
@@ -624,7 +895,7 @@
 <section class="hero">
   <div class="fog"></div>
   <div class="hero-content">
-    <span class="version-badge">Bêta 3.0 · Août 2026</span>
+    <span class="version-badge">Bêta 3.1 · Août 2026</span>
     <p class="overline">Jeu de rôle · Horreur adolescente · Système Skeleton</p>
     <h1>les monstres que nous sommes</h1>
     <p class="tagline">Un jeu de rôle de monstres, de mystères et de drames adolescents, inspiré de nos séries télévisées surnaturelles préférées.</p>
@@ -654,7 +925,7 @@
     <div class="release-heading">
       <div>
         <span class="kicker">Nouvelle version</span>
-        <h2>La bêta 3.0 est disponible</h2>
+        <h2>La bêta 3.1 est disponible</h2>
         <p class="lead">Cette nouvelle édition affine le cœur du système et accompagne davantage les meneurs comme les joueurs, de la première scène au dernier cliffhanger.</p>
       </div>
       <a class="btn btn-ghost release-cta" href="#telechargements">Découvrir les PDF ↓</a>
@@ -662,18 +933,18 @@
     <div class="release-grid">
       <article class="release-item">
         <span class="number">01</span>
-        <h3>Des résistances clarifiées</h3>
-        <p>Les épreuves et les chocs distinguent désormais clairement les risques de stress et de trauma, tandis que les critiques ont un impact direct.</p>
+        <h3>Une création plus collective</h3>
+        <p>Les étapes de l'enfance et de l'adolescence ancrent davantage les personnages dans leur famille, leur établissement et leurs liens avec les autres protagonistes.</p>
       </article>
       <article class="release-item">
         <span class="number">02</span>
-        <h3>Des relations approfondies</h3>
-        <p>Les liens, affinités et niveaux d'amitié, d'hostilité, de désir ou d'admiration gagnent en précision et en possibilités de jeu.</p>
+        <h3>Des incidents à choix</h3>
+        <p>Les incidents académiques confrontent désormais les personnages à un choix entre subir du stress ou sacrifier leurs résultats, leur popularité ou leur sérénité.</p>
       </article>
       <article class="release-item">
         <span class="number">03</span>
-        <h3>Un guide pour mener</h3>
-        <p>Un nouveau chapitre propose une structure en cinq temps pour rythmer les épisodes, faire monter la pression et conclure chaque intrigue.</p>
+        <h3>Des épisodes mieux structurés</h3>
+        <p>Le chapitre consacré au meneur propose une structure en cinq temps pour rythmer les épisodes, faire monter la pression et conclure chaque intrigue.</p>
       </article>
     </div>
   </div>
@@ -837,8 +1108,54 @@
         <ul>
           <li>Le Treizième Bureau</li>
           <li>L'Institut Iscariote</li>
-		  <li>Le Projet Sérénité</li>
+		  <li>Le Programme Quietus</li>
         </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="fiches" class="sheets">
+  <div class="section-inner reveal">
+    <div class="sheets-heading">
+      <div>
+        <span class="kicker">Dans les mains des joueurs</span>
+        <h2>Un aperçu des fiches de personnage</h2>
+        <p class="lead">La vie quotidienne, les relations et la nature monstrueuse tiennent sur des fiches pensées comme les pages d'un dossier personnel. Parcourez-les pour découvrir l'identité visuelle du jeu.</p>
+      </div>
+      <p class="sheets-note">Sélectionnez une fiche, puis cliquez sur la page pour l'examiner en grand.</p>
+    </div>
+    <div class="sheet-showcase">
+      <div class="sheet-stage">
+        <button class="sheet-feature" type="button" aria-label="Agrandir la fiche Le personnage">
+          <span class="sheet-counter">Fiche 01 / 05</span>
+          <img src="images/image1.jpg" width="720" height="1040" loading="lazy" alt="Aperçu de la fiche générale du personnage">
+          <span class="sheet-zoom">Examiner ↗</span>
+        </button>
+        <div class="sheet-controls" aria-label="Navigation entre les fiches">
+          <button class="sheet-arrow sheet-previous" type="button" aria-label="Fiche précédente">←</button>
+          <div class="sheet-dots" aria-hidden="true">
+            <span class="sheet-dot is-active"></span><span class="sheet-dot"></span><span class="sheet-dot"></span><span class="sheet-dot"></span><span class="sheet-dot"></span>
+          </div>
+          <button class="sheet-arrow sheet-next" type="button" aria-label="Fiche suivante">→</button>
+        </div>
+      </div>
+      <div class="sheet-index" role="tablist" aria-label="Choisir une fiche de personnage">
+        <button class="sheet-tab is-active" type="button" role="tab" aria-selected="true" data-sheet="images/image1.jpg" data-alt="Fiche de personnage : informations, compétences, équipement et résistances" data-title="Le personnage">
+          <span class="sheet-tab-number">01</span><span class="sheet-tab-copy"><strong>Le personnage</strong><small>Identité, compétences, équipement et résistances</small></span><img src="images/image1.jpg" width="48" height="69" loading="lazy" alt="">
+        </button>
+        <button class="sheet-tab" type="button" role="tab" aria-selected="false" data-sheet="images/image2.jpg" data-alt="Fiche de personnage : environnement académique, relations et cadre familial" data-title="La vie quotidienne">
+          <span class="sheet-tab-number">02</span><span class="sheet-tab-copy"><strong>La vie quotidienne</strong><small>Études, relations suivies et cadre familial</small></span><img src="images/image2.jpg" width="48" height="69" loading="lazy" alt="">
+        </button>
+        <button class="sheet-tab" type="button" role="tab" aria-selected="false" data-sheet="images/image3.jpg" data-alt="Fiche surnaturelle du loup-garou : formes, pouvoirs, faim et rage" data-title="Le loup-garou">
+          <span class="sheet-tab-number">03</span><span class="sheet-tab-copy"><strong>Le loup-garou</strong><small>Formes, pouvoirs de la bête, faim et rage</small></span><img src="images/image3.jpg" width="48" height="69" loading="lazy" alt="">
+        </button>
+        <button class="sheet-tab" type="button" role="tab" aria-selected="false" data-sheet="images/image4.jpg" data-alt="Fiche surnaturelle de la sorcière : livre des ombres, hubris et corruption" data-title="La sorcière">
+          <span class="sheet-tab-number">04</span><span class="sheet-tab-copy"><strong>La sorcière</strong><small>Livre des ombres, hubris et corruption</small></span><img src="images/image4.jpg" width="48" height="69" loading="lazy" alt="">
+        </button>
+        <button class="sheet-tab" type="button" role="tab" aria-selected="false" data-sheet="images/image5.jpg" data-alt="Fiche surnaturelle du vampire : danse macabre, pouvoirs de sang, soif et perversion" data-title="Le vampire">
+          <span class="sheet-tab-number">05</span><span class="sheet-tab-copy"><strong>Le vampire</strong><small>Danse macabre, pouvoirs de sang, soif et perversion</small></span><img src="images/image5.jpg" width="48" height="69" loading="lazy" alt="">
+        </button>
       </div>
     </div>
   </div>
@@ -853,7 +1170,7 @@
         <div class="icon">📖</div>
         <h3>Livre de règles</h3>
         <p>Le livre complet : création de personnage, système de jeu, environnement académique et règles des créatures surnaturelles.</p>
-        <span class="meta">PDF — Bêta 3.0 · Août 2026</span>
+        <span class="meta">PDF — Bêta 3.1 · Août 2026</span>
         <a class="btn btn-primary" href="Les%20monstres%20que%20nous%20sommes.pdf" download>Télécharger le PDF</a>
       </div>
       <div class="card">
@@ -869,9 +1186,14 @@
 
 <footer>
   <span class="brand">Les monstres que nous sommes</span>
-  Bêta 3.0 · Août 2026 — Un jeu de Thibaut Crespel<br>
+  Bêta 3.1 · Août 2026 — Un jeu de Thibaut Crespel<br>
   <a class="repo-link" href="https://github.com/Onirim/Les-monstres-que-nous-sommes">Code source & dernières mises à jour sur GitHub</a>
 </footer>
+
+<dialog class="sheet-dialog" aria-label="Aperçu agrandi d'une fiche de personnage">
+  <button class="sheet-dialog-close" type="button" aria-label="Fermer l'aperçu">×</button>
+  <img src="" alt="">
+</dialog>
 
 <script>
   (function () {
@@ -889,6 +1211,75 @@
       });
     }, { threshold: 0.12 });
     els.forEach(function (e) { obs.observe(e); });
+  })();
+
+  (function () {
+    var dialog = document.querySelector('.sheet-dialog');
+    var dialogImage = dialog.querySelector('img');
+    var closeButton = dialog.querySelector('.sheet-dialog-close');
+    var feature = document.querySelector('.sheet-feature');
+    var featureImage = feature.querySelector('img');
+    var counter = feature.querySelector('.sheet-counter');
+    var tabs = Array.from(document.querySelectorAll('.sheet-tab'));
+    var dots = Array.from(document.querySelectorAll('.sheet-dot'));
+    var activeSheet = 0;
+
+    function selectSheet(index, moveFocus) {
+      activeSheet = (index + tabs.length) % tabs.length;
+      var tab = tabs[activeSheet];
+      featureImage.src = tab.dataset.sheet;
+      featureImage.alt = tab.dataset.alt;
+      feature.setAttribute('aria-label', 'Agrandir la fiche ' + tab.dataset.title);
+      counter.textContent = 'Fiche ' + String(activeSheet + 1).padStart(2, '0') + ' / ' + String(tabs.length).padStart(2, '0');
+
+      tabs.forEach(function (item, itemIndex) {
+        var selected = itemIndex === activeSheet;
+        item.classList.toggle('is-active', selected);
+        item.setAttribute('aria-selected', selected ? 'true' : 'false');
+        item.tabIndex = selected ? 0 : -1;
+      });
+      dots.forEach(function (dot, dotIndex) {
+        dot.classList.toggle('is-active', dotIndex === activeSheet);
+      });
+
+      if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        featureImage.animate([
+          { opacity: 0.35, transform: 'scale(0.985)' },
+          { opacity: 1, transform: 'scale(1)' }
+        ], { duration: 280, easing: 'ease-out' });
+      }
+      if (moveFocus) tab.focus();
+    }
+
+    tabs.forEach(function (tab, index) {
+      tab.addEventListener('click', function () { selectSheet(index, false); });
+      tab.addEventListener('keydown', function (event) {
+        if (event.key === 'ArrowDown' || event.key === 'ArrowRight') {
+          event.preventDefault();
+          selectSheet(activeSheet + 1, true);
+        } else if (event.key === 'ArrowUp' || event.key === 'ArrowLeft') {
+          event.preventDefault();
+          selectSheet(activeSheet - 1, true);
+        }
+      });
+    });
+    document.querySelector('.sheet-previous').addEventListener('click', function () { selectSheet(activeSheet - 1, false); });
+    document.querySelector('.sheet-next').addEventListener('click', function () { selectSheet(activeSheet + 1, false); });
+    feature.addEventListener('click', function () {
+      var tab = tabs[activeSheet];
+      dialogImage.src = tab.dataset.sheet;
+      dialogImage.alt = tab.dataset.alt;
+      dialog.showModal();
+    });
+
+    closeButton.addEventListener('click', function () { dialog.close(); });
+    dialog.addEventListener('click', function (event) {
+      if (event.target === dialog) dialog.close();
+    });
+    dialog.addEventListener('close', function () {
+      dialogImage.src = '';
+      dialogImage.alt = '';
+    });
   })();
 </script>
 

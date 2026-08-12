@@ -14,7 +14,9 @@ Le monde matériel c'est le notre, celui où vos personnages évoluent, où les 
 
 *Le seuil, le goulet, la lisière, l'espace liminal*
 
-Le voile sépare le monde matériel du monde spirituel. L'épaisseur du voile est dépendant des émotions qui l'agitent. Plus les émotions dans une zone sont fortes, plus le voile s'amincit, devenant plus aisé à traverser. Ainsi, le voile tend à être plus mince durant les nuits de festivités, dans une forêt grouillante de vie, aux périodes d'examens stressants ou aux veillées funèbres par exemple. Le voile devient plus épais lorsque les émotions sont absentes ou très maîtrisées comme dans une zone industrielle, un laboratoire scientifique aseptisé ou un parking.
+Le voile sépare le monde matériel du monde spirituel. L'épaisseur du voile est dépendant des émotions qui l'agitent. Plus les émotions dans une zone sont fortes, plus le voile s'amincit, devenant plus aisé à traverser. Ainsi, le voile tend à être plus mince durant les nuits de festivités, dans une forêt grouillante de vie, aux périodes d'examens stressants ou aux veillées funèbres par exemple. Le voile devient plus épais lorsque les émotions sont absentes ou très maîtrisées comme dans une zone industrielle, un laboratoire scientifique aseptisé ou un parking. 
+
+Certains pouvoirs peuvent permettre aux créatures surnaturelles de déchirer le voile et de se glisser de l'autre côté, quittant le monde matériel pour le monde spirituel et vice versa. Déchirer ainsi le voile attire souvent des entités du monde spirituel qui ressentent cette anomalie.
 
 ## Le monde spirituel
 

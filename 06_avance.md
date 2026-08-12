@@ -1,8 +1,8 @@
 \cleardoublepage
 
-# Règles avancées
+# Environnement académique et relations
 
-**Les monstres que nous sommes** est un jeu se voulant simple et facile à prendre en main. Cependant, des MJ et joueurs vétérans pourraient souhaiter entrer plus en détail dans la vie de leurs personnages. Voici donc plusieurs règles avancées permettant de mettre en mouvement l'environnement académique (lycée et université) ainsi que la gestion des relations. La bonne pratique est de commencer un épisode par le test académique afin d'entrer dans la peau des personnages et de n'autoriser l'approfondissent que d'une seule relation par épisode et par personnage.
+**Les monstres que nous sommes** est un jeu se voulant simple et facile à prendre en main. Pour les MJ et joueurs à l'aise avec les règles de base, voici les règles complètes permettant de mettre en mouvement l'environnement académique (lycée et université) ainsi que la gestion des relations. La bonne pratique est de commencer un épisode par le test académique afin d'entrer dans la peau des personnages et de n'autoriser l'approfondissent que d'une seule relation par épisode et par personnage.
 
 ## L'environnement académique
 
@@ -12,25 +12,18 @@ Dans votre série, la vie au lycée ou à l'université est un élément aussi i
 
 Les résultats représentent le niveau de l'étudiant dans ses différents cours, qu'ils soient généraux ou liés au parcours choisi. De mauvais résultats auront sans doute un impact sur les relations du personnage avec sa famille ainsi que sur sa réputation au sein de l'établissement (sans parler de son avenir).
 
-| Score | Notation américaine | Notation française |
+| Score | Notation américaine | Niveau |
 | --- | --- | --- |
-| 80-100 | A+ | 16-20 |
-| 70-79 | A | 14-15 |
-| 60-69 | A- | 12-13 |
-| 55-59 | B+ | 11 |
-| 50-54 | B | 10 |
-| 45-49 | B- | 9 |
-| 40-44 | C+ | 8 |
-| 35-39 | C | 7 |
-| 30-34 | C- | 6 |
-| 25-29 | D+ | 5 |
-| 20-24 | D | 4 |
-| 1-19 | F | 0-3 |
+| 70-100 | A | Acquis |
+| 55-69 | B | Satisfaisant |
+| 40-54 | C | Fragile |
+| 25-39 | D | Insuffisant |
+| 1-24 | F | En échec |
 
-- **Notation A**: Le savoir est acquis, vos parents ne demanderont sans doute pas mieux et vous êtes considéré comme un étudiant sérieux.
-- **Notation B** : En cours d'acquisition mais insuffisant. Vos parents vous mettrons la pression et vous faites partie des étudiants qui doivent travailler sérieusement pour atteindre le A.
-- **Notation C** : Vous ne comprenez pas vos cours, au grand désespoir de vos parents. Si vous continuez ainsi, vous serez en échec dans vos études. Les autres étudiants vous considèrent comme un cancre.
-- **Notation D** : Vous êtes l'idiot du village ou vous le faites exprès ? C'est l'enfer à la maison et les autres étudiants vous considèrent sans doute comme quelqu'un d'assez bête.
+- **Notation A**: Le savoir est acquis, vos parents ne demanderont pas mieux et vous êtes considéré comme un étudiant sérieux.
+- **Notation B** : En cours d'acquisition et satisfaisant. Vos parents sont globalement rassurés bien qu'ils comptent sur vous travailler davantage et atteindre le A.
+- **Notation C** : Vous avez des difficultés en cours, au grand désespoir de vos parents qui vous mettent régulièrement la pression pour améliorer vos notes.
+- **Notation D** : Vos résultats sont fragiles et vos parents ne sont pas satisfaits. Vos parents cherchent des solutions pour le cancre que vous êtes et cela crée des tensions à la maison.
 - **Notation F** : Vous ne faites pas votre travail du tout, ne rendez pas vos devoirs, êtes absent la plupart du temps. Vous risquez le renvoi sous peu.
 
 De mauvaises notes peuvent aboutir à un conflit familial au cours duquel le personnage pourrait être forcé de réussir un test de résistance mentale ou subir un trauma de crise familiale. Faites comprendre à vos joueurs que les résultats scolaires ne sont pas une option !
@@ -69,43 +62,43 @@ Une fois testé la vie académique, le MJ peut vous demander un test d'incident 
 
 | 1d10 | Incident de résultats | 
 | --- | ------------ |
-| 1 | Vous êtes appelé au tableau pour une démonstration et vous vous trompez complètement. Vous subissez les moqueries de la salle de classe et subissez une case de stress mental. |
-| 2 | Alors que vous rendez l'un de vos devoirs, le professeur fait une remarque blessante sur votre capacité intellectuelle. Subissez une case de stress mental. |
-| 3 | Le proviseur veut vous voir dans son bureau à propos de votre avenir. Cela ne serait pas grave si l'un de vos parents ou tuteur n'était pas présent. Subissez une case de stress mental. |
-| 4 | Vos parents ont deux mots à vous dire au sujet de vos résultats et le dernier repas de famille était tendu. Subissez une case de stress mental. |
-| 5 | On vous accuse de tricher lors d'un examen devant toute la classe et vous devez vous en défendre. Subissez une case de stress mental.  |
-| 6 | Pour vous aider dans vos cours, l'un de vos professeurs vous offre une heure de colle à mettre à profit pour réviser. Subissez une case de stress mental. |
-| 7 | Vous devez travailler en groupes pour votre prochain projet, mais personne ne veut être avec vous. Subissez une case de stress mental. |
-| 8 | Un contrôle surprise tombe alors que vous n'avez absolument rien révisé, et votre note désastreuse est affichée au tableau des résultats. Subissez une case de stress mental. |
-| 9 | 	On vous surprend en train de copier sur votre voisin : c'est un zéro pointé, consigné dans votre dossier scolaire. Subissez une case de stress mental. |
-| 10 | Lors d'un oral, vous perdez tous vos moyens et bafouillez sans parvenir à répondre, sous le regard amusé de vos camarades. Subissez une case de stress mental. |
+| 1 | Vous êtes appelé au tableau pour une démonstration et vous vous trompez complètement. Subissez les moqueries de la salle de classe et subissez une case de stress mental ou faites le mariole pour sauver la face et perdez 3 points de résultat. |
+| 2 | Alors que vous rendez l'un de vos devoirs, le professeur fait une remarque blessante sur votre capacité intellectuelle. Subissez une case de stress mental ou rebiffez-vous et perdez 3 points de résultats. |
+| 3 | Le proviseur veut vous voir dans son bureau à propos de votre avenir. Cela ne serait pas grave si l'un de vos parents ou tuteur n'était pas présent. Subissez une case de stress mental ou tentez d'argumenter par tous les moyens et perdez 3 points de sérénité. |
+| 4 | Vos parents ont deux mots à vous dire au sujet de vos résultats et le dernier repas de famille était tendu. Subissez une case de stress mental ou trouvez des excuses et perdez 3 points de sérénité. |
+| 5 | On vous accuse de tricher lors d'un examen devant toute la classe et vous devez vous en défendre. Subissez une case de stress mental ou accusez un autre élève et perdez 3 points de popularité. |
+| 6 | Pour vous aider dans vos cours, l'un de vos professeurs vous offre une heure de colle à mettre à profit pour réviser. Subissez une case de stress mental ou trouvez un moyen de fuir la colle et perdez 3 points de résultats.|
+| 7 | Vous devez travailler en groupes pour votre prochain projet, mais personne ne veut être avec vous. Subissez une case de stress mental ou imposez-vous malgré tout et perdez 3 points de popularité. |
+| 8 | Un contrôle surprise tombe alors que vous n'avez absolument rien révisé, et votre note désastreuse est affichée au tableau des résultats. Subissez une case de stress mental ou passez un coup de marqueur sur votre note et perdez 3 points de sérénité. |
+| 9 | 	On vous surprend en train de copier sur votre voisin : c'est un zéro pointé, consigné dans votre dossier scolaire. Subissez une case de stress mental ou faites un scandale et quittez la classe en perdant 3 points de résultats. |
+| 10 | Lors d'un exposé devant la classe, vous perdez tous vos moyens, enchaînez les mauvais lapsus et bafouillez sans parvenir à répondre, sous le regard amusé de vos camarades. Subissez une case de stress mental ou quittez le tableau en perdant 3 points de résultats. |
 
 
 | 1d10 | Incident de popularité |
 | --- | ------------ |
-| 1 | On a écrit au marqueur des insultes inspirées (ou pas) sur votre casier. Vous entendez des élèves pouffer de rire. Subissez une case de stress mental. |
-| 2 | C'est en sortant des douches après le sport que vous vous rendez compte qu'on vous a dérobé vos sous-vêtements ! Subissez une case de stress mental. |
-| 3 | Un ou plusieurs élèves vous poussent sournoisement dans votre casier avant de le verrouiller. Heureusement on vient à votre secours quelques minutes plus tard. Subissez une case de stress mental. |
-| 4 | Quelqu'un a ouvert en grand votre rideau de douche alors que vous aviez de la mousse plein les yeux, c'était extrêmement humiliant ! Subissez une case de stress mental. |
-| 5 | Quelqu'un vous a fait un croc-en-jambe dans les escaliers et vous avez dévalé quelques marches. Subissez une case de stress physique. |
-| 6 | Vous recevez un petit papier à votre nom pendant un cours, transmis d'élève en élève. Vous l'ouvrez pour lire "FUCK YOU". Subissez une case de stress mental. |
-| 7 | On vous attrape dans la cours de l'académie et on vous jette dans une benne à ordure non loin, où vous vous cognez la tête. Subissez une case de stress physique. |
-| 8 | Aux toilettes, un message est inscrit à votre attention sur le miroir et il est loin d'être sympathique. Subissez une case de stress mental. |
-| 9 | Vous vous faites grossièrement draguer en pleine classe, c'est tellement lourd que c'est forcément malveillant. Subissez une case de stress mental. |
-| 10 | Quelqu'un a trouvé amusant de déposer une punaise sur votre siège en cours. Votre cri de douleur fait rire quelques élèves. Subissez une case de stress mental. |
+| 1 | On a écrit au marqueur des insultes inspirées (ou pas) sur votre casier. Vous entendez des élèves pouffer de rire. Subissez une case de stress mental ou allez interroger sans ménagement vos camarades amusez en perdant 3 points de popularité. |
+| 2 | C'est en sortant des douches après le sport que vous vous rendez compte qu'on vous a dérobé vos sous-vêtements ! Subissez une case de stress mental ou laissez tomber la pudeur et perdez 3 points de sérénité. |
+| 3 | Un ou plusieurs élèves vous poussent sournoisement dans votre casier avant de le verrouiller. Heureusement on vient à votre secours quelques minutes plus tard. Subissez une case de stress mental ou donnez de la voix pour qu'on vienne vous ouvrir et perdez 3 points de popularité. |
+| 4 | Quelqu'un a ouvert en grand votre rideau de douche alors que vous aviez de la mousse plein les yeux, c'était extrêmement humiliant ! Subissez une case de stress mental ou essayez de supporter le regard des autres avec dignité en perdant 3 points de sérénité. |
+| 5 | Quelqu'un vous a fait un croc-en-jambe dans les escaliers et vous avez dévalé quelques marches. Subissez une case de stress physique ou rattrapez-vous sur le premier camarade qui passe pour ralentir votre chute en perdant 3 points de popularité. |
+| 6 | Vous recevez un petit papier à votre nom pendant un cours, transmis d'élève en élève. Vous l'ouvrez pour lire "FUCK YOU". Subissez une case de stress mental ou dérangez la classe pour faire savoir à l'auteur que vous n'en pensez pas moins et perdez 3 points de résultat. |
+| 7 | On vous attrape dans la cours de l'académie et on vous jette dans une benne à ordure non loin, où vous vous cognez la tête. Subissez une case de stress physique ou appelez à l'aide pour qu'on vienne vous aider et perdez 3 points de popularité. |
+| 8 | Aux toilettes, un message est inscrit à votre attention sur le miroir et il est loin d'être sympathique. Subissez une case de stress mental ou inscrivez une insulte histoire d'améliorer l'ambiance générale en perdant 3 points de sérénité. |
+| 9 | Vous vous faites grossièrement draguer en pleine classe, c'est tellement lourd que c'est forcément malveillant. Subissez une case de stress mental ou jouez le jeu en ridiculisant votre prétendu prétendant et perdez 3 points de résultat. |
+| 10 | Quelqu'un a trouvé amusant de déposer une punaise sur votre siège en cours. Votre cri de douleur fait rire quelques élèves. Subissez une case de stress mental ou énervez-vous sur la classe et perdez 3 points de popularité. |
 
 | 1d10 | Incident de sérénité |
 | --- | ------------ |
-| 1 | Le système d'arrosage automatique se déclenche lorsque vous passez devant... vous finissez trempé. Subissez une case de stress mental. |
-| 2 | Vous avez oublié chez vos parents le devoir que vous deviez rendre, et personne ne vous croit. Subissez une case de stress mental. |
-| 3 | Avoir la tête ailleurs en cours de sport peut être dangereux. Vous vous blessez légèrement et subissez une case de stress physique. |
-| 4 | Vous avez égaré votre sac de cours et le retrouvez finalement aux objets trouvés. Il manque un livre. Subissez une case de stress mental. |
-| 5 | Attention ! Vous vous prenez une porte en pleine figure et finissez à l'infirmerie avec un saignement de nez. Subissez une case de stress physique. |
-| 6 | Vous avez du mal à vous concentrer et vous occupez autrement en classe. Vous écopez d'une heure de colle. Subissez une case de stress mental. |
-| 7 | Vous vous faites bousculer par mégarde près du distributeur de chocolat/café et renversez le contenu de votre gobelet sur vous. Subissez une case de stress mental. |
-| 8 | Vous glissez sur une flaque d'eau dans le couloir et vous étalez lourdement devant tout le monde. Subissez une case de stress physique. |
-| 9 | Quelqu'un vous emprunte votre matériel de cours sans jamais vous le rendre, et vous devez vous débrouiller sans pour le reste de la journée. Subissez une case de stress mental. |
-| 10 | Une migraine soudaine vous frappe en plein cours et vous devez sortir précipitamment sous le regard interrogateur de tous. Subissez une case de stress physique. |
+| 1 | Le système d'arrosage automatique se déclenche lorsque vous passez devant... vous finissez trempé. Subissez une case de stress mental ou protégez-vous avec votre sac de cours en abîmant un de vos devoirs et perdez 3 points de résultat. |
+| 2 | Vous avez oublié chez vos parents le devoir que vous deviez rendre, et votre professeur ne vous croit pas. Subissez une case de stress mental ou humiliez-vous pour demander une rallonge et perdez 3 points de popularité. |
+| 3 | Avoir la tête ailleurs en cours de sport peut être dangereux. Vous vous blessez légèrement et subissez une case de stress physique à moins que votre manque de concentration blesse plutôt l'un de vos camarades et que vous perdiez 3 points de popularité. |
+| 4 | Vous avez égaré votre sac de cours et le retrouvez finalement aux objets trouvés. Il manque un livre. Subissez une case de stress mental ou allez vous plaindre au bureau administratif et perdez 3 points de sérénité. |
+| 5 | Attention ! Vous vous prenez une porte en pleine figure et finissez à l'infirmerie avec un saignement de nez. Subissez une case de stress physique ou pleurez comme une madeleine pour supporter la douleur et perdez 3 points de popularité. |
+| 6 | Vous avez du mal à vous concentrer et vous occupez autrement en classe. Vous écopez d'une heure de colle. Subissez une case de stress mental ou décidez d'occuper votre heure de colle à ne rien faire non plus en perdant 3 points de résultats. |
+| 7 | Vous vous faites bousculer par mégarde près du distributeur de boissons chaudes et renversez le contenu de votre gobelet sur vous. Subissez une case de stress mental ou insultez copieusement le maladroit et perdez 3 points de popularité. |
+| 8 | Vous glissez sur une flaque d'eau dans le couloir et vous étalez lourdement devant tout le monde. Subissez une case de stress physique ou tombez plutôt sur votre sac en dégradant sérieusement vos précieuses affaires en perdant 3 points de sérénité. |
+| 9 | Quelqu'un vous emprunte votre matériel de cours sans jamais vous le rendre, et vous devez vous débrouiller sans pour le reste de la journée. Subissez une case de stress mental ou faites vous attraper par le professeur en train d'emprunter en cours et perdez 3 points de résultat. |
+| 10 | Une migraine soudaine vous frappe en plein cours et vous devez sortir précipitamment sous le regard interrogateur de tous. Subissez une case de stress physique ou quittez la salle de classe avec un trait d'humour maladroit et perdez 3 points de sérénité. |
 
 
 ## Relations suivies

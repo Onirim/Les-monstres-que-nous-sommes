@@ -6,8 +6,6 @@ Toutes les valeurs chiffrées d'une fiche de personnage sont exprimées en pourc
 
 Un résultat naturel de **01 sur le dé est toujours un succès**, alors qu'un résultat de **100 est toujours un échec**, quelle que soit la valeur testée.
 
-Lorsqu'un résultat naturel donne une valeur **double** (11, 44, 77, etc.), il s'agit d'un **résultat critique**. Si le test est réussi alors c'est une réussite critique, s'il est échoué on parle d'échec critique. Une réussite critique permet au personnage de récupérer l'une de ses cases de stress, alors qu'un échec critique fait cocher une case de stress au personnage (le type de stress doit être logique avec la fiction). Le MJ est encourage à décrire ces résultats critiques de manière exceptionnelle afin qu'ils soient marquants !
-
 ## Test de compétences
 
 Un test de compétence est basé sur la valeur de la compétence à laquelle on peut ajouter jusqu'à deux spécialités pouvant s'appliquer (donc pouvant apporter jusqu'à +20). Le MJ peut accorder un bonus ou un malus à un test en fonction de sa difficulté.
@@ -69,6 +67,18 @@ En combat, l’échec d’une épreuve ou d’un choc physique peut **mettre le 
 
 > Passant à côté de la jeune fille, son adversaire lui lance une insulte blessante. S'en est trop pour la jeune fille, qui jette sa crosse sur le côté et fonce sur le joueur indélicat pour lui apprendre les bonnes manières ! Le combat débute sur la glace. Personne ne réalise d'action en phase de distance. En phase de mouvement, Camille se rapproche en ligne droite de son adversaire, un jeune homme qui perdrait toute crédibilité s'il tentait de fuir : il attends donc, jetant sa crosse de côté lui aussi pour se préparer à réceptionner l'assaillante. En phase de mêlée, ça frappe dur : Camille est une bagarreuse et possède 70 en combat et son adversaire n'est pas en reste avec un 65, les deux vont tenter de blesser l'autre. Camille obtient 15 sur son dé, c'est une réussite mais de peu de valeur. Son adversaire obtient un 96, c'est un échec ! Camille lui fonce dessus, l'attrape par le vêtement et lui colle une bonne droite dans le casque. Son adversaire possède une résistance physique de 50. Sa protection lui octroie un bonus de +20 (voir le chapitre équipement) pour un total de 70. La volonté étant de faire mal, il faudra jouer une résistance de choc physique. Le MJ lance les dés pour le défenseur et obtient un 20 : c'est une réussite, qui lui fait tout de même cocher une case de stress physique. La phase finale n'a pas lieu d'être puisque les deux protagonistes ont déjà utilisé leur action, on devrait donc passer au tour suivant mais un arbitre arrive et sépare les deux jeunes gens, mettant fin au combat. Camille se voit contrainte de sortir du terrain pendant 2 minutes et lance un regard glacé à son adversaire qui se frotte la mâchoire sans se départir de son sourire narquois.
 
+## Les pouvoirs
+
+Certains personnages possèdent des pouvoirs qui leur apportent des bonus conséquents. Il existe deux types de pouvoirs : 
+- les **pouvoirs à valeur fixe** (par exemple un +10 en vigilance dû à un pouvoir de forme ou les sorts de la sorcière dont la valeur est toujours à 50).
+- les **pouvoir évolutifs** qui possédant leur propre score, qui commencent en général avec un score de 50 et qui peuvent évoluer avec le temps, tels que les pouvoirs de sang des vampires ou les pouvoirs personnels des loups-garous.
+
+Voici les quelques règles à respecter pour l'utilisation des pouvoirs :
+
+- Lorsqu'un pouvoir à peut apporter un bonus à une compétence, alors le bonus du pouvoir est ajouté au score de compétence. On ne peut jamais cumuler les bonus de deux pouvoirs sur un test, qu'ils soient à valeur fixe ou évolutifs. Dans ces cas, seul le plus élevé s'applique.
+- Lorsqu'un pouvoir est autonome et n'apporte pas de bonus à une compétence, il utilise son propre score s'il y a besoin de le tester.
+- On ne peut profiter des bonus d'un pouvoir que sur un seul attribut durant un tour de combat ou une action. Un pouvoir ne peut donc pas durant un même tour apporter un bonus en résistance et en compétence, ni à deux compétences différentes. Il apporte toutefois son bonus à chaque test du même attribut durant le tour.
+
 ## Le stress
 
 Tout au long d'un épisode, les personnages risquent de cumuler le **stress physique** aussi bien que le **stress mental**, et on ne s'en débarrasse pas si facilement. Ainsi, chaque personnage possède 5 cases de stress de chaque type (physique et mental). Chaque case de stress cochée impose un malus de **-10 à la résistance correspondante**. Pour se débarrasser d'une case de stress, il faut généralement une scène qui permette de justifier la récupération du stress. Dans le cas du stress physique, cela pourrait être des premiers soins, du repos ou des attentions particulières. Dans le cas du stress mental, le personnage doit agir en accord avec son **exutoire**. Dans ce cas, il récupère un point de stress. On ne peut utiliser son exutoire qu'une fois par séance. Le stress disparaît à la fin d’un épisode, sauf si celui-ci s’achève sur un cliffhanger et que l’épisode suivant reprend sans véritable interruption.
@@ -101,7 +111,7 @@ A la fin d’une séance, le MJ peut accorder de 1 à 5 coches d’expérience e
 
 A la fin d’un épisode, tous les losanges cochés donnent droit à un test de progression. Pour les **compétences**, **résistances** et **pouvoirs**, si le joueur obtient un résultat **strictement supérieur** à la valeur actuelle, celle-ci progresse du résultat d'1d6. Si le résultat est inférieur ou égal, celle-ci progresse tout de même mais d'un point seulement. Aucune valeur d'attribut ne peut descendre en dessous de 1 ni dépasser 100.
 
-Il est également possible d’obtenir une nouvelle **spécialité**. Dans ce cas, la valeur à tester est égale au nombre de spécialités possédées multipliées par 15. Le joueur doit obtenir un résultat strictement supérieur à cette valeur, et s’il réussit, alors il peut noter sa nouvelle spécialité sur sa fiche.
+Il est également possible d’obtenir une nouvelle **spécialité** jusqu'à un maximum de 7. Pour obtenir une nouvelle spécialité, la valeur à tester est égale au nombre de spécialités possédées multipliées par 15. Le joueur doit obtenir un résultat strictement supérieur à cette valeur, et s’il réussit, alors il peut noter sa nouvelle spécialité sur sa fiche.
 
 Les PJ surnaturels peuvent également augmenter certaines des valeurs de leurs fiches de créatures surnaturelles : 
 - La maîtrise de soi peut être augmentée de la même façon qu'une résistance physique ou mentale.
